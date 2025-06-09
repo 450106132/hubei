@@ -1,0 +1,1225 @@
+{
+  "ID": "905a039a-10a9-4613-abb8-0e4204aad3de",
+  "Version": "2.3.4",
+  "Name": "Ruanjiangqianfen_HeadNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1257,
+        "Children": [
+          {
+            "FontSize": 16,
+            "LabelText": "你的名字你的",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/lanting.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.572,
+              "Y": 22.0192
+            },
+            "Scale": {
+              "ScaleX": 0.82,
+              "ScaleY": 0.82
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -48.428,
+            "RightMargin": -49.572,
+            "TopMargin": -31.0192,
+            "BottomMargin": 13.0192,
+            "Tag": 1299,
+            "ActionTag": 1667596246,
+            "Size": {
+              "X": 98.0,
+              "Y": 18.0
+            },
+            "Name": "name",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/other/Z_offline.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.0,
+              "Y": 87.1141
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -48.5,
+            "RightMargin": -50.5,
+            "TopMargin": -136.6141,
+            "BottomMargin": 37.6141,
+            "Tag": 1301,
+            "ActionTag": -360029019,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "offline",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game_picture/bac_datingtoushangzhezhao.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 32,
+            "Scale9Width": 70,
+            "Scale9Height": 62,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 86.0677
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -56.5,
+            "RightMargin": -56.5,
+            "TopMargin": -145.0677,
+            "BottomMargin": 27.0677,
+            "Tag": 1302,
+            "ActionTag": 654777992,
+            "Size": {
+              "X": 113.0,
+              "Y": 118.0
+            },
+            "VisibleForFrame": false,
+            "Name": "headFrame",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "chat/happy.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 36,
+            "Scale9OriginY": 39,
+            "Scale9Width": 39,
+            "Scale9Height": 43,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 195.0198,
+              "Y": 38.1652
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 139.5198,
+            "RightMargin": -250.5198,
+            "TopMargin": -98.6652,
+            "BottomMargin": -22.3348,
+            "Tag": 1303,
+            "ActionTag": -1587418055,
+            "Size": {
+              "X": 111.0,
+              "Y": 121.0
+            },
+            "VisibleForFrame": false,
+            "Name": "emoji",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game_picture/dating1_06.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 21,
+            "Scale9Width": 56,
+            "Scale9Height": 57,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 88.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -49.0,
+            "RightMargin": -49.0,
+            "TopMargin": -137.5,
+            "BottomMargin": 38.5,
+            "Tag": 1308,
+            "ActionTag": -1904324949,
+            "Size": {
+              "X": 98.0,
+              "Y": 99.0
+            },
+            "Name": "nobody",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/ruanjiangqianfen/z.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 7,
+            "Scale9Width": 55,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.5522,
+              "Y": -12.0479
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -58.0522,
+            "RightMargin": -52.9478,
+            "TopMargin": -2.4521,
+            "BottomMargin": -26.5479,
+            "Tag": 180,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/gameTable/zong.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.4653,
+                  "Y": 11.0196
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1123,
+                  "Y": 0.38
+                },
+                "PreSize": {
+                  "X": 0.2072,
+                  "Y": 0.7931
+                },
+                "LeftMargin": 0.9653,
+                "RightMargin": 87.0347,
+                "TopMargin": 6.4804,
+                "BottomMargin": -0.4804,
+                "Tag": 183,
+                "ActionTag": -1226246455,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 23.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_zong",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5128,
+                  "ScaleY": 0.5177
+                },
+                "Position": {
+                  "X": 70.1268,
+                  "Y": 12.0399
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 234,
+                  "G": 232,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6318,
+                  "Y": 0.4152
+                },
+                "PreSize": {
+                  "X": 0.8288,
+                  "Y": 0.931
+                },
+                "LeftMargin": 22.9492,
+                "RightMargin": -3.9492,
+                "TopMargin": 3.938,
+                "BottomMargin": -1.938,
+                "Tag": 186,
+                "ActionTag": -1578298808,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 27.0
+                },
+                "Name": "score_zong",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1606351922,
+            "Size": {
+              "X": 111.0,
+              "Y": 29.0
+            },
+            "Name": "score_bg1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/ruanjiangqianfen/f.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 7,
+            "Scale9Width": 55,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.5522,
+              "Y": -51.1622
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -58.0522,
+            "RightMargin": -52.9478,
+            "TopMargin": 36.6622,
+            "BottomMargin": -65.6622,
+            "Tag": 181,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "100000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.1658,
+                  "Y": 13.5202
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6231,
+                  "Y": 0.4662
+                },
+                "PreSize": {
+                  "X": 0.8288,
+                  "Y": 0.931
+                },
+                "LeftMargin": 23.1658,
+                "RightMargin": -4.1658,
+                "TopMargin": 1.9798,
+                "BottomMargin": 0.0202,
+                "Tag": 187,
+                "ActionTag": 173833288,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 27.0
+                },
+                "Name": "score_fen",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/gameTable/fen.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.4653,
+                  "Y": 11.8539
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1123,
+                  "Y": 0.4088
+                },
+                "PreSize": {
+                  "X": 0.2072,
+                  "Y": 0.7931
+                },
+                "LeftMargin": 0.9653,
+                "RightMargin": 87.0347,
+                "TopMargin": 5.6461,
+                "BottomMargin": 0.3539,
+                "Tag": 184,
+                "ActionTag": -539351265,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 23.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_fen",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1160201881,
+            "Size": {
+              "X": 111.0,
+              "Y": 29.0
+            },
+            "Name": "score_bg2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/ruanjiangqianfen/x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 7,
+            "Scale9Width": 55,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.5522,
+              "Y": -90.2766
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -58.0522,
+            "RightMargin": -52.9478,
+            "TopMargin": 75.7766,
+            "BottomMargin": -104.7766,
+            "Tag": 182,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/gameTable/img_xi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.4653,
+                  "Y": 12.6879
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1123,
+                  "Y": 0.4375
+                },
+                "PreSize": {
+                  "X": 0.2072,
+                  "Y": 0.7931
+                },
+                "LeftMargin": 0.9653,
+                "RightMargin": 87.0347,
+                "TopMargin": 4.8121,
+                "BottomMargin": 1.1879,
+                "Tag": 185,
+                "ActionTag": 1409978403,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 23.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_xifen",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.1658,
+                  "Y": 13.4074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6231,
+                  "Y": 0.4623
+                },
+                "PreSize": {
+                  "X": 0.8288,
+                  "Y": 0.931
+                },
+                "LeftMargin": 23.1658,
+                "RightMargin": -4.1658,
+                "TopMargin": 2.0926,
+                "BottomMargin": -0.0926,
+                "Tag": 188,
+                "ActionTag": 1912681644,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 27.0
+                },
+                "Name": "score_xifen",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1666892252,
+            "Size": {
+              "X": 111.0,
+              "Y": 29.0
+            },
+            "Name": "score_bg3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/ruanjiangqianfen/zx.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 7,
+            "Scale9Width": 75,
+            "Scale9Height": 15,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 9.4477,
+              "Y": -129.3909
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -56.0523,
+            "RightMargin": -74.9477,
+            "TopMargin": 114.8909,
+            "BottomMargin": -143.8909,
+            "Tag": 127,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/gameTable/totalXi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 29,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -6.5347,
+                  "Y": 11.6879
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0499,
+                  "Y": 0.403
+                },
+                "PreSize": {
+                  "X": 0.3282,
+                  "Y": 0.7931
+                },
+                "LeftMargin": -28.0347,
+                "RightMargin": 116.0347,
+                "TopMargin": 5.8121,
+                "BottomMargin": 0.1879,
+                "Tag": 128,
+                "ActionTag": 1040896933,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 23.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_totalxifen",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.1667,
+                  "Y": 11.4074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6578,
+                  "Y": 0.3934
+                },
+                "PreSize": {
+                  "X": 0.7023,
+                  "Y": 0.931
+                },
+                "LeftMargin": 40.1667,
+                "RightMargin": -1.1667,
+                "TopMargin": 4.0926,
+                "BottomMargin": -2.0926,
+                "Tag": 129,
+                "ActionTag": -2044064810,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 27.0
+                },
+                "Name": "score_totalxifen",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1394644265,
+            "Size": {
+              "X": 131.0,
+              "Y": 29.0
+            },
+            "Name": "score_bg4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/other/chatbg_ld.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 21,
+            "Scale9Width": 42,
+            "Scale9Height": 24,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 44.3995,
+              "Y": 98.687
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 44.3995,
+            "RightMargin": -164.3995,
+            "TopMargin": -131.687,
+            "BottomMargin": 65.687,
+            "Tag": 1304,
+            "Children": [
+              {
+                "FontSize": 26,
+                "LabelText": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 36.3337,
+                  "Y": 40.5296
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 85,
+                  "G": 39,
+                  "B": 8
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3028,
+                  "Y": 0.6141
+                },
+                "PreSize": {
+                  "X": 4.3583,
+                  "Y": 0.4545
+                },
+                "LeftMargin": 36.3337,
+                "RightMargin": -439.3337,
+                "TopMargin": 10.4704,
+                "BottomMargin": 25.5296,
+                "Tag": 1305,
+                "ActionTag": -604773434,
+                "Size": {
+                  "X": 523.0,
+                  "Y": 30.0
+                },
+                "Name": "chattext",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "animate/voice/0.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.3023,
+                  "Y": 40.7693
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3275,
+                  "Y": 0.6177
+                },
+                "PreSize": {
+                  "X": 0.1917,
+                  "Y": 0.4545
+                },
+                "LeftMargin": 27.8023,
+                "RightMargin": 69.1977,
+                "TopMargin": 10.2307,
+                "BottomMargin": 25.7693,
+                "Tag": 1306,
+                "ActionTag": -1152400873,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 30.0
+                },
+                "Name": "voicebg",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -747516356,
+            "Size": {
+              "X": 120.0,
+              "Y": 66.0
+            },
+            "VisibleForFrame": false,
+            "Name": "chatbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "10000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/lanting.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 9.5958,
+              "Y": -27.5443
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -50.4042,
+            "RightMargin": -69.5958,
+            "TopMargin": 12.5443,
+            "BottomMargin": -42.5443,
+            "Tag": 282,
+            "ActionTag": -1249584303,
+            "Size": {
+              "X": 120.0,
+              "Y": 30.0
+            },
+            "Name": "flyScore",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/paodekuaiTable/head_bottom.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 36,
+            "Scale9Width": 30,
+            "Scale9Height": 38,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.4513,
+              "Y": 89.6303
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -49.0487,
+            "RightMargin": -49.9513,
+            "TopMargin": -139.1303,
+            "BottomMargin": 40.1303,
+            "Tag": 427,
+            "Children": [
+              {
+                "CharWidth": 36,
+                "CharHeight": 48,
+                "LabelText": "30",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "playground/TG_countDown.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.5,
+                  "Y": 49.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.7273,
+                  "Y": 0.4848
+                },
+                "LeftMargin": 13.5,
+                "RightMargin": 13.5,
+                "TopMargin": 25.5,
+                "BottomMargin": 25.5,
+                "Tag": 428,
+                "ActionTag": -2015214250,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 48.0
+                },
+                "Name": "TG_CountDown",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 1013381824,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "countDownBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playground/tuoguan_1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 6,
+            "Scale9Width": 71,
+            "Scale9Height": 87,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 90.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -49.5,
+            "RightMargin": -49.5,
+            "TopMargin": -139.5,
+            "BottomMargin": 40.5,
+            "Tag": 429,
+            "ActionTag": 1163084582,
+            "Size": {
+              "X": 99.0,
+              "Y": 99.0
+            },
+            "Name": "tuoguan",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "head",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "animate/voice/0.png",
+        "chat/happy.png",
+        "fonts/lanting.TTF",
+        "game_picture/bac_datingtoushangzhezhao.png",
+        "game_picture/dating1_06.png",
+        "playground/TG_countDown.png",
+        "playground/tuoguan_1.png",
+        "playing/gameTable/fen.png",
+        "playing/gameTable/img_xi.png",
+        "playing/gameTable/totalXi.png",
+        "playing/gameTable/zong.png",
+        "playing/other/chatbg_ld.png",
+        "playing/other/Z_offline.png",
+        "playing/paodekuaiTable/head_bottom.png",
+        "playing/ruanjiangqianfen/f.png",
+        "playing/ruanjiangqianfen/x.png",
+        "playing/ruanjiangqianfen/z.png",
+        "playing/ruanjiangqianfen/zx.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

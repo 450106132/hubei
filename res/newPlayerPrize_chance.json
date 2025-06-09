@@ -1,0 +1,1877 @@
+{
+  "ID": "5d6bdc04-533b-42ca-81cf-0adf240412ec",
+  "Version": "2.3.4",
+  "Name": "newPlayerPrize_chance",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 195,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.0,
+            "RightMargin": 1.0,
+            "Tag": 203,
+            "ActionTag": 212976254,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 30,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/bg_choujiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 398,
+                "Scale9OriginY": 235,
+                "Scale9Width": 484,
+                "Scale9Height": 250,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 358.5627
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.498
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "TopMargin": 1.4373,
+                "BottomMargin": -1.4373,
+                "Tag": 296,
+                "ActionTag": -1411194949,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1236.2681,
+                  "Y": 675.6109
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9658,
+                  "Y": 0.9383
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.0986
+                },
+                "LeftMargin": 1201.2681,
+                "RightMargin": 8.7319,
+                "TopMargin": 8.8891,
+                "BottomMargin": 640.1109,
+                "Tag": 201,
+                "ActionTag": -1127874687,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 71.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/bg_shine1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 198,
+                "Scale9OriginY": 55,
+                "Scale9Width": 61,
+                "Scale9Height": 57,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -310.308,
+                  "Y": 548.1092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2424,
+                  "Y": 0.7613
+                },
+                "PreSize": {
+                  "X": 0.357,
+                  "Y": 0.2319
+                },
+                "LeftMargin": -538.808,
+                "RightMargin": 1361.808,
+                "TopMargin": 88.3908,
+                "BottomMargin": 464.6092,
+                "Tag": 583,
+                "ActionTag": -1096839429,
+                "Size": {
+                  "X": 457.0,
+                  "Y": 167.0
+                },
+                "Alpha": 0,
+                "Name": "bg_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/bg_shine2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 198,
+                "Scale9OriginY": 54,
+                "Scale9Width": 73,
+                "Scale9Height": 57,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -305.7185,
+                  "Y": 548.5203
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2388,
+                  "Y": 0.7618
+                },
+                "PreSize": {
+                  "X": 0.3664,
+                  "Y": 0.2292
+                },
+                "LeftMargin": -540.2185,
+                "RightMargin": 1351.2185,
+                "TopMargin": 88.9797,
+                "BottomMargin": 466.0203,
+                "Tag": 114,
+                "ActionTag": 850665460,
+                "Size": {
+                  "X": 469.0,
+                  "Y": 165.0
+                },
+                "Alpha": 0,
+                "Name": "bg_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 375.9742,
+                  "Y": 123.8119
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2937,
+                  "Y": 0.172
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 375.9742,
+                "RightMargin": 904.0259,
+                "TopMargin": 596.1881,
+                "BottomMargin": 123.8119,
+                "Tag": 259,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -102.9395,
+                      "Y": 448.7519
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -280.9395,
+                    "RightMargin": -75.0605,
+                    "TopMargin": -526.752,
+                    "BottomMargin": 370.7519,
+                    "Tag": 363,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 179.1953,
+                          "Y": 78.7473
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5034,
+                          "Y": 0.5048
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 1.1953,
+                        "RightMargin": -1.1953,
+                        "TopMargin": -0.7473,
+                        "BottomMargin": 0.7473,
+                        "Tag": 364,
+                        "ActionTag": 1501617671,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 77,
+                        "Scale9Height": 22,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 181.382,
+                          "Y": 87.906
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5095,
+                          "Y": 0.5635
+                        },
+                        "PreSize": {
+                          "X": 0.6208,
+                          "Y": 0.3846
+                        },
+                        "LeftMargin": 70.882,
+                        "RightMargin": 64.118,
+                        "TopMargin": 38.094,
+                        "BottomMargin": 57.906,
+                        "Tag": 365,
+                        "ActionTag": 926746264,
+                        "Size": {
+                          "X": 221.0,
+                          "Y": 60.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 859788208,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 265.7743,
+                      "Y": 448.7519
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 87.7743,
+                    "RightMargin": -443.7743,
+                    "TopMargin": -526.752,
+                    "BottomMargin": 370.7519,
+                    "Tag": 366,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 179.1954,
+                          "Y": 78.7473
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5034,
+                          "Y": 0.5048
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 1.1954,
+                        "RightMargin": -1.1954,
+                        "TopMargin": -0.7473,
+                        "BottomMargin": 0.7473,
+                        "Tag": 367,
+                        "ActionTag": -582978505,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_1.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 191.5992,
+                          "Y": 82.3992
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5382,
+                          "Y": 0.5282
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 39.5992,
+                        "RightMargin": 12.4008,
+                        "TopMargin": 18.1008,
+                        "BottomMargin": 26.8992,
+                        "Tag": 368,
+                        "ActionTag": -1624502030,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 56716332,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 634.4881,
+                      "Y": 448.7519
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 456.4881,
+                    "RightMargin": -812.4881,
+                    "TopMargin": -526.752,
+                    "BottomMargin": 370.7519,
+                    "Tag": 369,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 179.1957,
+                          "Y": 78.7473
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5034,
+                          "Y": 0.5048
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 1.1957,
+                        "RightMargin": -1.1957,
+                        "TopMargin": -0.7473,
+                        "BottomMargin": 0.7473,
+                        "Tag": 370,
+                        "ActionTag": 423026549,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_2.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 196.1204,
+                          "Y": 87.906
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5509,
+                          "Y": 0.5635
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 44.1204,
+                        "RightMargin": 7.8796,
+                        "TopMargin": 12.594,
+                        "BottomMargin": 32.406,
+                        "Tag": 371,
+                        "ActionTag": -523974045,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 950168800,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -102.9395,
+                      "Y": 280.2204
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -280.9395,
+                    "RightMargin": -75.0605,
+                    "TopMargin": -358.2204,
+                    "BottomMargin": 202.2204,
+                    "Tag": 372,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.8085,
+                          "Y": 78.5884
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5023,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.8085,
+                        "RightMargin": -0.8085,
+                        "TopMargin": -0.5884,
+                        "BottomMargin": 0.5884,
+                        "Tag": 373,
+                        "ActionTag": -1289499398,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_3.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 194.9812,
+                          "Y": 84.5988
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5477,
+                          "Y": 0.5423
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 42.9812,
+                        "RightMargin": 9.0188,
+                        "TopMargin": 15.9012,
+                        "BottomMargin": 29.0988,
+                        "Tag": 374,
+                        "ActionTag": -1026157076,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -2131697282,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 263.5239,
+                      "Y": 280.2204
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 85.5239,
+                    "RightMargin": -441.5239,
+                    "TopMargin": -358.2204,
+                    "BottomMargin": 202.2204,
+                    "Tag": 375,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.8087,
+                          "Y": 78.5884
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5023,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.8087,
+                        "RightMargin": -0.8087,
+                        "TopMargin": -0.5884,
+                        "BottomMargin": 0.5884,
+                        "Tag": 376,
+                        "ActionTag": -252290605,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 111,
+                        "Scale9Height": 22,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 184.7996,
+                          "Y": 86.7984
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5191,
+                          "Y": 0.5564
+                        },
+                        "PreSize": {
+                          "X": 0.7163,
+                          "Y": 0.3846
+                        },
+                        "LeftMargin": 57.2996,
+                        "RightMargin": 43.7004,
+                        "TopMargin": 39.2016,
+                        "BottomMargin": 56.7984,
+                        "Tag": 377,
+                        "ActionTag": -1681337287,
+                        "Size": {
+                          "X": 255.0,
+                          "Y": 60.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -824098377,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 634.4881,
+                      "Y": 280.2204
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 456.4881,
+                    "RightMargin": -812.4881,
+                    "TopMargin": -358.2204,
+                    "BottomMargin": 202.2204,
+                    "Tag": 378,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.8086,
+                          "Y": 78.5884
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5023,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.8086,
+                        "RightMargin": -0.8086,
+                        "TopMargin": -0.5884,
+                        "BottomMargin": 0.5884,
+                        "Tag": 379,
+                        "ActionTag": -144623621,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_5.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 190.46,
+                          "Y": 79.1076
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.535,
+                          "Y": 0.5071
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 38.46,
+                        "RightMargin": 13.54,
+                        "TopMargin": 21.3924,
+                        "BottomMargin": 23.6076,
+                        "Tag": 380,
+                        "ActionTag": -611694419,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1060070278,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -102.9395,
+                      "Y": 111.689
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -280.9395,
+                    "RightMargin": -75.0605,
+                    "TopMargin": -189.689,
+                    "BottomMargin": 33.689,
+                    "Tag": 381,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.5817,
+                          "Y": 78.5882
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5016,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.5817,
+                        "RightMargin": -0.5817,
+                        "TopMargin": -0.5882,
+                        "BottomMargin": 0.5882,
+                        "Tag": 382,
+                        "ActionTag": 350303202,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_6.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 189.3208,
+                          "Y": 80.1996
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5318,
+                          "Y": 0.5141
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 37.3208,
+                        "RightMargin": 14.6792,
+                        "TopMargin": 20.3004,
+                        "BottomMargin": 24.6996,
+                        "Tag": 383,
+                        "ActionTag": 365492159,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -190719643,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 263.5239,
+                      "Y": 111.689
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 85.5239,
+                    "RightMargin": -441.5239,
+                    "TopMargin": -189.689,
+                    "BottomMargin": 33.689,
+                    "Tag": 384,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.5817,
+                          "Y": 78.5882
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5016,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.5817,
+                        "RightMargin": -0.5817,
+                        "TopMargin": -0.5882,
+                        "BottomMargin": 0.5882,
+                        "Tag": 385,
+                        "ActionTag": 1561102625,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_7.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 160,
+                        "Scale9Height": 73,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 188.1816,
+                          "Y": 81.3072
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5286,
+                          "Y": 0.5212
+                        },
+                        "PreSize": {
+                          "X": 0.8539,
+                          "Y": 0.7115
+                        },
+                        "LeftMargin": 36.1816,
+                        "RightMargin": 15.8184,
+                        "TopMargin": 19.1928,
+                        "BottomMargin": 25.8072,
+                        "Tag": 386,
+                        "ActionTag": -1970239642,
+                        "Size": {
+                          "X": 304.0,
+                          "Y": 111.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 875083001,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "newPlayerPrize/bg_prize.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 326,
+                    "Scale9Height": 134,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 634.4881,
+                      "Y": 111.689
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 456.4881,
+                    "RightMargin": -812.4881,
+                    "TopMargin": -189.689,
+                    "BottomMargin": 33.689,
+                    "Tag": 387,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/bg_high.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 121,
+                        "Scale9OriginY": 54,
+                        "Scale9Width": 114,
+                        "Scale9Height": 48,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 178.5813,
+                          "Y": 78.5882
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5016,
+                          "Y": 0.5038
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 0.5813,
+                        "RightMargin": -0.5813,
+                        "TopMargin": -0.5882,
+                        "BottomMargin": 0.5882,
+                        "Tag": 388,
+                        "ActionTag": 972586698,
+                        "Size": {
+                          "X": 356.0,
+                          "Y": 156.0
+                        },
+                        "Name": "bg_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "newPlayerPrize/prize_8.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 72,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 111,
+                        "Scale9Height": 22,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 190.46,
+                          "Y": 84.5988
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.535,
+                          "Y": 0.5423
+                        },
+                        "PreSize": {
+                          "X": 0.7163,
+                          "Y": 0.3846
+                        },
+                        "LeftMargin": 62.96,
+                        "RightMargin": 38.04,
+                        "TopMargin": 41.4012,
+                        "BottomMargin": 54.5988,
+                        "Tag": 389,
+                        "ActionTag": 795692357,
+                        "Size": {
+                          "X": 255.0,
+                          "Y": 60.0
+                        },
+                        "Name": "bg_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1495325266,
+                    "Size": {
+                      "X": 356.0,
+                      "Y": 156.0
+                    },
+                    "Name": "prize_8",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -2115508208,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_prize",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/btn_choujiang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 415,
+                "Scale9Height": 91,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 974.3502,
+                  "Y": 91.1628
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7612,
+                  "Y": 0.1266
+                },
+                "PreSize": {
+                  "X": 0.3477,
+                  "Y": 0.1569
+                },
+                "LeftMargin": 751.8502,
+                "RightMargin": 83.1499,
+                "TopMargin": 572.3372,
+                "BottomMargin": 34.6628,
+                "Tag": 101,
+                "ActionTag": 525594679,
+                "Size": {
+                  "X": 445.0,
+                  "Y": 113.0
+                },
+                "Name": "prize_click",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 113512258,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "newPlayerPrize/bg_choujiang.png",
+        "newPlayerPrize/bg_high.png",
+        "newPlayerPrize/bg_prize.png",
+        "newPlayerPrize/bg_shine1.png",
+        "newPlayerPrize/bg_shine2.png",
+        "newPlayerPrize/btn_choujiang.png",
+        "newPlayerPrize/btn_close.png",
+        "newPlayerPrize/prize_0.png",
+        "newPlayerPrize/prize_1.png",
+        "newPlayerPrize/prize_2.png",
+        "newPlayerPrize/prize_3.png",
+        "newPlayerPrize/prize_4.png",
+        "newPlayerPrize/prize_5.png",
+        "newPlayerPrize/prize_6.png",
+        "newPlayerPrize/prize_7.png",
+        "newPlayerPrize/prize_8.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

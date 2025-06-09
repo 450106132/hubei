@@ -1,0 +1,1844 @@
+{
+  "ID": "5d6bdc04-533b-42ca-81cf-0adf240412ec",
+  "Version": "2.3.4",
+  "Name": "ShopOfJiFen_info",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 195,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.0,
+            "RightMargin": 1.0,
+            "Tag": 203,
+            "ActionTag": 212976254,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.408,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.408,
+            "RightMargin": -1.408,
+            "Tag": 56,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/bg_tanchuang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 216,
+                "Scale9OriginY": 227,
+                "Scale9Width": 848,
+                "Scale9Height": 266,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 185,
+                "ActionTag": -722832669,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/title_duihuan.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 10,
+                "Scale9Width": 28,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 637.5116,
+                  "Y": 611.4065
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4981,
+                  "Y": 0.8492
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.0431
+                },
+                "LeftMargin": 598.5116,
+                "RightMargin": 603.4884,
+                "TopMargin": 93.0935,
+                "BottomMargin": 595.9065,
+                "Tag": 272,
+                "ActionTag": -1895849496,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 31.0
+                },
+                "Name": "icon_title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/btn_yes.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 146,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 645.2031,
+                  "Y": 131.6044
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5041,
+                  "Y": 0.1828
+                },
+                "PreSize": {
+                  "X": 0.1375,
+                  "Y": 0.1042
+                },
+                "LeftMargin": 557.2031,
+                "RightMargin": 546.7969,
+                "TopMargin": 550.8956,
+                "BottomMargin": 94.1044,
+                "Tag": 443,
+                "ActionTag": -1742195344,
+                "Size": {
+                  "X": 176.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_yes",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "确认是： 放假奥斯卡复健科范德萨的说法发     ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 632.0266,
+                  "Y": 513.8038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 236,
+                  "G": 87,
+                  "B": 81
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4938,
+                  "Y": 0.7136
+                },
+                "PreSize": {
+                  "X": 0.443,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 348.5266,
+                "RightMargin": 364.4734,
+                "TopMargin": 189.1962,
+                "BottomMargin": 496.8038,
+                "Tag": 583,
+                "ActionTag": -555951586,
+                "Size": {
+                  "X": 567.0,
+                  "Y": 34.0
+                },
+                "Name": "Text_yes",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "请务必填写真实姓名和联系方式，以便兑换商品后准确发货。              ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 646.259,
+                  "Y": 475.5905
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 226,
+                  "G": 156,
+                  "B": 79
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5049,
+                  "Y": 0.6605
+                },
+                "PreSize": {
+                  "X": 0.4727,
+                  "Y": 0.0333
+                },
+                "LeftMargin": 343.759,
+                "RightMargin": 331.241,
+                "TopMargin": 232.4095,
+                "BottomMargin": 463.5905,
+                "Tag": 434,
+                "ActionTag": 1039433187,
+                "Size": {
+                  "X": 605.0,
+                  "Y": 24.0
+                },
+                "Name": "Text_desc",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/input_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 125,
+                "Scale9OriginY": 13,
+                "Scale9Width": 325,
+                "Scale9Height": 17,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.7405,
+                  "Y": 434.7438
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4959,
+                  "Y": 0.6038
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.0597
+                },
+                "LeftMargin": 347.2405,
+                "RightMargin": 357.7595,
+                "TopMargin": 263.7562,
+                "BottomMargin": 413.2438,
+                "Tag": 146,
+                "ActionTag": -1746601539,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 43.0
+                },
+                "Name": "input_ren",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/input_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 125,
+                "Scale9OriginY": 13,
+                "Scale9Width": 325,
+                "Scale9Height": 17,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.7405,
+                  "Y": 382.5255
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4959,
+                  "Y": 0.5313
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.0597
+                },
+                "LeftMargin": 347.2405,
+                "RightMargin": 357.7595,
+                "TopMargin": 315.9745,
+                "BottomMargin": 361.0255,
+                "Tag": 145,
+                "ActionTag": 1218502892,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 43.0
+                },
+                "Name": "input_number",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/input_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 125,
+                "Scale9OriginY": 13,
+                "Scale9Width": 325,
+                "Scale9Height": 17,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.7405,
+                  "Y": 326.527
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4959,
+                  "Y": 0.4535
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.0597
+                },
+                "LeftMargin": 347.2405,
+                "RightMargin": 357.7595,
+                "TopMargin": 371.973,
+                "BottomMargin": 305.027,
+                "Tag": 87,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/icon_jiantou.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 4,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 38,
+                    "Scale9Height": 33,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 555.1152,
+                      "Y": 20.4133
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9654,
+                      "Y": 0.4747
+                    },
+                    "PreSize": {
+                      "X": 0.08,
+                      "Y": 1.093
+                    },
+                    "LeftMargin": 532.1152,
+                    "RightMargin": -3.1152,
+                    "TopMargin": -0.9133,
+                    "BottomMargin": -3.0867,
+                    "Tag": 88,
+                    "ActionTag": 324201625,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 47.0
+                    },
+                    "Name": "img_arrow",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1371946863,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 43.0
+                },
+                "Name": "input_dizhi_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/input_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 125,
+                "Scale9OriginY": 13,
+                "Scale9Width": 325,
+                "Scale9Height": 67,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.7405,
+                  "Y": 240.2869
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4959,
+                  "Y": 0.3337
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.1292
+                },
+                "LeftMargin": 347.2405,
+                "RightMargin": 357.7595,
+                "TopMargin": 433.2131,
+                "BottomMargin": 193.7869,
+                "Tag": 144,
+                "ActionTag": 1860588246,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 93.0
+                },
+                "Name": "input_dizhi",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1047.5698,
+                  "Y": 593.2198
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8184,
+                  "Y": 0.8239
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 1018.5698,
+                "RightMargin": 203.4302,
+                "TopMargin": 97.7802,
+                "BottomMargin": 564.2198,
+                "Tag": 582,
+                "ActionTag": 1148034433,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "收 货 人:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.0755,
+                  "Y": 434.3586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 146,
+                  "G": 81,
+                  "B": 65
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2649,
+                  "Y": 0.6033
+                },
+                "PreSize": {
+                  "X": 0.0938,
+                  "Y": 0.0403
+                },
+                "LeftMargin": 219.0755,
+                "RightMargin": 940.9245,
+                "TopMargin": 271.1414,
+                "BottomMargin": 419.8586,
+                "Tag": 438,
+                "ActionTag": -549987591,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_ren",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "电话号码:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.0755,
+                  "Y": 390.0038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 146,
+                  "G": 81,
+                  "B": 65
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2649,
+                  "Y": 0.5417
+                },
+                "PreSize": {
+                  "X": 0.0953,
+                  "Y": 0.0403
+                },
+                "LeftMargin": 217.0755,
+                "RightMargin": 940.9245,
+                "TopMargin": 315.4962,
+                "BottomMargin": 375.5038,
+                "Tag": 435,
+                "ActionTag": -2143532963,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_desc_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "所在地区:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.0755,
+                  "Y": 330.5774
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 146,
+                  "G": 81,
+                  "B": 65
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2649,
+                  "Y": 0.4591
+                },
+                "PreSize": {
+                  "X": 0.0953,
+                  "Y": 0.0403
+                },
+                "LeftMargin": 217.0755,
+                "RightMargin": 940.9245,
+                "TopMargin": 374.9226,
+                "BottomMargin": 316.0774,
+                "Tag": 436,
+                "ActionTag": 717925005,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_desc_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "详细地址:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.0755,
+                  "Y": 274.436
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 146,
+                  "G": 81,
+                  "B": 65
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2649,
+                  "Y": 0.3812
+                },
+                "PreSize": {
+                  "X": 0.0953,
+                  "Y": 0.0403
+                },
+                "LeftMargin": 217.0755,
+                "RightMargin": 940.9245,
+                "TopMargin": 431.064,
+                "BottomMargin": 259.936,
+                "Tag": 437,
+                "ActionTag": 4698060,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_desc_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 76,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 176,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/bg_tanchuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 45,
+                    "Scale9OriginY": 45,
+                    "Scale9Width": 1190,
+                    "Scale9Height": 630,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 177,
+                    "ActionTag": 2111301648,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "bg_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/title_diqu.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 47,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 642.1676,
+                      "Y": 611.5327
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5017,
+                      "Y": 0.8494
+                    },
+                    "PreSize": {
+                      "X": 0.1039,
+                      "Y": 0.0431
+                    },
+                    "LeftMargin": 575.6676,
+                    "RightMargin": 571.3324,
+                    "TopMargin": 92.9673,
+                    "BottomMargin": 596.0327,
+                    "Tag": 178,
+                    "ActionTag": -1291596796,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 31.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "HorizontalType": "Align_HorizontalCenter",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 3,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 213.8146,
+                      "Y": 88.2945
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.167,
+                      "Y": 0.1226
+                    },
+                    "PreSize": {
+                      "X": 0.1953,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 213.8146,
+                    "RightMargin": 816.1854,
+                    "TopMargin": 181.7055,
+                    "BottomMargin": 88.2945,
+                    "Tag": 179,
+                    "ActionTag": 1430987560,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 450.0
+                    },
+                    "Name": "info_list",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "HorizontalType": "Align_HorizontalCenter",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 3,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 521.8146,
+                      "Y": 88.2944
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4077,
+                      "Y": 0.1226
+                    },
+                    "PreSize": {
+                      "X": 0.1953,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 521.8146,
+                    "RightMargin": 508.1854,
+                    "TopMargin": 181.7056,
+                    "BottomMargin": 88.2944,
+                    "Tag": 180,
+                    "ActionTag": 2081553167,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 450.0
+                    },
+                    "Name": "info_list_2",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "HorizontalType": "Align_HorizontalCenter",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 3,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 806.8146,
+                      "Y": 88.2945
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6303,
+                      "Y": 0.1226
+                    },
+                    "PreSize": {
+                      "X": 0.1953,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 806.8146,
+                    "RightMargin": 223.1854,
+                    "TopMargin": 181.7055,
+                    "BottomMargin": 88.2945,
+                    "Tag": 181,
+                    "ActionTag": -1008677100,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 450.0
+                    },
+                    "Name": "info_list_3",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1543.1611,
+                      "Y": 433.2882
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2056,
+                      "Y": 0.6018
+                    },
+                    "PreSize": {
+                      "X": 0.1953,
+                      "Y": 0.0694
+                    },
+                    "LeftMargin": 1543.1611,
+                    "RightMargin": -513.1611,
+                    "TopMargin": 236.7118,
+                    "BottomMargin": 433.2882,
+                    "Tag": 182,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ShopOfJiFen/bg_dizhi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 33,
+                        "Scale9OriginY": 7,
+                        "Scale9Width": 179,
+                        "Scale9Height": 35,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.972,
+                          "Y": 0.9
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 3.5,
+                        "TopMargin": 2.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 183,
+                        "ActionTag": -1351005738,
+                        "Size": {
+                          "X": 243.0,
+                          "Y": 45.0
+                        },
+                        "Name": "Image_bg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "新疆维吾尔族自治区",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 140,
+                          "G": 21,
+                          "B": 21
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.944,
+                          "Y": 0.62
+                        },
+                        "LeftMargin": 7.0,
+                        "RightMargin": 7.0,
+                        "TopMargin": 9.5,
+                        "BottomMargin": 9.5,
+                        "Tag": 184,
+                        "ActionTag": 2064276735,
+                        "Size": {
+                          "X": 236.0,
+                          "Y": 31.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1179677284,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 50.0
+                    },
+                    "Name": "info_cell",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "选择地址",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 643.9938,
+                      "Y": 620.5457
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5031,
+                      "Y": 0.8619
+                    },
+                    "PreSize": {
+                      "X": 0.0812,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 591.9938,
+                    "RightMargin": 584.0062,
+                    "TopMargin": 86.4543,
+                    "BottomMargin": 607.5457,
+                    "Tag": 185,
+                    "ActionTag": -898555003,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 26.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "txt_title",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_yes.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 181,
+                    "Scale9Height": 67,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1742.4742,
+                      "Y": 160.4837
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.3613,
+                      "Y": 0.2229
+                    },
+                    "PreSize": {
+                      "X": 0.1648,
+                      "Y": 0.1236
+                    },
+                    "LeftMargin": 1636.9742,
+                    "RightMargin": -567.9742,
+                    "TopMargin": 515.0163,
+                    "BottomMargin": 115.9837,
+                    "Tag": 186,
+                    "ActionTag": -2063780566,
+                    "Size": {
+                      "X": 211.0,
+                      "Y": 89.0
+                    },
+                    "Name": "btn_yes2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btn_close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 36,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1042.4241,
+                      "Y": 595.2213
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8144,
+                      "Y": 0.8267
+                    },
+                    "PreSize": {
+                      "X": 0.0523,
+                      "Y": 0.0903
+                    },
+                    "LeftMargin": 1008.9241,
+                    "RightMargin": 204.0759,
+                    "TopMargin": 92.2787,
+                    "BottomMargin": 562.7213,
+                    "Tag": 187,
+                    "ActionTag": -1706724550,
+                    "Size": {
+                      "X": 67.0,
+                      "Y": 65.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "ButtonText": "请选择省份",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 236,
+                      "G": 87,
+                      "B": 81
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_n.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 348.4805,
+                      "Y": 558.9794
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2723,
+                      "Y": 0.7764
+                    },
+                    "PreSize": {
+                      "X": 0.1125,
+                      "Y": 0.0486
+                    },
+                    "LeftMargin": 276.4805,
+                    "RightMargin": 859.5195,
+                    "TopMargin": 143.5206,
+                    "BottomMargin": 541.4794,
+                    "Tag": 188,
+                    "ActionTag": 45441570,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "ButtonText": "请选择城市",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 236,
+                      "G": 87,
+                      "B": 81
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_n.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 646.6008,
+                      "Y": 557.9364
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5052,
+                      "Y": 0.7749
+                    },
+                    "PreSize": {
+                      "X": 0.1125,
+                      "Y": 0.0486
+                    },
+                    "LeftMargin": 574.6008,
+                    "RightMargin": 561.3992,
+                    "TopMargin": 144.5636,
+                    "BottomMargin": 540.4364,
+                    "Tag": 189,
+                    "ActionTag": -1427621736,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "ButtonText": "请选择县/区",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 236,
+                      "G": 87,
+                      "B": 81
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/btnCity_n.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 936.1517,
+                      "Y": 558.6182
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7314,
+                      "Y": 0.7759
+                    },
+                    "PreSize": {
+                      "X": 0.1125,
+                      "Y": 0.0486
+                    },
+                    "LeftMargin": 864.1517,
+                    "RightMargin": 271.8483,
+                    "TopMargin": 143.8818,
+                    "BottomMargin": 541.1182,
+                    "Tag": 190,
+                    "ActionTag": 12239912,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_3",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1128240469,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg_infolist",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1661312538,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "ShopOfJiFen/bg_dizhi.png",
+        "ShopOfJiFen/bg_tanchuang.png",
+        "ShopOfJiFen/btn_close.png",
+        "ShopOfJiFen/btn_yes.png",
+        "ShopOfJiFen/btnCity_n.png",
+        "ShopOfJiFen/btnCity_s.png",
+        "ShopOfJiFen/btnCity_yes.png",
+        "ShopOfJiFen/icon_jiantou.png",
+        "ShopOfJiFen/input_1.png",
+        "ShopOfJiFen/input_2.png",
+        "ShopOfJiFen/title_diqu.png",
+        "ShopOfJiFen/title_duihuan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

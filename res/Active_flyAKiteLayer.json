@@ -1,0 +1,3652 @@
+{
+  "ID": "a60a60fd-e8a6-43cd-b45d-3d00fa82eb83",
+  "Version": "2.3.4",
+  "Name": "Active_flyAKiteLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 179,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.8578,
+              "Y": 362.3967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.1422,
+            "RightMargin": 1.1422,
+            "TopMargin": -2.3967,
+            "BottomMargin": 2.3967,
+            "Tag": 190,
+            "ActionTag": -1056029199,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "active/active_flyAKite/bg_kite.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 891,
+            "Scale9Height": 405,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9602,
+              "Y": 0.9542
+            },
+            "LeftMargin": 25.5,
+            "RightMargin": 25.5,
+            "TopMargin": 16.5,
+            "BottomMargin": 16.5,
+            "Tag": 180,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/close.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/close.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.0,
+                  "Y": 633.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0545,
+                  "Y": 0.9214
+                },
+                "PreSize": {
+                  "X": 0.074,
+                  "Y": 0.1019
+                },
+                "LeftMargin": 21.5,
+                "RightMargin": 1116.5,
+                "TopMargin": 19.0,
+                "BottomMargin": 598.0,
+                "Tag": 181,
+                "ActionTag": 1136910212,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 70.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 207.0,
+                  "Y": 628.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1684,
+                  "Y": 0.9141
+                },
+                "PreSize": {
+                  "X": 0.773,
+                  "Y": 0.0437
+                },
+                "LeftMargin": 207.0,
+                "RightMargin": 72.0,
+                "TopMargin": 29.0,
+                "BottomMargin": 628.0,
+                "Tag": 191,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "恭喜Kea抽到388礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0001,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.4667
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.7
+                    },
+                    "LeftMargin": 0.0001,
+                    "RightMargin": -0.0001,
+                    "TopMargin": 5.5,
+                    "BottomMargin": 3.5,
+                    "Tag": 192,
+                    "ActionTag": 253757963,
+                    "Size": {
+                      "X": 950.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_PMD",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 379234101,
+                "Size": {
+                  "X": 950.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_paomadeng",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "    活动时间:4月3日00:00至4月10日23:59    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 374.0,
+                  "Y": 459.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 44,
+                  "G": 107,
+                  "B": 53
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3043,
+                  "Y": 0.6681
+                },
+                "PreSize": {
+                  "X": 0.4068,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 124.0,
+                "RightMargin": 605.0,
+                "TopMargin": 217.5,
+                "BottomMargin": 448.5,
+                "Tag": 193,
+                "ActionTag": 1385403359,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/paihang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/paihang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 196,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.0,
+                  "Y": 435.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0586,
+                  "Y": 0.6332
+                },
+                "PreSize": {
+                  "X": 0.0635,
+                  "Y": 0.3173
+                },
+                "LeftMargin": 33.0,
+                "RightMargin": 1118.0,
+                "TopMargin": 142.9999,
+                "BottomMargin": 326.0001,
+                "Tag": 194,
+                "ActionTag": -465974996,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 218.0
+                },
+                "Name": "btn_paihang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/btn_rule.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/btn_rule.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 50,
+                "Scale9Height": 196,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 76.0,
+                  "Y": 188.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0618,
+                  "Y": 0.2737
+                },
+                "PreSize": {
+                  "X": 0.0651,
+                  "Y": 0.3173
+                },
+                "LeftMargin": 36.0,
+                "RightMargin": 1113.0,
+                "TopMargin": 390.0,
+                "BottomMargin": 79.0,
+                "Tag": 195,
+                "ActionTag": -272471996,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 218.0
+                },
+                "Name": "btn_rule",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/fly_a_kite.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 45,
+                "Scale9OriginY": 26,
+                "Scale9Width": 49,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 273.2936,
+                  "Y": 343.9021
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2224,
+                  "Y": 0.5006
+                },
+                "PreSize": {
+                  "X": 0.1131,
+                  "Y": 0.1179
+                },
+                "LeftMargin": 203.7936,
+                "RightMargin": 886.2064,
+                "TopMargin": 302.5979,
+                "BottomMargin": 303.4021,
+                "Tag": 196,
+                "ActionTag": 856902411,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 81.0
+                },
+                "Name": "fly_kite",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/kite.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 61,
+                "Scale9OriginY": 60,
+                "Scale9Width": 63,
+                "Scale9Height": 64,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 487.9508,
+                  "Y": 331.7084
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.397,
+                  "Y": 0.4828
+                },
+                "PreSize": {
+                  "X": 0.1505,
+                  "Y": 0.2678
+                },
+                "LeftMargin": 395.4508,
+                "RightMargin": 648.5492,
+                "TopMargin": 263.2916,
+                "BottomMargin": 239.7084,
+                "Tag": 197,
+                "ActionTag": -132873064,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 184.0
+                },
+                "Name": "kite",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/once.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 137,
+                "Scale9Height": 39,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 228.8777,
+                  "Y": 162.7152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1862,
+                  "Y": 0.2368
+                },
+                "PreSize": {
+                  "X": 0.1359,
+                  "Y": 0.0888
+                },
+                "LeftMargin": 145.3777,
+                "RightMargin": 916.6223,
+                "TopMargin": 493.7848,
+                "BottomMargin": 132.2152,
+                "Tag": 198,
+                "ActionTag": 1799345676,
+                "Size": {
+                  "X": 167.0,
+                  "Y": 61.0
+                },
+                "Name": "btn_once",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/ten.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 234,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 468.4521,
+                  "Y": 176.7152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3812,
+                  "Y": 0.2572
+                },
+                "PreSize": {
+                  "X": 0.2148,
+                  "Y": 0.1412
+                },
+                "LeftMargin": 336.4521,
+                "RightMargin": 628.5479,
+                "TopMargin": 461.7848,
+                "BottomMargin": 128.2152,
+                "Tag": 199,
+                "ActionTag": -1481646768,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_ten",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "您可以进行 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 273.6565,
+                  "Y": 84.6629
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2227,
+                  "Y": 0.1232
+                },
+                "PreSize": {
+                  "X": 0.1041,
+                  "Y": 0.0422
+                },
+                "LeftMargin": 209.6565,
+                "RightMargin": 891.3435,
+                "TopMargin": 587.8371,
+                "BottomMargin": 70.1629,
+                "Tag": 200,
+                "ActionTag": 275342913,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 362.8195,
+                  "Y": 87.1629
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 241,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2952,
+                  "Y": 0.1269
+                },
+                "PreSize": {
+                  "X": 0.0537,
+                  "Y": 0.0582
+                },
+                "LeftMargin": 329.8195,
+                "RightMargin": 833.1805,
+                "TopMargin": 579.8371,
+                "BottomMargin": 67.1629,
+                "Tag": 201,
+                "ActionTag": -1345288513,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_Num",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "次抽奖 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.5376,
+                  "Y": 84.6629
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3487,
+                  "Y": 0.1232
+                },
+                "PreSize": {
+                  "X": 0.0635,
+                  "Y": 0.0422
+                },
+                "LeftMargin": 389.5376,
+                "RightMargin": 761.4624,
+                "TopMargin": 587.8371,
+                "BottomMargin": 70.1629,
+                "Tag": 202,
+                "ActionTag": 25460095,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/kuang.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/kuang.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/gou.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 250.6564,
+                  "Y": 49.4705
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.204,
+                  "Y": 0.072
+                },
+                "PreSize": {
+                  "X": 0.035,
+                  "Y": 0.067
+                },
+                "LeftMargin": 229.1564,
+                "RightMargin": 956.8436,
+                "TopMargin": 614.5295,
+                "BottomMargin": 26.4705,
+                "Tag": 203,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "勾选跳过抽奖动画    ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2558,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 4.1395,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": 54.0,
+                    "RightMargin": -189.0,
+                    "TopMargin": 11.5,
+                    "BottomMargin": 11.5,
+                    "Tag": 204,
+                    "ActionTag": 1812674897,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_8",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1826131373,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 46.0
+                },
+                "Name": "CheckBox_1",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 719.9704,
+                  "Y": 511.7556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5858,
+                  "Y": 0.7449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 660.4704,
+                "RightMargin": 449.5296,
+                "TopMargin": 111.7444,
+                "BottomMargin": 448.2556,
+                "Tag": 205,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 79,
+                    "ActionTag": 1605018287,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 207,
+                    "ActionTag": 888693389,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 211,
+                    "ActionTag": -1048239912,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1447151744,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 853.2319,
+                  "Y": 511.7556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6942,
+                  "Y": 0.7449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 793.7319,
+                "RightMargin": 316.2681,
+                "TopMargin": 111.7444,
+                "BottomMargin": 448.2556,
+                "Tag": 212,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 80,
+                    "ActionTag": -863662482,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 214,
+                    "ActionTag": 1293349689,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 215,
+                    "ActionTag": -1245678398,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1977343867,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.4934,
+                  "Y": 511.7556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8027,
+                  "Y": 0.7449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 926.9934,
+                "RightMargin": 183.0066,
+                "TopMargin": 111.7444,
+                "BottomMargin": 448.2556,
+                "Tag": 220,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 81,
+                    "ActionTag": 1445191446,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 222,
+                    "ActionTag": 1871534622,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 223,
+                    "ActionTag": -1142293011,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1666117667,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1119.7549,
+                  "Y": 511.7557
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9111,
+                  "Y": 0.7449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 1060.2549,
+                "RightMargin": 49.7451,
+                "TopMargin": 111.7443,
+                "BottomMargin": 448.2557,
+                "Tag": 224,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 82,
+                    "ActionTag": 1209728535,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 226,
+                    "ActionTag": -1120961216,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 227,
+                    "ActionTag": -1822945214,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1306857810,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 719.9703,
+                  "Y": 374.3354
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5858,
+                  "Y": 0.5449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 660.4703,
+                "RightMargin": 449.5297,
+                "TopMargin": 249.1646,
+                "BottomMargin": 310.8354,
+                "Tag": 228,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 83,
+                    "ActionTag": -369505344,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 230,
+                    "ActionTag": 1631318579,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 231,
+                    "ActionTag": -1854771153,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1869890060,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 853.2319,
+                  "Y": 374.3354
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6942,
+                  "Y": 0.5449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 793.7319,
+                "RightMargin": 316.2681,
+                "TopMargin": 249.1646,
+                "BottomMargin": 310.8354,
+                "Tag": 232,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 84,
+                    "ActionTag": -717814318,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 234,
+                    "ActionTag": -138211976,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 235,
+                    "ActionTag": -550431878,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 671974525,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.4934,
+                  "Y": 374.3354
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8027,
+                  "Y": 0.5449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 926.9934,
+                "RightMargin": 183.0066,
+                "TopMargin": 249.1646,
+                "BottomMargin": 310.8354,
+                "Tag": 236,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 85,
+                    "ActionTag": 983513845,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 238,
+                    "ActionTag": -545797396,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 239,
+                    "ActionTag": -164235149,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 318387187,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1119.7549,
+                  "Y": 374.3354
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9111,
+                  "Y": 0.5449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 1060.2549,
+                "RightMargin": 49.7451,
+                "TopMargin": 249.1646,
+                "BottomMargin": 310.8354,
+                "Tag": 240,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 86,
+                    "ActionTag": -1322370804,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 242,
+                    "ActionTag": 1218633321,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 243,
+                    "ActionTag": -1036371166,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 483739985,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 719.9705,
+                  "Y": 236.9152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5858,
+                  "Y": 0.3449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 660.4705,
+                "RightMargin": 449.5295,
+                "TopMargin": 386.5848,
+                "BottomMargin": 173.4152,
+                "Tag": 244,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 87,
+                    "ActionTag": -195951044,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 246,
+                    "ActionTag": 1080971950,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 247,
+                    "ActionTag": 1364768380,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -505425288,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 853.232,
+                  "Y": 236.9152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6942,
+                  "Y": 0.3449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 793.732,
+                "RightMargin": 316.268,
+                "TopMargin": 386.5848,
+                "BottomMargin": 173.4152,
+                "Tag": 248,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 89,
+                    "ActionTag": 610752173,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 250,
+                    "ActionTag": 1803720188,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 251,
+                    "ActionTag": -535540824,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1252689783,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.4935,
+                  "Y": 236.9152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8027,
+                  "Y": 0.3449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 926.9935,
+                "RightMargin": 183.0065,
+                "TopMargin": 386.5848,
+                "BottomMargin": 173.4152,
+                "Tag": 252,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 90,
+                    "ActionTag": -1182184389,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 254,
+                    "ActionTag": 2145283434,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 255,
+                    "ActionTag": 2053702764,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 374983110,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 41,
+                "Scale9Width": 41,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1119.7551,
+                  "Y": 236.9152
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9111,
+                  "Y": 0.3449
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 1060.2551,
+                "RightMargin": 49.7449,
+                "TopMargin": 386.5848,
+                "BottomMargin": 173.4152,
+                "Tag": 256,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 79.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.622
+                    },
+                    "PreSize": {
+                      "X": 1.1429,
+                      "Y": 0.8976
+                    },
+                    "LeftMargin": -8.5,
+                    "RightMargin": -8.5,
+                    "TopMargin": -9.0,
+                    "BottomMargin": 22.0,
+                    "Tag": 91,
+                    "ActionTag": -1172261008,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 114.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "888礼券",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 18.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 176,
+                      "G": 134,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1496
+                    },
+                    "PreSize": {
+                      "X": 0.605,
+                      "Y": 0.1654
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 23.5,
+                    "TopMargin": 97.5001,
+                    "BottomMargin": 8.4999,
+                    "Tag": 258,
+                    "ActionTag": -2085822746,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 44,
+                    "Scale9Width": 45,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.5,
+                      "Y": 63.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0672,
+                      "Y": 1.0551
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 259,
+                    "ActionTag": 527455575,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 134.0
+                    },
+                    "Name": "light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 2078734968,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 127.0
+                },
+                "Name": "item_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/btn_rewarded.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/btn_rewarded.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/btn_reward.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 161,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 918.4376,
+                  "Y": 121.6692
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7473,
+                  "Y": 0.1771
+                },
+                "PreSize": {
+                  "X": 0.1554,
+                  "Y": 0.1135
+                },
+                "LeftMargin": 822.9376,
+                "RightMargin": 215.0624,
+                "TopMargin": 526.3308,
+                "BottomMargin": 82.6692,
+                "Tag": 260,
+                "ActionTag": -1931522647,
+                "Size": {
+                  "X": 191.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_getReward",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "说明：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 705.0,
+                  "Y": 60.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5736,
+                  "Y": 0.0873
+                },
+                "PreSize": {
+                  "X": 0.0366,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 682.5,
+                "RightMargin": 501.5,
+                "TopMargin": 616.4999,
+                "BottomMargin": 49.5001,
+                "Tag": 261,
+                "ActionTag": 1078447166,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_shuoming",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "1.确认奖励，请到邮件处查看奖励详情并领奖。           \n2.邮件处奖励及时领取，未领取视为主动弃奖。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 733.9999,
+                  "Y": 49.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5972,
+                  "Y": 0.0713
+                },
+                "PreSize": {
+                  "X": 0.3474,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 733.9999,
+                "RightMargin": 68.0001,
+                "TopMargin": 617.0,
+                "BottomMargin": 28.0,
+                "Tag": 262,
+                "ActionTag": -1269739015,
+                "Size": {
+                  "X": 427.0,
+                  "Y": 42.0
+                },
+                "Name": "Text_des",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1377370103,
+            "Size": {
+              "X": 1229.0,
+              "Y": 687.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active/active_flyAKite/bg_kite.png",
+        "active/active_flyAKite/btn_reward.png",
+        "active/active_flyAKite/btn_rewarded.png",
+        "active/active_flyAKite/btn_rule.png",
+        "active/active_flyAKite/close.png",
+        "active/active_flyAKite/fly_a_kite.png",
+        "active/active_flyAKite/gou.png",
+        "active/active_flyAKite/kite.png",
+        "active/active_flyAKite/kuang.png",
+        "active/active_flyAKite/light.png",
+        "active/active_flyAKite/once.png",
+        "active/active_flyAKite/paihang.png",
+        "active/active_flyAKite/reward_bg.png",
+        "active/active_flyAKite/ten.png",
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBoxNode_Disable.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

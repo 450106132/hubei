@@ -1,0 +1,1369 @@
+{
+  "ID": "310a15c5-ebd7-4e82-a786-9c1bbfef7e59",
+  "Version": "2.3.4",
+  "Name": "Active_flyAKiteRanking",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 263,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.8578,
+              "Y": 362.3967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.1422,
+            "RightMargin": 1.1422,
+            "TopMargin": -2.3967,
+            "BottomMargin": 2.3967,
+            "Tag": 331,
+            "ActionTag": -531710827,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "active/active_flyAKite/paihang_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 437,
+            "Scale9Height": 315,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6055,
+              "Y": 0.8292
+            },
+            "LeftMargin": 252.5,
+            "RightMargin": 252.5,
+            "TopMargin": 61.5,
+            "BottomMargin": 61.5,
+            "Tag": 264,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/paihang_close.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/paihang_close.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 43,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 745.6639,
+                  "Y": 543.0042
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9621,
+                  "Y": 0.9096
+                },
+                "PreSize": {
+                  "X": 0.0942,
+                  "Y": 0.139
+                },
+                "LeftMargin": 709.1639,
+                "RightMargin": -7.1639,
+                "TopMargin": 12.4958,
+                "BottomMargin": 501.5042,
+                "Tag": 265,
+                "ActionTag": -2082859315,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 83.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "排    名 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.4948,
+                  "Y": 517.184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 182,
+                  "G": 121,
+                  "B": 50
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.8663
+                },
+                "PreSize": {
+                  "X": 0.0748,
+                  "Y": 0.0352
+                },
+                "LeftMargin": 75.4948,
+                "RightMargin": 641.5052,
+                "TopMargin": 69.316,
+                "BottomMargin": 506.684,
+                "Tag": 334,
+                "ActionTag": -1104935198,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_23",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "代理ID ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 260.9126,
+                  "Y": 517.184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 182,
+                  "G": 121,
+                  "B": 50
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3367,
+                  "Y": 0.8663
+                },
+                "PreSize": {
+                  "X": 0.0748,
+                  "Y": 0.0352
+                },
+                "LeftMargin": 231.9126,
+                "RightMargin": 485.0874,
+                "TopMargin": 69.316,
+                "BottomMargin": 506.684,
+                "Tag": 335,
+                "ActionTag": 1871819580,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_23_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "已放飞风筝数 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.2119,
+                  "Y": 517.184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 182,
+                  "G": 121,
+                  "B": 50
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.608,
+                  "Y": 0.8663
+                },
+                "PreSize": {
+                  "X": 0.1432,
+                  "Y": 0.0352
+                },
+                "LeftMargin": 415.7119,
+                "RightMargin": 248.2881,
+                "TopMargin": 69.316,
+                "BottomMargin": 506.684,
+                "Tag": 336,
+                "ActionTag": -1389278389,
+                "Size": {
+                  "X": 111.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_23_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "奖    励 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 644.0289,
+                  "Y": 517.184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 182,
+                  "G": 121,
+                  "B": 50
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.831,
+                  "Y": 0.8663
+                },
+                "PreSize": {
+                  "X": 0.0748,
+                  "Y": 0.0352
+                },
+                "LeftMargin": 615.0289,
+                "RightMargin": 101.9711,
+                "TopMargin": 69.316,
+                "BottomMargin": 506.684,
+                "Tag": 337,
+                "ActionTag": -998575128,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_23_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -237,
+                "Scale9Width": 474,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 387.5003,
+                  "Y": 102.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1709
+                },
+                "PreSize": {
+                  "X": 0.9277,
+                  "Y": 0.67
+                },
+                "LeftMargin": 28.0003,
+                "RightMargin": 27.9997,
+                "TopMargin": 94.9998,
+                "BottomMargin": 102.0002,
+                "Tag": 332,
+                "ActionTag": -99882184,
+                "Size": {
+                  "X": 719.0,
+                  "Y": 400.0
+                },
+                "Name": "ListView",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -1010.0369,
+                  "Y": 100.1042
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.3033,
+                  "Y": 0.1677
+                },
+                "PreSize": {
+                  "X": 0.9277,
+                  "Y": 0.134
+                },
+                "LeftMargin": -1010.0369,
+                "RightMargin": 1066.0369,
+                "TopMargin": 416.8958,
+                "BottomMargin": 100.1042,
+                "Tag": 338,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/line.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 237,
+                    "Scale9Width": 245,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 359.5,
+                      "Y": 80.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.0125
+                    },
+                    "BottomMargin": 79.0,
+                    "Tag": 339,
+                    "ActionTag": 2130514794,
+                    "Size": {
+                      "X": 719.0,
+                      "Y": 1.0
+                    },
+                    "Name": "Image_line",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 36,
+                    "CharHeight": 47,
+                    "LabelText": "01",
+                    "StartChar": "0",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/num.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.0001,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0974,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1001,
+                      "Y": 0.5875
+                    },
+                    "LeftMargin": 34.0001,
+                    "RightMargin": 612.9999,
+                    "TopMargin": 16.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 340,
+                    "ActionTag": -2024292004,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 47.0
+                    },
+                    "Name": "AtlasLabel",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/rank_0.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 27,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0974,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1043,
+                      "Y": 0.5875
+                    },
+                    "LeftMargin": 32.5,
+                    "RightMargin": 611.5,
+                    "TopMargin": 16.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 344,
+                    "ActionTag": -537639881,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 47.0
+                    },
+                    "Name": "img_rank",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 162.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2253,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0807,
+                      "Y": 0.725
+                    },
+                    "LeftMargin": 133.0,
+                    "RightMargin": 528.0,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 119,
+                    "ActionTag": 408992145,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 58.0
+                    },
+                    "Name": "head",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "伍小冬伍小冬    ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 204.4262,
+                      "Y": 54.873
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 38,
+                      "B": 11
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2843,
+                      "Y": 0.6859
+                    },
+                    "PreSize": {
+                      "X": 0.1919,
+                      "Y": 0.2875
+                    },
+                    "LeftMargin": 204.4262,
+                    "RightMargin": 376.5738,
+                    "TopMargin": 13.627,
+                    "BottomMargin": 43.373,
+                    "Tag": 342,
+                    "ActionTag": 1963914610,
+                    "Size": {
+                      "X": 138.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "1000031",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 204.4262,
+                      "Y": 22.882
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 182,
+                      "G": 74,
+                      "B": 31
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2843,
+                      "Y": 0.286
+                    },
+                    "PreSize": {
+                      "X": 0.1168,
+                      "Y": 0.2875
+                    },
+                    "LeftMargin": 204.4262,
+                    "RightMargin": 430.5738,
+                    "TopMargin": 45.618,
+                    "BottomMargin": 11.382,
+                    "Tag": 343,
+                    "ActionTag": 757488727,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_ID",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "888888",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.0001,
+                      "Y": 40.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 182,
+                      "G": 74,
+                      "B": 31
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5925,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1043,
+                      "Y": 0.2875
+                    },
+                    "LeftMargin": 388.5001,
+                    "RightMargin": 255.4999,
+                    "TopMargin": 28.4999,
+                    "BottomMargin": 28.5001,
+                    "Tag": 345,
+                    "ActionTag": 1423889134,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_num",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "iPhone XS Max 一部",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 607.5658,
+                      "Y": 40.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 182,
+                      "G": 74,
+                      "B": 31
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.845,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2768,
+                      "Y": 0.2875
+                    },
+                    "LeftMargin": 508.0658,
+                    "RightMargin": 11.9342,
+                    "TopMargin": 28.4999,
+                    "BottomMargin": 28.5001,
+                    "Tag": 346,
+                    "ActionTag": -338606051,
+                    "Size": {
+                      "X": 199.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 260204184,
+                "Size": {
+                  "X": 719.0,
+                  "Y": 80.0
+                },
+                "Name": "item",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_flyAKite/rank_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 255,
+                "Scale9OriginY": 46,
+                "Scale9Width": 265,
+                "Scale9Height": 50,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 387.5,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2379
+                },
+                "TopMargin": 455.0,
+                "Tag": 333,
+                "Children": [
+                  {
+                    "CharWidth": 36,
+                    "CharHeight": 47,
+                    "LabelText": "01",
+                    "StartChar": "0",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/num.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 98.0,
+                      "Y": 51.0064
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1265,
+                      "Y": 0.3592
+                    },
+                    "PreSize": {
+                      "X": 0.0929,
+                      "Y": 0.331
+                    },
+                    "LeftMargin": 62.0,
+                    "RightMargin": 641.0,
+                    "TopMargin": 67.4936,
+                    "BottomMargin": 27.5064,
+                    "Tag": 349,
+                    "ActionTag": -1894820213,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 47.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_flyAKite/rank_0.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 27,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 98.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1265,
+                      "Y": 0.3662
+                    },
+                    "PreSize": {
+                      "X": 0.0968,
+                      "Y": 0.331
+                    },
+                    "LeftMargin": 60.5,
+                    "RightMargin": 639.5,
+                    "TopMargin": 66.5,
+                    "BottomMargin": 28.5,
+                    "Tag": 350,
+                    "ActionTag": 1407788391,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 47.0
+                    },
+                    "Name": "img_rank",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 190.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2452,
+                      "Y": 0.3662
+                    },
+                    "PreSize": {
+                      "X": 0.0748,
+                      "Y": 0.4085
+                    },
+                    "LeftMargin": 161.0,
+                    "RightMargin": 556.0,
+                    "TopMargin": 61.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 118,
+                    "ActionTag": -768552714,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 58.0
+                    },
+                    "Name": "head",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "伍小冬伍小冬",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 232.43,
+                      "Y": 67.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2999,
+                      "Y": 0.4718
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.162
+                    },
+                    "LeftMargin": 232.43,
+                    "RightMargin": 419.57,
+                    "TopMargin": 63.5,
+                    "BottomMargin": 55.5,
+                    "Tag": 352,
+                    "ActionTag": -602721214,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "1000031",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 232.43,
+                      "Y": 37.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2999,
+                      "Y": 0.2606
+                    },
+                    "PreSize": {
+                      "X": 0.1084,
+                      "Y": 0.162
+                    },
+                    "LeftMargin": 232.43,
+                    "RightMargin": 458.57,
+                    "TopMargin": 93.5,
+                    "BottomMargin": 25.5,
+                    "Tag": 353,
+                    "ActionTag": 1729144982,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_ID",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "888888",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 454.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5858,
+                      "Y": 0.3662
+                    },
+                    "PreSize": {
+                      "X": 0.0968,
+                      "Y": 0.162
+                    },
+                    "LeftMargin": 416.5,
+                    "RightMargin": 283.5,
+                    "TopMargin": 78.5,
+                    "BottomMargin": 40.5,
+                    "Tag": 354,
+                    "ActionTag": -99341086,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_num",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "iPhone XS Max 一部",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 635.57,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8201,
+                      "Y": 0.3662
+                    },
+                    "PreSize": {
+                      "X": 0.2568,
+                      "Y": 0.162
+                    },
+                    "LeftMargin": 536.07,
+                    "RightMargin": 39.93,
+                    "TopMargin": 78.5,
+                    "BottomMargin": 40.5,
+                    "Tag": 355,
+                    "ActionTag": -857675486,
+                    "Size": {
+                      "X": 199.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_reward",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 734749613,
+                "Size": {
+                  "X": 775.0,
+                  "Y": 142.0
+                },
+                "Name": "Image_di",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1981516775,
+            "Size": {
+              "X": 775.0,
+              "Y": 597.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active/active_flyAKite/line.png",
+        "active/active_flyAKite/num.png",
+        "active/active_flyAKite/paihang_bg.png",
+        "active/active_flyAKite/paihang_close.png",
+        "active/active_flyAKite/rank_0.png",
+        "active/active_flyAKite/rank_di.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

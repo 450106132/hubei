@@ -1,0 +1,532 @@
+{
+  "ID": "b7a36668-624b-4817-af9e-724a03e04321",
+  "Version": "2.3.4",
+  "Name": "NiuShiBieFenPaiLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.3331,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4979,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.6669,
+            "RightMargin": 2.6669,
+            "Tag": 15,
+            "ActionTag": 1230805250,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/niushibie/fenpaiView.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 245,
+            "Scale9OriginY": 141,
+            "Scale9Width": 254,
+            "Scale9Height": 147,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5813,
+              "Y": 0.5958
+            },
+            "LeftMargin": 268.0,
+            "RightMargin": 268.0,
+            "TopMargin": 145.5,
+            "BottomMargin": 145.5,
+            "Tag": 16,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/niushibie/FenPaiTxt_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 10,
+                "Scale9Width": 54,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.674,
+                  "Y": 358.2816
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5735,
+                  "Y": 0.8352
+                },
+                "PreSize": {
+                  "X": 0.2097,
+                  "Y": 0.0746
+                },
+                "LeftMargin": 348.674,
+                "RightMargin": 239.326,
+                "TopMargin": 54.7184,
+                "BottomMargin": 342.2816,
+                "Tag": 18,
+                "ActionTag": 860114506,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 32.0
+                },
+                "Name": "fenpai_di",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/niushibie/fenpaiTitle.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 19,
+                "Scale9Width": 102,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 372.0,
+                  "Y": 407.3763
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9496
+                },
+                "PreSize": {
+                  "X": 0.4032,
+                  "Y": 0.1399
+                },
+                "LeftMargin": 222.0,
+                "RightMargin": 222.0,
+                "TopMargin": -8.3763,
+                "BottomMargin": 377.3763,
+                "Tag": 17,
+                "ActionTag": 437810707,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 60.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 422.6537,
+                  "Y": 356.7471
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 133,
+                  "G": 82,
+                  "B": 22
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5681,
+                  "Y": 0.8316
+                },
+                "PreSize": {
+                  "X": 0.1344,
+                  "Y": 0.0699
+                },
+                "LeftMargin": 372.6537,
+                "RightMargin": 271.3463,
+                "TopMargin": 57.2529,
+                "BottomMargin": 341.7471,
+                "Tag": 19,
+                "ActionTag": -902733465,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 30.0
+                },
+                "Name": "subScore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "剩余牌分：\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 287.3223,
+                  "Y": 344.418
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 133,
+                  "G": 82,
+                  "B": 22
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3862,
+                  "Y": 0.8028
+                },
+                "PreSize": {
+                  "X": 0.1438,
+                  "Y": 0.1259
+                },
+                "LeftMargin": 233.8223,
+                "RightMargin": 403.1777,
+                "TopMargin": 57.582,
+                "BottomMargin": 317.418,
+                "Tag": 20,
+                "ActionTag": -314808550,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 54.0
+                },
+                "Name": "Text_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/cardPic/baidi_puke.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 27,
+                "Scale9Width": 84,
+                "Scale9Height": 124,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.8915,
+                  "Y": 247.2412
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1396,
+                  "Y": 0.5763
+                },
+                "PreSize": {
+                  "X": 0.1613,
+                  "Y": 0.4149
+                },
+                "LeftMargin": 43.8915,
+                "RightMargin": 580.1085,
+                "TopMargin": 92.7588,
+                "BottomMargin": 158.2412,
+                "Tag": 92,
+                "ActionTag": -120877217,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 178.0
+                },
+                "VisibleForFrame": false,
+                "Name": "stand_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/cardPic/baidi_puke.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 27,
+                "Scale9Width": 84,
+                "Scale9Height": 124,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 439.0776,
+                  "Y": 247.2412
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5902,
+                  "Y": 0.5763
+                },
+                "PreSize": {
+                  "X": 0.1613,
+                  "Y": 0.4149
+                },
+                "LeftMargin": 379.0776,
+                "RightMargin": 244.9224,
+                "TopMargin": 92.7588,
+                "BottomMargin": 158.2412,
+                "Tag": 93,
+                "ActionTag": 392854459,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 178.0
+                },
+                "VisibleForFrame": false,
+                "Name": "stand_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/cardPic/baidi_puke.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 27,
+                "Scale9Width": 84,
+                "Scale9Height": 124,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.8915,
+                  "Y": 104.6428
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1396,
+                  "Y": 0.2439
+                },
+                "PreSize": {
+                  "X": 0.1613,
+                  "Y": 0.4149
+                },
+                "LeftMargin": 43.8915,
+                "RightMargin": 580.1085,
+                "TopMargin": 235.3572,
+                "BottomMargin": 15.6428,
+                "Tag": 94,
+                "ActionTag": 636011907,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 178.0
+                },
+                "VisibleForFrame": false,
+                "Name": "stand_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/cardPic/baidi_puke.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 27,
+                "Scale9Width": 84,
+                "Scale9Height": 124,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 439.0776,
+                  "Y": 103.0528
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5902,
+                  "Y": 0.2402
+                },
+                "PreSize": {
+                  "X": 0.1613,
+                  "Y": 0.4149
+                },
+                "LeftMargin": 379.0776,
+                "RightMargin": 244.9224,
+                "TopMargin": 236.9472,
+                "BottomMargin": 14.0528,
+                "Tag": 91,
+                "ActionTag": 388851182,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 178.0
+                },
+                "VisibleForFrame": false,
+                "Name": "stand_3",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -50176293,
+            "Size": {
+              "X": 744.0,
+              "Y": 429.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "playing/cardPic/baidi_puke.png",
+        "playing/niushibie/fenpaiTitle.png",
+        "playing/niushibie/FenPaiTxt_di.png",
+        "playing/niushibie/fenpaiView.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

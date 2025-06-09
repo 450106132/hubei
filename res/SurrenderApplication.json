@@ -1,0 +1,701 @@
+{
+  "ID": "fbbc65ac-e0df-4570-94fe-f28adc590dc4",
+  "Version": "2.3.4",
+  "Name": "SurrenderApplication",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -640.0,
+            "RightMargin": -640.0,
+            "TopMargin": -361.0,
+            "BottomMargin": -359.0,
+            "Tag": 181,
+            "ActionTag": 1782181862,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/xiaotanchuan2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 170,
+            "Scale9OriginY": 127,
+            "Scale9Width": 307,
+            "Scale9Height": 140,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -323.5,
+            "RightMargin": -323.5,
+            "TopMargin": -197.0,
+            "BottomMargin": -197.0,
+            "Tag": 38,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 27,
+                "LabelText": "投降申请",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.5,
+                  "Y": 356.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 168
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9036
+                },
+                "PreSize": {
+                  "X": 0.3091,
+                  "Y": 0.0939
+                },
+                "LeftMargin": 223.5,
+                "RightMargin": 223.5,
+                "TopMargin": 19.5,
+                "BottomMargin": 337.5,
+                "Tag": 296,
+                "ActionTag": -1101796625,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 37.0
+                },
+                "Name": "Text_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_66.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_66.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_60.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 107,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 194.1,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.3,
+                  "Y": 0.165
+                },
+                "PreSize": {
+                  "X": 0.2117,
+                  "Y": 0.1345
+                },
+                "LeftMargin": 125.6,
+                "RightMargin": 384.4,
+                "TopMargin": 302.5,
+                "BottomMargin": 38.5,
+                "Tag": 39,
+                "ActionTag": 261573171,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 53.0
+                },
+                "Name": "yes",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_65.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_65.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/xiaotanchuan_57.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 107,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 452.9,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.7,
+                  "Y": 0.165
+                },
+                "PreSize": {
+                  "X": 0.2117,
+                  "Y": 0.1345
+                },
+                "LeftMargin": 384.4,
+                "RightMargin": 125.6,
+                "TopMargin": 302.5,
+                "BottomMargin": 38.5,
+                "Tag": 40,
+                "ActionTag": -1929921974,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 53.0
+                },
+                "Name": "no",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "玩家[abcdhdfafdsij]申请投降",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.5,
+                  "Y": 275.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 68,
+                  "G": 51,
+                  "B": 51
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.698
+                },
+                "PreSize": {
+                  "X": 0.5317,
+                  "Y": 0.0761
+                },
+                "LeftMargin": 151.5,
+                "RightMargin": 151.5,
+                "TopMargin": 104.0,
+                "BottomMargin": 260.0,
+                "Tag": 42,
+                "ActionTag": -1407522131,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 30.0
+                },
+                "Name": "player0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "玩家[一二三四]申请投降阿萨德科技",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.5244,
+                  "Y": 243.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 113,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2852,
+                  "Y": 0.6168
+                },
+                "PreSize": {
+                  "X": 0.5317,
+                  "Y": 0.0635
+                },
+                "LeftMargin": 184.5244,
+                "RightMargin": 118.4756,
+                "TopMargin": 138.5,
+                "BottomMargin": 230.5,
+                "Tag": 44,
+                "ActionTag": -571091661,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 25.0
+                },
+                "Name": "player1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "玩家[一二三四]申请投降阿萨德科技",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.5244,
+                  "Y": 210.3333
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 113,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2852,
+                  "Y": 0.5338
+                },
+                "PreSize": {
+                  "X": 0.5317,
+                  "Y": 0.0635
+                },
+                "LeftMargin": 184.5244,
+                "RightMargin": 118.4756,
+                "TopMargin": 171.1667,
+                "BottomMargin": 197.8333,
+                "Tag": 45,
+                "ActionTag": 569487359,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 25.0
+                },
+                "Name": "player2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "玩家[一二三四]申请投降阿萨德科技",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.5244,
+                  "Y": 177.6667
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 113,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2852,
+                  "Y": 0.4509
+                },
+                "PreSize": {
+                  "X": 0.5317,
+                  "Y": 0.0635
+                },
+                "LeftMargin": 184.5244,
+                "RightMargin": 118.4756,
+                "TopMargin": 203.8333,
+                "BottomMargin": 165.1667,
+                "Tag": 46,
+                "ActionTag": 779769533,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 25.0
+                },
+                "Name": "player3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "玩家[一二三四]申请投降爱的看到",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 324.4705,
+                  "Y": 110.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 113,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 0.2792
+                },
+                "PreSize": {
+                  "X": 0.4977,
+                  "Y": 0.0635
+                },
+                "LeftMargin": 163.4705,
+                "RightMargin": 161.5295,
+                "TopMargin": 271.5,
+                "BottomMargin": 97.5,
+                "Tag": 43,
+                "ActionTag": 570132051,
+                "Size": {
+                  "X": 322.0,
+                  "Y": 25.0
+                },
+                "Name": "time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "玩家[一二三四]申请投降阿萨德科技",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.5244,
+                  "Y": 145.67
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 113,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2852,
+                  "Y": 0.3697
+                },
+                "PreSize": {
+                  "X": 0.5317,
+                  "Y": 0.0635
+                },
+                "LeftMargin": 184.5244,
+                "RightMargin": 118.4756,
+                "TopMargin": 235.83,
+                "BottomMargin": 133.17,
+                "Tag": 12,
+                "ActionTag": -752298771,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 25.0
+                },
+                "Name": "player4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2115898090,
+            "Size": {
+              "X": 647.0,
+              "Y": 394.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "common/xiaotanchuan2.png",
+        "fonts/lanting.TTF",
+        "joinGame/xiaotanchuan_57.png",
+        "joinGame/xiaotanchuan_60.png",
+        "joinGame/xiaotanchuan_65.png",
+        "joinGame/xiaotanchuan_66.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

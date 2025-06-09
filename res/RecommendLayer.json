@@ -1,0 +1,620 @@
+{
+  "ID": "7635bd91-f6d4-4e65-a657-39fab2ec997e",
+  "Version": "2.3.4",
+  "Name": "RecommendLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 206,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.8578,
+              "Y": 362.3967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.1422,
+            "RightMargin": 1.1422,
+            "TopMargin": -2.3967,
+            "BottomMargin": 2.3967,
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game_picture/bac_xiaotanchuan.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 527,
+            "Scale9Height": 285,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.12,
+              "Y": 339.552
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.504,
+              "Y": 0.4716
+            },
+            "PreSize": {
+              "X": 0.6758,
+              "Y": 0.7875
+            },
+            "LeftMargin": 212.62,
+            "RightMargin": 202.38,
+            "TopMargin": 96.948,
+            "BottomMargin": 56.052,
+            "Tag": 116,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_normal.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 37,
+                "Scale9Height": 45,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 845.2986,
+                  "Y": 530.2518
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9772,
+                  "Y": 0.9352
+                },
+                "PreSize": {
+                  "X": 0.0775,
+                  "Y": 0.1182
+                },
+                "LeftMargin": 811.7986,
+                "RightMargin": -13.7986,
+                "TopMargin": 3.2482,
+                "BottomMargin": 496.7518,
+                "Tag": 787,
+                "ActionTag": -1382836787,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 67.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/tuijianyouli_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.5,
+                  "Y": 541.5738
+                },
+                "Scale": {
+                  "ScaleX": 0.91,
+                  "ScaleY": 0.91
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9552
+                },
+                "PreSize": {
+                  "X": 0.4751,
+                  "Y": 0.1199
+                },
+                "LeftMargin": 227.0,
+                "RightMargin": 227.0,
+                "TopMargin": -8.5738,
+                "BottomMargin": 507.5738,
+                "Tag": 130,
+                "ActionTag": 794230353,
+                "Size": {
+                  "X": 411.0,
+                  "Y": 68.0
+                },
+                "Name": "biaotidi_01_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/jianglitongji.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.5,
+                  "Y": 376.8544
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6646
+                },
+                "PreSize": {
+                  "X": 1.0173,
+                  "Y": 0.3457
+                },
+                "LeftMargin": -7.5,
+                "RightMargin": -7.5,
+                "TopMargin": 92.1456,
+                "BottomMargin": 278.8544,
+                "Tag": 1459,
+                "ActionTag": 890074367,
+                "Size": {
+                  "X": 880.0,
+                  "Y": 196.0
+                },
+                "Name": "jianglitongji_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.3758,
+                  "Y": 393.1188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.56,
+                  "Y": 0.6933
+                },
+                "PreSize": {
+                  "X": 0.0462,
+                  "Y": 0.0511
+                },
+                "LeftMargin": 464.3758,
+                "RightMargin": 360.6242,
+                "TopMargin": 159.3812,
+                "BottomMargin": 378.6188,
+                "Tag": 1462,
+                "ActionTag": 1081678421,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_had_download",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4807,
+                  "ScaleY": 0.4936
+                },
+                "Position": {
+                  "X": 483.6073,
+                  "Y": 352.3195
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5591,
+                  "Y": 0.6214
+                },
+                "PreSize": {
+                  "X": 0.0462,
+                  "Y": 0.0511
+                },
+                "LeftMargin": 464.3793,
+                "RightMargin": 360.6207,
+                "TopMargin": 199.9949,
+                "BottomMargin": 338.0051,
+                "Tag": 1464,
+                "ActionTag": -1184252668,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_had_game",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.3758,
+                  "Y": 314.5844
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.56,
+                  "Y": 0.5548
+                },
+                "PreSize": {
+                  "X": 0.0462,
+                  "Y": 0.0511
+                },
+                "LeftMargin": 464.3758,
+                "RightMargin": 360.6242,
+                "TopMargin": 237.9156,
+                "BottomMargin": 300.0844,
+                "Tag": 926,
+                "ActionTag": -1901131193,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_had_money",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "说明：\n逻辑L:Djfalkj;df大楼附近adlfasdfj大楼附近阿萨德了房间拉低了房间房间",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.5,
+                  "Y": 205.075
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 177,
+                  "G": 126,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3617
+                },
+                "PreSize": {
+                  "X": 0.8092,
+                  "Y": 0.2028
+                },
+                "LeftMargin": 82.5,
+                "RightMargin": 82.5,
+                "TopMargin": 304.425,
+                "BottomMargin": 147.575,
+                "Tag": 1463,
+                "ActionTag": 392026520,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 115.0
+                },
+                "Name": "Text_desc",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_recommend.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 193,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.5,
+                  "Y": 90.0262
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1588
+                },
+                "PreSize": {
+                  "X": 0.2786,
+                  "Y": 0.1411
+                },
+                "LeftMargin": 312.0,
+                "RightMargin": 312.0,
+                "TopMargin": 436.9738,
+                "BottomMargin": 50.0262,
+                "Tag": 1686,
+                "ActionTag": -866972515,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 80.0
+                },
+                "Name": "Btn_recommed",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1692587304,
+            "Size": {
+              "X": 865.0,
+              "Y": 567.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "game_picture/bac_xiaotanchuan.png",
+        "game_picture/btn_recommend.png",
+        "game_picture/btn_x_normal.png",
+        "game_picture/btn_x_press.png",
+        "game_picture/jianglitongji.png",
+        "game_picture/tuijianyouli_1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

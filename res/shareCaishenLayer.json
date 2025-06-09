@@ -1,0 +1,181 @@
+{
+  "ID": "8b294661-6bba-4a1a-b4cd-26dd449fcb34",
+  "Version": "2.3.4",
+  "Name": "shareCaishenLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 239,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 240,
+            "ActionTag": -1438951671,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "share/caishen_0.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 148,
+            "Scale9OriginY": 139,
+            "Scale9Width": 153,
+            "Scale9Height": 146,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0005,
+              "Y": 382.0007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5306
+            },
+            "PreSize": {
+              "X": 0.3508,
+              "Y": 0.5889
+            },
+            "LeftMargin": 415.5005,
+            "RightMargin": 415.4995,
+            "TopMargin": 125.9993,
+            "BottomMargin": 170.0007,
+            "Tag": 273,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "share/caishen.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 187,
+                "Scale9OriginY": 49,
+                "Scale9Width": 194,
+                "Scale9Height": 53,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.5002,
+                  "Y": -88.3484
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.2084
+                },
+                "PreSize": {
+                  "X": 1.265,
+                  "Y": 0.3561
+                },
+                "LeftMargin": -59.4998,
+                "RightMargin": -59.5002,
+                "TopMargin": 436.8484,
+                "BottomMargin": -163.8484,
+                "Tag": 274,
+                "ActionTag": 2039715807,
+                "Size": {
+                  "X": 568.0,
+                  "Y": 151.0
+                },
+                "Name": "Image_23",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1948343129,
+            "Size": {
+              "X": 449.0,
+              "Y": 424.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "share/caishen.png",
+        "share/caishen_0.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

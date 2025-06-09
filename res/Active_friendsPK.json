@@ -1,0 +1,1951 @@
+{
+  "ID": "62e29fc3-489d-432b-bedc-c4df769544ea",
+  "Version": "2.3.4",
+  "Name": "Active_friendsPK",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 160,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 173,
+            "ActionTag": -443933968,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 174,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_friendsPK/bg_main.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 341,
+                "Scale9OriginY": 195,
+                "Scale9Width": 354,
+                "Scale9Height": 167,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 648.448,
+                  "Y": 381.168
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5066,
+                  "Y": 0.5294
+                },
+                "PreSize": {
+                  "X": 0.8094,
+                  "Y": 0.8236
+                },
+                "LeftMargin": 130.448,
+                "RightMargin": 113.552,
+                "TopMargin": 42.332,
+                "BottomMargin": 84.668,
+                "Tag": 175,
+                "ActionTag": 26506139,
+                "Size": {
+                  "X": 1036.0,
+                  "Y": 593.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_friendsPK/bg_main_xiaodi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 79,
+                "Scale9OriginY": 11,
+                "Scale9Width": 82,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 516.99,
+                  "Y": 451.4201
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4039,
+                  "Y": 0.627
+                },
+                "PreSize": {
+                  "X": 0.1875,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 396.99,
+                "RightMargin": 643.01,
+                "TopMargin": 251.5799,
+                "BottomMargin": 434.4201,
+                "Tag": 225,
+                "ActionTag": -1356471548,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 34.0
+                },
+                "Name": "img_xiaodi",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "    12月12日----12月12日     ",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {},
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": 0.58,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 521.9854,
+                  "Y": 451.4211
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4078,
+                  "Y": 0.627
+                },
+                "PreSize": {
+                  "X": 0.2492,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 362.4854,
+                "RightMargin": 598.5146,
+                "TopMargin": 257.5789,
+                "BottomMargin": 440.4211,
+                "Tag": 176,
+                "ActionTag": 769224680,
+                "Size": {
+                  "X": 319.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "每日消耗元宝越多，奖励越多       ",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 233,
+                  "G": 77,
+                  "B": 98
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": 0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 647.3202,
+                  "Y": 449.0642
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 233,
+                  "G": 77,
+                  "B": 98
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5057,
+                  "Y": 0.6237
+                },
+                "PreSize": {
+                  "X": 0.325,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 647.3202,
+                "RightMargin": 216.6798,
+                "TopMargin": 258.4358,
+                "BottomMargin": 436.5642,
+                "Tag": 177,
+                "ActionTag": -1068718401,
+                "Size": {
+                  "X": 416.0,
+                  "Y": 25.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "    当日消耗元宝数：8888    ",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 233,
+                  "G": 77,
+                  "B": 98
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": 0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 642.9242,
+                  "Y": 382.9812
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 233,
+                  "G": 77,
+                  "B": 98
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5023,
+                  "Y": 0.5319
+                },
+                "PreSize": {
+                  "X": 0.2406,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 488.9242,
+                "RightMargin": 483.0758,
+                "TopMargin": 326.0188,
+                "BottomMargin": 371.9812,
+                "Tag": 178,
+                "ActionTag": -1028309436,
+                "Size": {
+                  "X": 308.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_friendsPK/jindutiao_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 225,
+                "Scale9OriginY": 13,
+                "Scale9Width": 233,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 674.9318,
+                  "Y": 251.0905
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5273,
+                  "Y": 0.3487
+                },
+                "PreSize": {
+                  "X": 0.5336,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 333.4318,
+                "RightMargin": 263.5682,
+                "TopMargin": 448.9095,
+                "BottomMargin": 231.0905,
+                "Tag": 180,
+                "Children": [
+                  {
+                    "ProgressInfo": 100,
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "active_friendsPK/jindutiao_1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 20.34
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5085
+                    },
+                    "PreSize": {
+                      "X": 0.9971,
+                      "Y": 0.925
+                    },
+                    "RightMargin": 2.0,
+                    "TopMargin": 1.16,
+                    "BottomMargin": 1.84,
+                    "Tag": 179,
+                    "ActionTag": 1056054835,
+                    "Size": {
+                      "X": 681.0,
+                      "Y": 37.0
+                    },
+                    "Name": "bar_1",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "消耗\n元宝",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 233,
+                      "G": 77,
+                      "B": 98
+                    },
+                    "ShadowOffsetX": 0.8,
+                    "ShadowOffsetY": 0.8,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -11.1732,
+                      "Y": -35.1675
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 233,
+                      "G": 77,
+                      "B": 98
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0164,
+                      "Y": -0.8792
+                    },
+                    "PreSize": {
+                      "X": 0.0878,
+                      "Y": 1.25
+                    },
+                    "LeftMargin": -41.1732,
+                    "RightMargin": 664.1732,
+                    "TopMargin": 50.1675,
+                    "BottomMargin": -60.1675,
+                    "Tag": 25,
+                    "ActionTag": 2093059604,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.7364,
+                      "Y": 25.5847
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.149,
+                      "Y": 0.6396
+                    },
+                    "PreSize": {
+                      "X": 0.1464,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": 51.7364,
+                    "RightMargin": 531.2636,
+                    "TopMargin": -35.5847,
+                    "BottomMargin": -24.4153,
+                    "Tag": 300,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/bg_shine.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 51,
+                        "Scale9OriginY": 47,
+                        "Scale9Width": 55,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.1593,
+                          "Y": 53.8374
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4916,
+                          "Y": 0.5384
+                        },
+                        "PreSize": {
+                          "X": 1.57,
+                          "Y": 1.45
+                        },
+                        "LeftMargin": -29.3407,
+                        "RightMargin": -27.6593,
+                        "TopMargin": -26.3374,
+                        "BottomMargin": -18.6626,
+                        "Tag": 301,
+                        "ActionTag": 1701086479,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 145.0
+                        },
+                        "Name": "img_shine",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/prize_0_n.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 25,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 5,
+                        "Scale9Height": 3,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.7084,
+                          "Y": 47.3757
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4671,
+                          "Y": 0.4738
+                        },
+                        "PreSize": {
+                          "X": 0.55,
+                          "Y": 0.45
+                        },
+                        "LeftMargin": 19.2084,
+                        "RightMargin": 25.7916,
+                        "TopMargin": 30.1243,
+                        "BottomMargin": 24.8757,
+                        "Tag": 302,
+                        "ActionTag": -1608750657,
+                        "Size": {
+                          "X": 55.0,
+                          "Y": 45.0
+                        },
+                        "Name": "img_box",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "100.000",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.5,
+                        "ShadowOffsetY": 0.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.9415,
+                          "Y": -10.8039
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3694,
+                          "Y": -0.108
+                        },
+                        "PreSize": {
+                          "X": 0.77,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": -1.5585,
+                        "RightMargin": 24.5585,
+                        "TopMargin": 99.8039,
+                        "BottomMargin": -21.8039,
+                        "Tag": 13,
+                        "ActionTag": 1486003927,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_cost",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "888元宝 ",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.8,
+                        "ShadowOffsetY": 0.8,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0981,
+                          "Y": 111.6763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.451,
+                          "Y": 1.1168
+                        },
+                        "PreSize": {
+                          "X": 0.88,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 1.0981,
+                        "RightMargin": 10.9019,
+                        "TopMargin": -22.6763,
+                        "BottomMargin": 100.6763,
+                        "Tag": 14,
+                        "ActionTag": 1612866202,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_get",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1658592857,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "node_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 256.3973,
+                      "Y": 24.5062
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3754,
+                      "Y": 0.6127
+                    },
+                    "PreSize": {
+                      "X": 0.1464,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": 206.3973,
+                    "RightMargin": 376.6027,
+                    "TopMargin": -34.5062,
+                    "BottomMargin": -25.4938,
+                    "Tag": 15,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/bg_shine.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 51,
+                        "Scale9OriginY": 47,
+                        "Scale9Width": 55,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.1593,
+                          "Y": 53.8374
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4916,
+                          "Y": 0.5384
+                        },
+                        "PreSize": {
+                          "X": 1.57,
+                          "Y": 1.45
+                        },
+                        "LeftMargin": -29.3407,
+                        "RightMargin": -27.6593,
+                        "TopMargin": -26.3374,
+                        "BottomMargin": -18.6626,
+                        "Tag": 16,
+                        "ActionTag": 1589116936,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 145.0
+                        },
+                        "Name": "img_shine",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/prize_1_n.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 25,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 5,
+                        "Scale9Height": 3,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.7086,
+                          "Y": 48.4542
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4671,
+                          "Y": 0.4845
+                        },
+                        "PreSize": {
+                          "X": 0.55,
+                          "Y": 0.45
+                        },
+                        "LeftMargin": 19.2086,
+                        "RightMargin": 25.7914,
+                        "TopMargin": 29.0458,
+                        "BottomMargin": 25.9542,
+                        "Tag": 17,
+                        "ActionTag": 609674234,
+                        "Size": {
+                          "X": 55.0,
+                          "Y": 45.0
+                        },
+                        "Name": "img_box",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "300.000",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.5,
+                        "ShadowOffsetY": 0.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.687,
+                          "Y": -7.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4469,
+                          "Y": -0.07
+                        },
+                        "PreSize": {
+                          "X": 0.77,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 6.187,
+                        "RightMargin": 16.813,
+                        "TopMargin": 96.0,
+                        "BottomMargin": -18.0,
+                        "Tag": 18,
+                        "ActionTag": -1852024888,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_cost",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "888元宝 ",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.8,
+                        "ShadowOffsetY": 0.8,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0981,
+                          "Y": 111.6763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.451,
+                          "Y": 1.1168
+                        },
+                        "PreSize": {
+                          "X": 0.88,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 1.0981,
+                        "RightMargin": 10.9019,
+                        "TopMargin": -22.6763,
+                        "BottomMargin": 100.6763,
+                        "Tag": 19,
+                        "ActionTag": -1969583823,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_get",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1921718447,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "node_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 393.7438,
+                      "Y": 24.506
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5765,
+                      "Y": 0.6127
+                    },
+                    "PreSize": {
+                      "X": 0.1464,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": 343.7438,
+                    "RightMargin": 239.2562,
+                    "TopMargin": -34.506,
+                    "BottomMargin": -25.494,
+                    "Tag": 20,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/bg_shine.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 51,
+                        "Scale9OriginY": 47,
+                        "Scale9Width": 55,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.1593,
+                          "Y": 53.8374
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4916,
+                          "Y": 0.5384
+                        },
+                        "PreSize": {
+                          "X": 1.57,
+                          "Y": 1.45
+                        },
+                        "LeftMargin": -29.3407,
+                        "RightMargin": -27.6593,
+                        "TopMargin": -26.3374,
+                        "BottomMargin": -18.6626,
+                        "Tag": 21,
+                        "ActionTag": -108421648,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 145.0
+                        },
+                        "Name": "img_shine",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/prize_2_n.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 25,
+                        "Scale9OriginY": 24,
+                        "Scale9Width": 5,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.7086,
+                          "Y": 48.4543
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4671,
+                          "Y": 0.4845
+                        },
+                        "PreSize": {
+                          "X": 0.55,
+                          "Y": 0.48
+                        },
+                        "LeftMargin": 19.2086,
+                        "RightMargin": 25.7914,
+                        "TopMargin": 27.5457,
+                        "BottomMargin": 24.4543,
+                        "Tag": 22,
+                        "ActionTag": 971453689,
+                        "Size": {
+                          "X": 55.0,
+                          "Y": 48.0
+                        },
+                        "Name": "img_box",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "900.000",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.5,
+                        "ShadowOffsetY": 0.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.2715,
+                          "Y": -10.9415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4527,
+                          "Y": -0.1094
+                        },
+                        "PreSize": {
+                          "X": 0.77,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 6.7715,
+                        "RightMargin": 16.2285,
+                        "TopMargin": 99.9415,
+                        "BottomMargin": -21.9415,
+                        "Tag": 23,
+                        "ActionTag": 492305450,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_cost",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "888元宝 ",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.8,
+                        "ShadowOffsetY": 0.8,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0981,
+                          "Y": 111.6763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.451,
+                          "Y": 1.1168
+                        },
+                        "PreSize": {
+                          "X": 0.88,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 1.0981,
+                        "RightMargin": 10.9019,
+                        "TopMargin": -22.6763,
+                        "BottomMargin": 100.6763,
+                        "Tag": 24,
+                        "ActionTag": -796401925,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_get",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 42012278,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "node_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 504.8086,
+                      "Y": 24.7402
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7391,
+                      "Y": 0.6185
+                    },
+                    "PreSize": {
+                      "X": 0.1464,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": 454.8086,
+                    "RightMargin": 128.1914,
+                    "TopMargin": -34.7402,
+                    "BottomMargin": -25.2598,
+                    "Tag": 46,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/bg_shine.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 51,
+                        "Scale9OriginY": 47,
+                        "Scale9Width": 55,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.1593,
+                          "Y": 53.8374
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4916,
+                          "Y": 0.5384
+                        },
+                        "PreSize": {
+                          "X": 1.57,
+                          "Y": 1.45
+                        },
+                        "LeftMargin": -29.3407,
+                        "RightMargin": -27.6593,
+                        "TopMargin": -26.3374,
+                        "BottomMargin": -18.6626,
+                        "Tag": 47,
+                        "ActionTag": -1945158230,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 145.0
+                        },
+                        "Name": "img_shine",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/prize_3_n.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 19,
+                        "Scale9OriginY": 24,
+                        "Scale9Width": 20,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.7081,
+                          "Y": 48.2202
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4671,
+                          "Y": 0.4822
+                        },
+                        "PreSize": {
+                          "X": 0.58,
+                          "Y": 0.48
+                        },
+                        "LeftMargin": 17.7081,
+                        "RightMargin": 24.2919,
+                        "TopMargin": 27.7798,
+                        "BottomMargin": 24.2202,
+                        "Tag": 48,
+                        "ActionTag": -567982149,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 48.0
+                        },
+                        "Name": "img_box",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "900.000",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.5,
+                        "ShadowOffsetY": 0.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.2715,
+                          "Y": -10.9415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4527,
+                          "Y": -0.1094
+                        },
+                        "PreSize": {
+                          "X": 0.77,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 6.7715,
+                        "RightMargin": 16.2285,
+                        "TopMargin": 99.9415,
+                        "BottomMargin": -21.9415,
+                        "Tag": 49,
+                        "ActionTag": 556461689,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_cost",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "888元宝 ",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.8,
+                        "ShadowOffsetY": 0.8,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0981,
+                          "Y": 111.6763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.451,
+                          "Y": 1.1168
+                        },
+                        "PreSize": {
+                          "X": 0.88,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 1.0981,
+                        "RightMargin": 10.9019,
+                        "TopMargin": -22.6763,
+                        "BottomMargin": 100.6763,
+                        "Tag": 50,
+                        "ActionTag": -352950675,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_get",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1669418095,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "node_3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 642.7379,
+                      "Y": 23.6952
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9411,
+                      "Y": 0.5924
+                    },
+                    "PreSize": {
+                      "X": 0.1464,
+                      "Y": 2.5
+                    },
+                    "LeftMargin": 592.7379,
+                    "RightMargin": -9.7379,
+                    "TopMargin": -33.6952,
+                    "BottomMargin": -26.3048,
+                    "Tag": 51,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/bg_shine.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 51,
+                        "Scale9OriginY": 47,
+                        "Scale9Width": 55,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.1593,
+                          "Y": 53.8374
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4916,
+                          "Y": 0.5384
+                        },
+                        "PreSize": {
+                          "X": 1.57,
+                          "Y": 1.45
+                        },
+                        "LeftMargin": -29.3407,
+                        "RightMargin": -27.6593,
+                        "TopMargin": -26.3374,
+                        "BottomMargin": -18.6626,
+                        "Tag": 52,
+                        "ActionTag": 723643815,
+                        "Size": {
+                          "X": 157.0,
+                          "Y": 145.0
+                        },
+                        "Name": "img_shine",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active_friendsPK/prize_4_n.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 18,
+                        "Scale9OriginY": 24,
+                        "Scale9Width": 21,
+                        "Scale9Height": 3,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.7081,
+                          "Y": 49.2652
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4671,
+                          "Y": 0.4927
+                        },
+                        "PreSize": {
+                          "X": 0.57,
+                          "Y": 0.51
+                        },
+                        "LeftMargin": 18.2081,
+                        "RightMargin": 24.7919,
+                        "TopMargin": 25.2348,
+                        "BottomMargin": 23.7652,
+                        "Tag": 53,
+                        "ActionTag": 499984081,
+                        "Size": {
+                          "X": 57.0,
+                          "Y": 51.0
+                        },
+                        "Name": "img_box",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "900.000",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.5,
+                        "ShadowOffsetY": 0.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.2715,
+                          "Y": -10.9415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4527,
+                          "Y": -0.1094
+                        },
+                        "PreSize": {
+                          "X": 0.77,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 6.7715,
+                        "RightMargin": 16.2285,
+                        "TopMargin": 99.9415,
+                        "BottomMargin": -21.9415,
+                        "Tag": 54,
+                        "ActionTag": -463074307,
+                        "Size": {
+                          "X": 77.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_cost",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "888元宝 ",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "ShadowOffsetX": 0.8,
+                        "ShadowOffsetY": 0.8,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0981,
+                          "Y": 111.6763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 233,
+                          "G": 77,
+                          "B": 98
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.451,
+                          "Y": 1.1168
+                        },
+                        "PreSize": {
+                          "X": 0.88,
+                          "Y": 0.22
+                        },
+                        "LeftMargin": 1.0981,
+                        "RightMargin": 10.9019,
+                        "TopMargin": -22.6763,
+                        "BottomMargin": 100.6763,
+                        "Tag": 55,
+                        "ActionTag": -992649789,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 22.0
+                        },
+                        "Name": "Text_get",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1753185779,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "node_4",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 548612282,
+                "Size": {
+                  "X": 683.0,
+                  "Y": 40.0
+                },
+                "Name": "bar_node",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_friendsPK/rule_title.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 52,
+                "Scale9Height": 4,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 649.3993,
+                  "Y": 138.8564
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5073,
+                  "Y": 0.1929
+                },
+                "PreSize": {
+                  "X": 0.0641,
+                  "Y": 0.0361
+                },
+                "LeftMargin": 608.3993,
+                "RightMargin": 589.6007,
+                "TopMargin": 568.1436,
+                "BottomMargin": 125.8564,
+                "Tag": 26,
+                "ActionTag": 1839478705,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 26.0
+                },
+                "Name": "btn_rule",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_friendsPK/close_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 38,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1100.9702,
+                  "Y": 477.853
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8601,
+                  "Y": 0.6637
+                },
+                "PreSize": {
+                  "X": 0.0531,
+                  "Y": 0.0889
+                },
+                "LeftMargin": 1066.9702,
+                "RightMargin": 145.0298,
+                "TopMargin": 210.147,
+                "BottomMargin": 445.853,
+                "Tag": 27,
+                "ActionTag": -1209000744,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 64.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1403947603,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active_friendsPK/bg_main.png",
+        "active_friendsPK/bg_main_xiaodi.png",
+        "active_friendsPK/bg_shine.png",
+        "active_friendsPK/close_1.png",
+        "active_friendsPK/jindutiao_1.png",
+        "active_friendsPK/jindutiao_2.png",
+        "active_friendsPK/prize_0_n.png",
+        "active_friendsPK/prize_1_n.png",
+        "active_friendsPK/prize_2_n.png",
+        "active_friendsPK/prize_3_n.png",
+        "active_friendsPK/prize_4_n.png",
+        "active_friendsPK/rule_title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

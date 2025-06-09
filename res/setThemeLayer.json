@@ -1,0 +1,998 @@
+{
+  "ID": "46e5416e-b877-4317-b7c8-753692cbd304",
+  "Version": "2.3.4",
+  "Name": "setThemeLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 498,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/bg/bg_taohuayuanji.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 514,
+            "Scale9OriginY": 237,
+            "Scale9Width": 532,
+            "Scale9Height": 246,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.2188,
+              "Y": 1.0
+            },
+            "LeftMargin": -140.0,
+            "RightMargin": -140.0,
+            "Tag": 499,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/role/THYJ-NAN.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 89,
+                "Scale9OriginY": 132,
+                "Scale9Width": 92,
+                "Scale9Height": 138,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 700.4594,
+                  "Y": 115.8801
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.449,
+                  "Y": 0.1609
+                },
+                "PreSize": {
+                  "X": 0.1731,
+                  "Y": 0.5583
+                },
+                "LeftMargin": 430.4594,
+                "RightMargin": 859.5406,
+                "TopMargin": 202.1199,
+                "BottomMargin": 115.8801,
+                "Tag": 509,
+                "ActionTag": -1935038367,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 402.0
+                },
+                "Name": "img_role",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/setTheme/bg_dingban.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 514,
+                "Scale9OriginY": 31,
+                "Scale9Width": 532,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 780.0,
+                  "Y": 720.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1333
+                },
+                "BottomMargin": 624.0,
+                "Tag": 501,
+                "ActionTag": 471771899,
+                "Size": {
+                  "X": 1560.0,
+                  "Y": 96.0
+                },
+                "Name": "img_titleBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/setTheme/title_taohuayuanji.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 12,
+                "Scale9Width": 54,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 780.0,
+                  "Y": 686.88
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.954
+                },
+                "PreSize": {
+                  "X": 0.1013,
+                  "Y": 0.0542
+                },
+                "LeftMargin": 701.0,
+                "RightMargin": 701.0,
+                "TopMargin": 13.62,
+                "BottomMargin": 667.38,
+                "Tag": 508,
+                "ActionTag": 1444942216,
+                "Size": {
+                  "X": 158.0,
+                  "Y": 39.0
+                },
+                "Name": "Image_title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 739272984,
+            "Size": {
+              "X": 1560.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/bg_sex.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/bg_sex.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/bg_sex.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 95,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1163.9041,
+              "Y": 663.624
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9093,
+              "Y": 0.9217
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.0977,
+              "Y": 0.0875
+            },
+            "LeftMargin": 1101.3761,
+            "RightMargin": 53.568,
+            "TopMargin": 24.876,
+            "BottomMargin": 632.124,
+            "Tag": 504,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/setTheme/btn_boy.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 20,
+                "Scale9Width": 22,
+                "Scale9Height": 23,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.8177,
+                  "Y": 30.2963
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2464,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.4958,
+                  "Y": 1.0
+                },
+                "LeftMargin": -0.1823,
+                "RightMargin": 63.2383,
+                "TopMargin": 1.2037,
+                "BottomMargin": -1.2037,
+                "Tag": 505,
+                "ActionTag": 595755795,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 63.0
+                },
+                "Name": "img_boy",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/setTheme/btn_girl.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 20,
+                "Scale9Width": 22,
+                "Scale9Height": 23,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 94.5214,
+                  "Y": 30.2963
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7558,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.4958,
+                  "Y": 1.0
+                },
+                "LeftMargin": 63.5214,
+                "RightMargin": -0.4654,
+                "TopMargin": 1.2037,
+                "BottomMargin": -1.2037,
+                "Tag": 506,
+                "ActionTag": -1875598356,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 63.0
+                },
+                "Name": "img_girl",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 915946202,
+            "Size": {
+              "X": 125.056,
+              "Y": 63.0
+            },
+            "Name": "btn_sex",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FlipX": true,
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/btn_arrow.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 65,
+            "Scale9Height": 76,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 376.704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.1,
+              "Y": 0.5232
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.0742,
+              "Y": 0.1361
+            },
+            "LeftMargin": 80.512,
+            "RightMargin": 1104.512,
+            "TopMargin": 294.3,
+            "BottomMargin": 327.708,
+            "Tag": 507,
+            "ActionTag": 1574391911,
+            "Size": {
+              "X": 94.976,
+              "Y": 97.992
+            },
+            "Name": "btn_left",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/btn_arrow.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 65,
+            "Scale9Height": 76,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1152.0,
+              "Y": 376.704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9,
+              "Y": 0.5232
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.0742,
+              "Y": 0.1361
+            },
+            "LeftMargin": 1104.512,
+            "RightMargin": 80.512,
+            "TopMargin": 294.3,
+            "BottomMargin": 327.708,
+            "Tag": 508,
+            "ActionTag": -1103066742,
+            "Size": {
+              "X": 94.976,
+              "Y": 97.992
+            },
+            "Name": "btn_right",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ItemMargin": 10,
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2361
+            },
+            "TopMargin": 550.008,
+            "Tag": 510,
+            "ActionTag": -759279912,
+            "Size": {
+              "X": 1280.0,
+              "Y": 169.992
+            },
+            "Alpha": 216,
+            "Name": "ListView",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1753,
+              "Y": 0.2361
+            },
+            "RightMargin": 1055.6,
+            "TopMargin": 549.984,
+            "BottomMargin": 0.016,
+            "Tag": 558,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "home_3.0/setTheme/btn_dognjiangchuidiao.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 87,
+                "Scale9OriginY": 51,
+                "Scale9Width": 90,
+                "Scale9Height": 54,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 112.2,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.85,
+                  "ScaleY": 0.85
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.1765,
+                  "Y": 0.9176
+                },
+                "LeftMargin": -19.8,
+                "RightMargin": -19.8,
+                "TopMargin": 14.0,
+                "Tag": 559,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "home_3.0/setTheme/img_shiyognzhong.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 83,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 86,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 132.0,
+                      "Y": 156.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.0
+                    },
+                    "PreSize": {
+                      "X": 0.9545,
+                      "Y": 0.2885
+                    },
+                    "LeftMargin": 6.0,
+                    "RightMargin": 6.0,
+                    "BottomMargin": 111.0,
+                    "Tag": 509,
+                    "ActionTag": -1039794609,
+                    "Size": {
+                      "X": 252.0,
+                      "Y": 45.0
+                    },
+                    "Name": "Image_shiyongzhong",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "home_3.0/setTheme/bg_mingzidi.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 51,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 54,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 132.0,
+                      "Y": 8.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0513
+                    },
+                    "PreSize": {
+                      "X": 0.5909,
+                      "Y": 0.2051
+                    },
+                    "LeftMargin": 54.0,
+                    "RightMargin": 54.0,
+                    "TopMargin": 116.0,
+                    "BottomMargin": 8.0,
+                    "Tag": 510,
+                    "ActionTag": 662019720,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Image_titleBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "东江垂钓",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.0,
+                      "Y": 24.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 163,
+                      "B": 82
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1603
+                    },
+                    "PreSize": {
+                      "X": 0.3409,
+                      "Y": 0.1603
+                    },
+                    "LeftMargin": 87.0,
+                    "RightMargin": 87.0,
+                    "TopMargin": 118.5002,
+                    "BottomMargin": 12.4998,
+                    "Tag": 512,
+                    "ActionTag": 1726257351,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 25.0
+                    },
+                    "Name": "txt_title",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1200069205,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 156.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1157928922,
+            "Size": {
+              "X": 224.4,
+              "Y": 170.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/btn_back.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 58,
+            "Scale9Height": 66,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 79.36,
+              "Y": 654.048
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.062,
+              "Y": 0.9084
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.0688,
+              "Y": 0.1222
+            },
+            "LeftMargin": 35.328,
+            "RightMargin": 1156.608,
+            "TopMargin": 21.96,
+            "BottomMargin": 610.056,
+            "Tag": 500,
+            "ActionTag": -558954131,
+            "Size": {
+              "X": 88.064,
+              "Y": 87.984
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/btn_shiyong_d.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "home_3.0/setTheme/btn_shiyong.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 188,
+            "Scale9Height": 55,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 226.0641
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.314
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.1703,
+              "Y": 0.1069
+            },
+            "LeftMargin": 531.008,
+            "RightMargin": 531.008,
+            "TopMargin": 455.4519,
+            "BottomMargin": 187.5801,
+            "Tag": 513,
+            "ActionTag": 1922547102,
+            "Size": {
+              "X": 217.984,
+              "Y": 76.968
+            },
+            "Name": "btn_set",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "home_3.0/bg/bg_taohuayuanji.jpg",
+        "home_3.0/role/THYJ-NAN.png",
+        "home_3.0/setTheme/bg_dingban.png",
+        "home_3.0/setTheme/bg_mingzidi.png",
+        "home_3.0/setTheme/bg_sex.png",
+        "home_3.0/setTheme/btn_arrow.png",
+        "home_3.0/setTheme/btn_back.png",
+        "home_3.0/setTheme/btn_boy.png",
+        "home_3.0/setTheme/btn_dognjiangchuidiao.png",
+        "home_3.0/setTheme/btn_girl.png",
+        "home_3.0/setTheme/btn_shiyong.png",
+        "home_3.0/setTheme/btn_shiyong_d.png",
+        "home_3.0/setTheme/img_shiyognzhong.png",
+        "home_3.0/setTheme/title_taohuayuanji.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

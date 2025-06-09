@@ -1,0 +1,462 @@
+{
+  "ID": "8764eb54-2a1a-4f90-b2e2-c560c153a813",
+  "Version": "2.3.4",
+  "Name": "PlayDianTuoScore",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -640.0,
+            "RightMargin": -640.0,
+            "TopMargin": -360.0,
+            "BottomMargin": -360.0,
+            "Tag": 32,
+            "ActionTag": 1766474862,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/diantuo/score_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 170,
+            "Scale9OriginY": 127,
+            "Scale9Width": 404,
+            "Scale9Height": 175,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -372.0,
+            "RightMargin": -372.0,
+            "TopMargin": -214.4999,
+            "BottomMargin": -214.5001,
+            "Tag": 69,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/diantuo/score_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 219,
+                "Scale9OriginY": 25,
+                "Scale9Width": 228,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 372.0,
+                  "Y": 335.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7809
+                },
+                "PreSize": {
+                  "X": 0.8952,
+                  "Y": 0.1818
+                },
+                "LeftMargin": 39.0,
+                "RightMargin": 39.0,
+                "TopMargin": 55.0,
+                "BottomMargin": 296.0,
+                "Tag": 285,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game_picture/dating1_06.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 32,
+                    "Scale9Width": 34,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0551,
+                      "Y": 47.2273
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0692,
+                      "Y": 0.6055
+                    },
+                    "PreSize": {
+                      "X": 0.1471,
+                      "Y": 1.2692
+                    },
+                    "LeftMargin": -2.9449,
+                    "RightMargin": 570.9449,
+                    "TopMargin": -18.7273,
+                    "BottomMargin": -2.2727,
+                    "Tag": 286,
+                    "ActionTag": -554033575,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 99.0
+                    },
+                    "Name": "head_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.5264,
+                      "Y": 12.1618
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 62,
+                      "B": 30
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0699,
+                      "Y": 0.1559
+                    },
+                    "PreSize": {
+                      "X": 0.1111,
+                      "Y": 0.2436
+                    },
+                    "LeftMargin": 9.5264,
+                    "RightMargin": 582.4736,
+                    "TopMargin": 56.3382,
+                    "BottomMargin": 2.6618,
+                    "Tag": 288,
+                    "ActionTag": -1108429041,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 19.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "playing/niushibie/miniCardPic/101.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 23,
+                    "Scale9Width": 12,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.2874,
+                      "Y": 40.1035
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1521,
+                      "Y": 0.5141
+                    },
+                    "PreSize": {
+                      "X": 0.048,
+                      "Y": 0.9231
+                    },
+                    "LeftMargin": 85.2874,
+                    "RightMargin": 548.7126,
+                    "TopMargin": 1.8965,
+                    "BottomMargin": 4.1035,
+                    "Tag": 289,
+                    "ActionTag": 1360558463,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 72.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cards",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -556011520,
+                "Size": {
+                  "X": 666.0,
+                  "Y": 78.0
+                },
+                "Name": "item",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "common/close_s2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/close_s2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/close2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 135,
+                "Scale9Height": 140,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 731.9883,
+                  "Y": 372.7003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9839,
+                  "Y": 0.8688
+                },
+                "PreSize": {
+                  "X": 0.2218,
+                  "Y": 0.3776
+                },
+                "LeftMargin": 649.4883,
+                "RightMargin": -70.4883,
+                "TopMargin": -24.7003,
+                "BottomMargin": 291.7003,
+                "Tag": 71,
+                "ActionTag": 1575123502,
+                "Size": {
+                  "X": 165.0,
+                  "Y": 162.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/diantuo/score_title_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 19,
+                "Scale9Width": 102,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 372.0,
+                  "Y": 407.55
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.95
+                },
+                "PreSize": {
+                  "X": 0.4032,
+                  "Y": 0.1399
+                },
+                "LeftMargin": 222.0,
+                "RightMargin": 222.0,
+                "TopMargin": -8.55,
+                "BottomMargin": 377.55,
+                "Tag": 284,
+                "ActionTag": 1820734108,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 60.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1752009386,
+            "Size": {
+              "X": 744.0,
+              "Y": 429.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "common/close_s2.png",
+        "common/close2.png",
+        "fonts/lanting.TTF",
+        "game_picture/dating1_06.png",
+        "playing/diantuo/score_bg.png",
+        "playing/diantuo/score_di.png",
+        "playing/diantuo/score_title_1.png",
+        "playing/niushibie/miniCardPic/101.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

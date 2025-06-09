@@ -1,0 +1,876 @@
+{
+  "ID": "edfe0da9-5c9e-4378-bac1-124e022de900",
+  "Version": "2.3.4",
+  "Name": "winGameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 838,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 839,
+            "ActionTag": -1392288855,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "winGame/jiangzhuang.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 304,
+            "Scale9OriginY": 203,
+            "Scale9Width": 316,
+            "Scale9Height": 210,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 390.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5417
+            },
+            "PreSize": {
+              "X": 0.7219,
+              "Y": 0.8556
+            },
+            "LeftMargin": 178.0,
+            "RightMargin": 178.0,
+            "TopMargin": 22.0,
+            "BottomMargin": 82.0,
+            "Tag": 840,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "iphone 百万家电大奖赛",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 462.0,
+                  "Y": 506.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 165,
+                  "G": 26,
+                  "B": 8
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8231
+                },
+                "PreSize": {
+                  "X": 0.2684,
+                  "Y": 0.0471
+                },
+                "LeftMargin": 338.0,
+                "RightMargin": 338.0,
+                "TopMargin": 94.5001,
+                "BottomMargin": 492.4999,
+                "Tag": 170,
+                "ActionTag": -1268204209,
+                "Size": {
+                  "X": 248.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_Title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "恭喜",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 392.9772,
+                  "Y": 395.9985
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 184,
+                  "G": 53,
+                  "B": 36
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4253,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.0606,
+                  "Y": 0.0422
+                },
+                "LeftMargin": 364.9772,
+                "RightMargin": 503.0228,
+                "TopMargin": 207.0015,
+                "BottomMargin": 382.9985,
+                "Tag": 843,
+                "ActionTag": 1998752830,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 26.0
+                },
+                "Name": "Text_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/dating1_06.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 28,
+                "Scale9Width": 44,
+                "Scale9Height": 43,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 462.0001,
+                  "Y": 420.499
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6826
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.1218
+                },
+                "LeftMargin": 424.5001,
+                "RightMargin": 424.4999,
+                "TopMargin": 158.001,
+                "BottomMargin": 382.999,
+                "Tag": 355,
+                "ActionTag": -1167277711,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 75.0
+                },
+                "Name": "head",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "哈哈哈哈哈哈哈哈",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.4359,
+                  "Y": 395.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 184,
+                  "G": 53,
+                  "B": 36
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.547,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.1937,
+                  "Y": 0.0422
+                },
+                "LeftMargin": 505.4359,
+                "RightMargin": 239.5641,
+                "TopMargin": 207.001,
+                "BottomMargin": 382.999,
+                "Tag": 363,
+                "ActionTag": 1402131933,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 26.0
+                },
+                "Name": "Text_Name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "击败888名参赛者,夺得",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 513.4371,
+                  "Y": 335.1815
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 184,
+                  "G": 53,
+                  "B": 36
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5557,
+                  "Y": 0.5441
+                },
+                "PreSize": {
+                  "X": 0.263,
+                  "Y": 0.0471
+                },
+                "LeftMargin": 270.4371,
+                "RightMargin": 410.5629,
+                "TopMargin": 266.3185,
+                "BottomMargin": 320.6815,
+                "Tag": 364,
+                "ActionTag": 907290890,
+                "Size": {
+                  "X": 243.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_Kill",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 44,
+                "LabelText": "第100名",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 526.0332,
+                  "Y": 342.9993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 225,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5693,
+                  "Y": 0.5568
+                },
+                "PreSize": {
+                  "X": 0.1667,
+                  "Y": 0.086
+                },
+                "LeftMargin": 526.0332,
+                "RightMargin": 243.9668,
+                "TopMargin": 246.5007,
+                "BottomMargin": 316.4993,
+                "Tag": 844,
+                "ActionTag": -205670575,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 53.0
+                },
+                "Name": "Text_rank",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "奖品",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 267.0,
+                  "Y": 272.9994
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 184,
+                  "G": 53,
+                  "B": 36
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.289,
+                  "Y": 0.4432
+                },
+                "PreSize": {
+                  "X": 0.0649,
+                  "Y": 0.0471
+                },
+                "LeftMargin": 207.0,
+                "RightMargin": 657.0,
+                "TopMargin": 328.5006,
+                "BottomMargin": 258.4994,
+                "Tag": 365,
+                "ActionTag": 1789268305,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 44,
+                "LabelText": "iphone8手机256G一部",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 487.0,
+                  "Y": 281.9988
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 225,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5271,
+                  "Y": 0.4578
+                },
+                "PreSize": {
+                  "X": 0.4762,
+                  "Y": 0.086
+                },
+                "LeftMargin": 267.0,
+                "RightMargin": 217.0,
+                "TopMargin": 307.5012,
+                "BottomMargin": 255.4988,
+                "Tag": 845,
+                "ActionTag": -1299371953,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 53.0
+                },
+                "Name": "Text_yuanbao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "winGame/fenxiang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 153,
+                "Scale9Height": 54,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 461.9997,
+                  "Y": 178.2397
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2894
+                },
+                "PreSize": {
+                  "X": 0.1981,
+                  "Y": 0.1234
+                },
+                "LeftMargin": 370.4997,
+                "RightMargin": 370.5003,
+                "TopMargin": 399.7603,
+                "BottomMargin": 140.2397,
+                "Tag": 841,
+                "ActionTag": 1250995493,
+                "Size": {
+                  "X": 183.0,
+                  "Y": 76.0
+                },
+                "Name": "btn_share",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/btn_back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 62,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1029.7336,
+                  "Y": 573.0049
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.1144,
+                  "Y": 0.9302
+                },
+                "PreSize": {
+                  "X": 0.0942,
+                  "Y": 0.1364
+                },
+                "LeftMargin": 986.2336,
+                "RightMargin": -149.2336,
+                "TopMargin": 0.9951,
+                "BottomMargin": 531.0049,
+                "Tag": 842,
+                "ActionTag": -852594096,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 84.0
+                },
+                "Name": "btn_continue",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "请凭获奖记录,在30天内联系客服领奖,逾期视作放弃奖励",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 461.9998,
+                  "Y": 110.2294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 224,
+                  "G": 33,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1789
+                },
+                "PreSize": {
+                  "X": 0.4935,
+                  "Y": 0.0357
+                },
+                "LeftMargin": 233.9998,
+                "RightMargin": 234.0002,
+                "TopMargin": 494.7706,
+                "BottomMargin": 99.2294,
+                "Tag": 366,
+                "ActionTag": 1432252625,
+                "Size": {
+                  "X": 456.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "winGame/erweima.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 73,
+                "Scale9Width": 63,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 981.6865,
+                  "Y": 45.3053
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0624,
+                  "Y": 0.0735
+                },
+                "PreSize": {
+                  "X": 0.1548,
+                  "Y": 0.2841
+                },
+                "LeftMargin": 910.1865,
+                "RightMargin": -129.1865,
+                "TopMargin": 483.1947,
+                "BottomMargin": -42.1947,
+                "Tag": 30,
+                "ActionTag": 1896375263,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 175.0
+                },
+                "VisibleForFrame": false,
+                "Name": "QRCode",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "winGame/logoEnd.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 1089,
+                "Scale9Height": 558,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -5.958,
+                  "Y": 556.2974
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0064,
+                  "Y": 0.9031
+                },
+                "PreSize": {
+                  "X": 1.211,
+                  "Y": 0.9545
+                },
+                "LeftMargin": -565.458,
+                "RightMargin": 370.458,
+                "TopMargin": -234.2974,
+                "BottomMargin": 262.2974,
+                "Tag": 367,
+                "ActionTag": 1312654087,
+                "Size": {
+                  "X": 1119.0,
+                  "Y": 588.0
+                },
+                "Name": "Image_logo",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1664208579,
+            "Size": {
+              "X": 924.0,
+              "Y": 616.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

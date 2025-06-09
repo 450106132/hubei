@@ -1,0 +1,1567 @@
+{
+  "ID": "a6b16bd3-b0c0-45ca-aa7f-75eb2d96e96c",
+  "Version": "2.3.4",
+  "Name": "KaiFangMoneyLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.8578,
+              "Y": 362.3967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.1422,
+            "RightMargin": 1.1422,
+            "TopMargin": -2.3967,
+            "BottomMargin": 2.3967,
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game_picture/bac_zhongtanchuan2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 342,
+            "Scale9Height": 183,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 635.776,
+              "Y": 336.312
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4967,
+              "Y": 0.4671
+            },
+            "PreSize": {
+              "X": 0.6563,
+              "Y": 0.6347
+            },
+            "LeftMargin": 215.776,
+            "RightMargin": 224.224,
+            "TopMargin": 155.188,
+            "BottomMargin": 107.812,
+            "Tag": 116,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_normal.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_x_normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 37,
+                "Scale9Height": 45,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 827.4388,
+                  "Y": 431.15
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.985,
+                  "Y": 0.9434
+                },
+                "PreSize": {
+                  "X": 0.0798,
+                  "Y": 0.1466
+                },
+                "LeftMargin": 793.9388,
+                "RightMargin": -20.9388,
+                "TopMargin": -7.65,
+                "BottomMargin": 397.65,
+                "Tag": 787,
+                "ActionTag": -1382836787,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 67.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "KaiFangMoney/qukaifang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 177,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.9073,
+                  "Y": 66.9437
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4916,
+                  "Y": 0.1465
+                },
+                "PreSize": {
+                  "X": 0.2464,
+                  "Y": 0.1882
+                },
+                "LeftMargin": 309.4073,
+                "RightMargin": 323.5927,
+                "TopMargin": 347.0563,
+                "BottomMargin": 23.9437,
+                "Tag": 94,
+                "ActionTag": 45604272,
+                "Size": {
+                  "X": 207.0,
+                  "Y": 86.0
+                },
+                "Name": "Btn_open",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "joinGame/biaotidi_01.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.9073,
+                  "Y": 468.8233
+                },
+                "Scale": {
+                  "ScaleX": 0.91,
+                  "ScaleY": 0.91
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4916,
+                  "Y": 1.0259
+                },
+                "PreSize": {
+                  "X": 0.7036,
+                  "Y": 0.1291
+                },
+                "LeftMargin": 117.4073,
+                "RightMargin": 131.5927,
+                "TopMargin": -41.3233,
+                "BottomMargin": 439.3233,
+                "Tag": 130,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/kaifangjyb.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 295.6938,
+                      "Y": 25.6489
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5003,
+                      "Y": 0.4347
+                    },
+                    "PreSize": {
+                      "X": 0.3756,
+                      "Y": 0.7119
+                    },
+                    "LeftMargin": 184.6938,
+                    "RightMargin": 184.3062,
+                    "TopMargin": 12.3511,
+                    "BottomMargin": 4.6489,
+                    "Tag": 131,
+                    "ActionTag": -1401872576,
+                    "Size": {
+                      "X": 222.0,
+                      "Y": 42.0
+                    },
+                    "Name": "fenxiang_10",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 794230353,
+                "Size": {
+                  "X": 591.0,
+                  "Y": 59.0
+                },
+                "Name": "biaotidi_01_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "KaiFangMoney/jindutiao1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 240,
+                "Scale9OriginY": 14,
+                "Scale9Width": 249,
+                "Scale9Height": 17,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.5036,
+                  "Y": 352.6973
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5066,
+                  "Y": 0.7718
+                },
+                "PreSize": {
+                  "X": 0.8679,
+                  "Y": 0.0985
+                },
+                "LeftMargin": 61.0036,
+                "RightMargin": 49.9964,
+                "TopMargin": 81.8027,
+                "BottomMargin": 330.1973,
+                "Tag": 422,
+                "Children": [
+                  {
+                    "ProgressInfo": 100,
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/jindutiao2.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 362.8644,
+                      "Y": 23.4415
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4978,
+                      "Y": 0.5209
+                    },
+                    "PreSize": {
+                      "X": 0.9081,
+                      "Y": 0.4889
+                    },
+                    "LeftMargin": 31.8644,
+                    "RightMargin": 35.1356,
+                    "TopMargin": 10.5585,
+                    "BottomMargin": 12.4415,
+                    "Tag": 431,
+                    "ActionTag": 530245899,
+                    "Size": {
+                      "X": 662.0,
+                      "Y": 22.0
+                    },
+                    "Name": "LoadingBar_1",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/BG_guang.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 54,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 57,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 176.4442,
+                      "Y": 25.1806
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.242,
+                      "Y": 0.5596
+                    },
+                    "PreSize": {
+                      "X": 0.2263,
+                      "Y": 3.6889
+                    },
+                    "LeftMargin": 93.9442,
+                    "RightMargin": 470.0558,
+                    "TopMargin": -63.1806,
+                    "BottomMargin": -57.8194,
+                    "Tag": 352,
+                    "ActionTag": 283075615,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 166.0
+                    },
+                    "Name": "guang0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/BG_guang.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 54,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 57,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 343.4808,
+                      "Y": 24.2143
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4712,
+                      "Y": 0.5381
+                    },
+                    "PreSize": {
+                      "X": 0.2263,
+                      "Y": 3.6889
+                    },
+                    "LeftMargin": 260.9808,
+                    "RightMargin": 303.0192,
+                    "TopMargin": -62.2143,
+                    "BottomMargin": -58.7857,
+                    "Tag": 353,
+                    "ActionTag": 768087799,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 166.0
+                    },
+                    "Name": "guang1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/BG_guang.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 54,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 57,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 516.99,
+                      "Y": 23.1077
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7092,
+                      "Y": 0.5135
+                    },
+                    "PreSize": {
+                      "X": 0.2263,
+                      "Y": 3.6889
+                    },
+                    "LeftMargin": 434.49,
+                    "RightMargin": 129.51,
+                    "TopMargin": -61.1077,
+                    "BottomMargin": -59.8923,
+                    "Tag": 354,
+                    "ActionTag": -328558801,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 166.0
+                    },
+                    "Name": "guang2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/BG_guang.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 54,
+                    "Scale9OriginY": 54,
+                    "Scale9Width": 57,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 686.0089,
+                      "Y": 25.2767
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.941,
+                      "Y": 0.5617
+                    },
+                    "PreSize": {
+                      "X": 0.2263,
+                      "Y": 3.6889
+                    },
+                    "LeftMargin": 603.5089,
+                    "RightMargin": -39.5089,
+                    "TopMargin": -63.2767,
+                    "BottomMargin": -57.7233,
+                    "Tag": 355,
+                    "ActionTag": 1761196798,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 166.0
+                    },
+                    "Name": "guang3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/baoxiang_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 19,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 176.4442,
+                      "Y": 25.1805
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.242,
+                      "Y": 0.5596
+                    },
+                    "PreSize": {
+                      "X": 0.0754,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 148.9442,
+                    "RightMargin": 525.0558,
+                    "TopMargin": -2.6805,
+                    "BottomMargin": 2.6805,
+                    "Tag": 424,
+                    "Children": [
+                      {
+                        "FontSize": 28,
+                        "LabelText": "3次",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 149,
+                          "G": 105,
+                          "B": 24
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 28.8763,
+                          "Y": 70.4763
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.525,
+                          "Y": 1.5661
+                        },
+                        "PreSize": {
+                          "X": 0.8909,
+                          "Y": 0.8444
+                        },
+                        "LeftMargin": 4.3763,
+                        "RightMargin": 1.6237,
+                        "TopMargin": -44.4763,
+                        "BottomMargin": 51.4763,
+                        "Tag": 432,
+                        "ActionTag": 1400025015,
+                        "Size": {
+                          "X": 49.0,
+                          "Y": 38.0
+                        },
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "2元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 179,
+                          "G": 5,
+                          "B": 5
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 28.8762,
+                          "Y": -27.2415
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.525,
+                          "Y": -0.6054
+                        },
+                        "PreSize": {
+                          "X": 1.3818,
+                          "Y": 0.8444
+                        },
+                        "LeftMargin": -9.1238,
+                        "RightMargin": -11.8762,
+                        "TopMargin": 53.2415,
+                        "BottomMargin": -46.2415,
+                        "Tag": 433,
+                        "ActionTag": -311244568,
+                        "Size": {
+                          "X": 76.0,
+                          "Y": 38.0
+                        },
+                        "Name": "money",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1035244657,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 45.0
+                    },
+                    "Name": "box_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/baoxiang_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 19,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 343.4808,
+                      "Y": 24.2143
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4712,
+                      "Y": 0.5381
+                    },
+                    "PreSize": {
+                      "X": 0.0754,
+                      "Y": 1.0667
+                    },
+                    "LeftMargin": 315.9808,
+                    "RightMargin": 358.0192,
+                    "TopMargin": -3.2143,
+                    "BottomMargin": 0.2143,
+                    "Tag": 425,
+                    "Children": [
+                      {
+                        "FontSize": 28,
+                        "LabelText": "3次",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 149,
+                          "G": 105,
+                          "B": 24
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 30.7074,
+                          "Y": 71.8141
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5583,
+                          "Y": 1.4961
+                        },
+                        "PreSize": {
+                          "X": 0.8909,
+                          "Y": 0.7917
+                        },
+                        "LeftMargin": 6.2074,
+                        "RightMargin": -0.2074,
+                        "TopMargin": -42.8141,
+                        "BottomMargin": 52.8141,
+                        "Tag": 434,
+                        "ActionTag": -38361524,
+                        "Size": {
+                          "X": 49.0,
+                          "Y": 38.0
+                        },
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "2元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 179,
+                          "G": 5,
+                          "B": 5
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 30.7073,
+                          "Y": -25.9036
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5583,
+                          "Y": -0.5397
+                        },
+                        "PreSize": {
+                          "X": 1.3818,
+                          "Y": 0.7917
+                        },
+                        "LeftMargin": -7.2927,
+                        "RightMargin": -13.7073,
+                        "TopMargin": 54.9036,
+                        "BottomMargin": -44.9036,
+                        "Tag": 435,
+                        "ActionTag": 1286364772,
+                        "Size": {
+                          "X": 76.0,
+                          "Y": 38.0
+                        },
+                        "Name": "money",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -677964989,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 48.0
+                    },
+                    "Name": "box_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/baoxiang_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 22,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 516.99,
+                      "Y": 23.1077
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7092,
+                      "Y": 0.5135
+                    },
+                    "PreSize": {
+                      "X": 0.0796,
+                      "Y": 1.0667
+                    },
+                    "LeftMargin": 487.99,
+                    "RightMargin": 183.01,
+                    "TopMargin": -2.1077,
+                    "BottomMargin": -0.8923,
+                    "Tag": 426,
+                    "Children": [
+                      {
+                        "FontSize": 28,
+                        "LabelText": "3次",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 149,
+                          "G": 105,
+                          "B": 24
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 31.1446,
+                          "Y": 72.7149
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.537,
+                          "Y": 1.5149
+                        },
+                        "PreSize": {
+                          "X": 0.8448,
+                          "Y": 0.7917
+                        },
+                        "LeftMargin": 6.6446,
+                        "RightMargin": 2.3554,
+                        "TopMargin": -43.7149,
+                        "BottomMargin": 53.7149,
+                        "Tag": 436,
+                        "ActionTag": 211324812,
+                        "Size": {
+                          "X": 49.0,
+                          "Y": 38.0
+                        },
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "2元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 179,
+                          "G": 5,
+                          "B": 5
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 31.1446,
+                          "Y": -25.0028
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.537,
+                          "Y": -0.5209
+                        },
+                        "PreSize": {
+                          "X": 1.3103,
+                          "Y": 0.7917
+                        },
+                        "LeftMargin": -6.8554,
+                        "RightMargin": -11.1446,
+                        "TopMargin": 54.0028,
+                        "BottomMargin": -44.0028,
+                        "Tag": 437,
+                        "ActionTag": 2008408009,
+                        "Size": {
+                          "X": 76.0,
+                          "Y": 38.0
+                        },
+                        "Name": "money",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 127539677,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 48.0
+                    },
+                    "Name": "box_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "KaiFangMoney/baoxiang_4.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 21,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 686.0089,
+                      "Y": 25.2767
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.941,
+                      "Y": 0.5617
+                    },
+                    "PreSize": {
+                      "X": 0.0782,
+                      "Y": 1.1333
+                    },
+                    "LeftMargin": 657.5089,
+                    "RightMargin": 14.4911,
+                    "TopMargin": -5.7767,
+                    "BottomMargin": -0.2233,
+                    "Tag": 427,
+                    "Children": [
+                      {
+                        "FontSize": 28,
+                        "LabelText": "3次",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 149,
+                          "G": 105,
+                          "B": 24
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 27.8115,
+                          "Y": 70.5659
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4879,
+                          "Y": 1.3836
+                        },
+                        "PreSize": {
+                          "X": 0.8596,
+                          "Y": 0.7451
+                        },
+                        "LeftMargin": 3.3115,
+                        "RightMargin": 4.6885,
+                        "TopMargin": -38.5659,
+                        "BottomMargin": 51.5659,
+                        "Tag": 438,
+                        "ActionTag": -2084301526,
+                        "Size": {
+                          "X": 49.0,
+                          "Y": 38.0
+                        },
+                        "Name": "time",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "2元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 179,
+                          "G": 5,
+                          "B": 5
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 27.812,
+                          "Y": -27.1518
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4879,
+                          "Y": -0.5324
+                        },
+                        "PreSize": {
+                          "X": 1.3333,
+                          "Y": 0.7451
+                        },
+                        "LeftMargin": -10.188,
+                        "RightMargin": -8.812,
+                        "TopMargin": 59.1518,
+                        "BottomMargin": -46.1518,
+                        "Tag": 439,
+                        "ActionTag": 1742192945,
+                        "Size": {
+                          "X": 76.0,
+                          "Y": 38.0
+                        },
+                        "Name": "money",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1211034751,
+                    "Size": {
+                      "X": 57.0,
+                      "Y": 51.0
+                    },
+                    "Name": "box_3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -318955139,
+                "Size": {
+                  "X": 729.0,
+                  "Y": 45.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "KaiFangMoney/bg_di1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 405.2459,
+                  "Y": 248.0496
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4824,
+                  "Y": 0.5428
+                },
+                "PreSize": {
+                  "X": 0.3369,
+                  "Y": 0.0832
+                },
+                "LeftMargin": 263.7459,
+                "RightMargin": 293.2541,
+                "TopMargin": 189.9504,
+                "BottomMargin": 229.0496,
+                "Tag": 428,
+                "ActionTag": -2061180598,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 38.0
+                },
+                "VisibleForFrame": false,
+                "Name": "bg_di1_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "KaiFangMoney/dangqiankaifangshu.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 373.3746,
+                  "Y": 250.2118
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4445,
+                  "Y": 0.5475
+                },
+                "PreSize": {
+                  "X": 1.0476,
+                  "Y": 0.0722
+                },
+                "LeftMargin": -66.6254,
+                "RightMargin": 26.6254,
+                "TopMargin": 190.2882,
+                "BottomMargin": 233.7118,
+                "Tag": 429,
+                "ActionTag": 1060691899,
+                "Size": {
+                  "X": 880.0,
+                  "Y": 33.0
+                },
+                "Name": "dangqiankaifangshu_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "56",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "G": 65,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.1793,
+                  "Y": 247.3799
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 232,
+                  "B": 160
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5764,
+                  "Y": 0.5413
+                },
+                "PreSize": {
+                  "X": 0.0488,
+                  "Y": 0.0941
+                },
+                "LeftMargin": 463.6793,
+                "RightMargin": 335.3207,
+                "TopMargin": 188.1201,
+                "BottomMargin": 225.8799,
+                "Tag": 430,
+                "ActionTag": 1158912916,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 43.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/xiaotanchuan_53.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 12,
+                "Scale9Width": 734,
+                "Scale9Height": 97,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 417.3641,
+                  "Y": 160.9353
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4969,
+                  "Y": 0.3522
+                },
+                "PreSize": {
+                  "X": 0.9417,
+                  "Y": 0.256
+                },
+                "LeftMargin": 21.8641,
+                "RightMargin": 27.1359,
+                "TopMargin": 237.5647,
+                "BottomMargin": 102.4353,
+                "Tag": 440,
+                "ActionTag": 359348654,
+                "Size": {
+                  "X": 791.0,
+                  "Y": 117.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "拉夫劳伦房间阿道夫啊两地分居垃圾费大酸辣粉阿萨德减肥阿道夫",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "G": 65,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 417.5933,
+                  "Y": 160.8838
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 177,
+                  "G": 126,
+                  "B": 75
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4971,
+                  "Y": 0.352
+                },
+                "PreSize": {
+                  "X": 0.8595,
+                  "Y": 0.2232
+                },
+                "LeftMargin": 56.5933,
+                "RightMargin": 61.4067,
+                "TopMargin": 245.1162,
+                "BottomMargin": 109.8838,
+                "Tag": 441,
+                "ActionTag": 1768453860,
+                "Size": {
+                  "X": 722.0,
+                  "Y": 102.0
+                },
+                "Name": "Text_dec",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1692587304,
+            "Size": {
+              "X": 840.0,
+              "Y": 457.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "game_picture/bac_zhongtanchuan2.png",
+        "game_picture/btn_x_normal.png",
+        "game_picture/btn_x_press.png",
+        "game_picture/xiaotanchuan_53.png",
+        "joinGame/biaotidi_01.png",
+        "KaiFangMoney/baoxiang_1.png",
+        "KaiFangMoney/baoxiang_2.png",
+        "KaiFangMoney/baoxiang_3.png",
+        "KaiFangMoney/baoxiang_4.png",
+        "KaiFangMoney/bg_di1.png",
+        "KaiFangMoney/BG_guang.png",
+        "KaiFangMoney/dangqiankaifangshu.png",
+        "KaiFangMoney/jindutiao1.png",
+        "KaiFangMoney/jindutiao2.png",
+        "KaiFangMoney/kaifangjyb.png",
+        "KaiFangMoney/qukaifang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

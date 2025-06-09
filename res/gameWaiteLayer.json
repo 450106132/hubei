@@ -1,0 +1,1166 @@
+{
+  "ID": "09e49252-ccb3-4734-a7ce-a1a36e577a87",
+  "Version": "2.3.4",
+  "Name": "gameWaiteLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 396,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playground/zhuozi.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.6351,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.3649,
+            "RightMargin": 2.365,
+            "Tag": 423,
+            "ActionTag": -931841564,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playground/rules.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 308,
+            "Scale9OriginY": 141,
+            "Scale9Width": 664,
+            "Scale9Height": 143,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.5903
+            },
+            "TopMargin": 295.0,
+            "Tag": 397,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "playground/fanhui.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 80,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 640.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0625,
+                  "Y": 1.5059
+                },
+                "PreSize": {
+                  "X": 0.0688,
+                  "Y": 0.24
+                },
+                "LeftMargin": 36.0,
+                "RightMargin": 1156.0,
+                "TopMargin": -266.0,
+                "BottomMargin": 589.0,
+                "Tag": 398,
+                "ActionTag": -1024724185,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 102.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "playground/share.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 80,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1200.0,
+                  "Y": 640.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9375,
+                  "Y": 1.5059
+                },
+                "PreSize": {
+                  "X": 0.0688,
+                  "Y": 0.24
+                },
+                "LeftMargin": 1156.0,
+                "RightMargin": 36.0,
+                "TopMargin": -266.0,
+                "BottomMargin": 589.0,
+                "Tag": 269,
+                "ActionTag": -1116808972,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 102.0
+                },
+                "Name": "btn_share",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "playground/tuisai.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 80,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.0,
+                  "Y": 640.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1406,
+                  "Y": 1.5059
+                },
+                "PreSize": {
+                  "X": 0.0688,
+                  "Y": 0.24
+                },
+                "LeftMargin": 136.0,
+                "RightMargin": 1056.0,
+                "TopMargin": -266.0,
+                "BottomMargin": 589.0,
+                "Tag": 120,
+                "ActionTag": 1666108513,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 102.0
+                },
+                "Name": "btn_quite",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 60,
+                "LabelText": "iphone8百万家电大奖赛",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 4,
+                "OutlineColor": {
+                  "R": 133,
+                  "G": 50,
+                  "B": 5
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 621.785
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 254,
+                  "B": 127
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.463
+                },
+                "PreSize": {
+                  "X": 0.4953,
+                  "Y": 0.1694
+                },
+                "LeftMargin": 323.0,
+                "RightMargin": 323.0,
+                "TopMargin": -232.785,
+                "BottomMargin": 585.785,
+                "Tag": 399,
+                "ActionTag": 2092508462,
+                "Size": {
+                  "X": 634.0,
+                  "Y": 72.0
+                },
+                "Name": "Text_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "比赛将在",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 520.6881,
+                  "Y": 518.5179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 252,
+                  "B": 223
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4068,
+                  "Y": 1.22
+                },
+                "PreSize": {
+                  "X": 0.1031,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 454.6881,
+                "RightMargin": 693.3119,
+                "TopMargin": -111.5179,
+                "BottomMargin": 500.5179,
+                "Tag": 424,
+                "ActionTag": 908701919,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_10",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "66分66秒",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 654.1521,
+                  "Y": 518.5179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 254,
+                  "B": 79
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5111,
+                  "Y": 1.22
+                },
+                "PreSize": {
+                  "X": 0.1023,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 588.6521,
+                "RightMargin": 560.3479,
+                "TopMargin": -111.5179,
+                "BottomMargin": 500.5179,
+                "Tag": 426,
+                "ActionTag": -592566781,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_Time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "后开始",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 773.1163,
+                  "Y": 518.5179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 252,
+                  "B": 223
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.604,
+                  "Y": 1.22
+                },
+                "PreSize": {
+                  "X": 0.0781,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 723.1163,
+                "RightMargin": 456.8837,
+                "TopMargin": -111.5179,
+                "BottomMargin": 500.5179,
+                "Tag": 425,
+                "ActionTag": -2132830622,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_10_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "已有",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 502.6827,
+                  "Y": 469.5137
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 252,
+                  "B": 223
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3927,
+                  "Y": 1.1047
+                },
+                "PreSize": {
+                  "X": 0.0562,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 466.6827,
+                "RightMargin": 741.3173,
+                "TopMargin": -62.5137,
+                "BottomMargin": 451.5137,
+                "Tag": 429,
+                "ActionTag": -571730590,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_10_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 564.6464,
+                  "Y": 469.5124
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 254,
+                  "B": 79
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4411,
+                  "Y": 1.1047
+                },
+                "PreSize": {
+                  "X": 0.0422,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 537.6464,
+                "RightMargin": 688.3536,
+                "TopMargin": -62.5124,
+                "BottomMargin": 451.5124,
+                "Tag": 430,
+                "ActionTag": -260317207,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_Pnum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "名玩家准备就绪",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 702.1098,
+                  "Y": 469.5175
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 252,
+                  "B": 223
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5485,
+                  "Y": 1.1047
+                },
+                "PreSize": {
+                  "X": 0.1742,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 590.6098,
+                "RightMargin": 466.3902,
+                "TopMargin": -62.5175,
+                "BottomMargin": 451.5175,
+                "Tag": 431,
+                "ActionTag": 501451495,
+                "Size": {
+                  "X": 223.0,
+                  "Y": 36.0
+                },
+                "Name": "Text_10_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "第一名：德国大使馆\n第二名：闪光灯刚刚",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 404.0003,
+                  "Y": 185.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 229,
+                  "G": 220,
+                  "B": 186
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3156,
+                  "Y": 0.4353
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.8235
+                },
+                "LeftMargin": 204.0003,
+                "RightMargin": 675.9997,
+                "TopMargin": 65.0,
+                "BottomMargin": 10.0,
+                "Tag": 432,
+                "ActionTag": -1971569034,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 350.0
+                },
+                "Name": "Text_Rewards",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "第一轮：发生东莞东莞\n第二轮：富商大贾对方水电费水电费\n第三轮：双方东莞东莞何",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1025.9996,
+                  "Y": 185.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 229,
+                  "G": 220,
+                  "B": 186
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8016,
+                  "Y": 0.4353
+                },
+                "PreSize": {
+                  "X": 0.3516,
+                  "Y": 0.8235
+                },
+                "LeftMargin": 800.9996,
+                "RightMargin": 29.0004,
+                "TopMargin": 65.0,
+                "BottomMargin": 10.0,
+                "Tag": 433,
+                "ActionTag": -1436558299,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 350.0
+                },
+                "Name": "Text_Rule",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -168812452,
+            "Size": {
+              "X": 1280.0,
+              "Y": 425.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 833,
+            "ActionTag": 1388377033,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block_0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playground/tanchuang.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 215,
+            "Scale9OriginY": 107,
+            "Scale9Width": 222,
+            "Scale9Height": 111,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5094,
+              "Y": 0.4514
+            },
+            "LeftMargin": 314.0,
+            "RightMargin": 314.0,
+            "TopMargin": 197.5,
+            "BottomMargin": 197.5,
+            "Tag": 829,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "是否离开比赛？",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 326.0,
+                  "Y": 232.0004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 135,
+                  "G": 106,
+                  "B": 64
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7138
+                },
+                "PreSize": {
+                  "X": 0.4831,
+                  "Y": 0.1785
+                },
+                "LeftMargin": 168.5,
+                "RightMargin": 168.5,
+                "TopMargin": 63.9996,
+                "BottomMargin": 203.0004,
+                "Tag": 830,
+                "ActionTag": -532155086,
+                "Size": {
+                  "X": 315.0,
+                  "Y": 58.0
+                },
+                "Name": "Text_29",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "playground/queding.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 126,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": 90.0695
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3067,
+                  "Y": 0.2771
+                },
+                "PreSize": {
+                  "X": 0.2393,
+                  "Y": 0.2215
+                },
+                "LeftMargin": 122.0,
+                "RightMargin": 374.0,
+                "TopMargin": 198.9305,
+                "BottomMargin": 54.0695,
+                "Tag": 831,
+                "ActionTag": -1634319776,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 72.0
+                },
+                "Name": "btn_sure",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "playground/quxiao.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 126,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 451.9998,
+                  "Y": 90.0695
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6933,
+                  "Y": 0.2771
+                },
+                "PreSize": {
+                  "X": 0.2393,
+                  "Y": 0.2215
+                },
+                "LeftMargin": 373.9998,
+                "RightMargin": 122.0002,
+                "TopMargin": 198.9305,
+                "BottomMargin": 54.0695,
+                "Tag": 832,
+                "ActionTag": 1923056527,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 72.0
+                },
+                "Name": "btn_cancle",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 540797030,
+            "Size": {
+              "X": 652.0,
+              "Y": 325.0
+            },
+            "Name": "back_0",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "playground/fanhui.png",
+        "playground/queding.png",
+        "playground/quxiao.png",
+        "playground/rules.png",
+        "playground/share.png",
+        "playground/tanchuang.png",
+        "playground/tuisai.png",
+        "playground/zhuozi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

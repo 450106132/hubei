@@ -1,0 +1,483 @@
+{
+  "ID": "2d12820d-f1f8-4bad-87b9-aceabf0f27bb",
+  "Version": "2.3.4",
+  "Name": "roundEndLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 193,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 194,
+            "ActionTag": 758582451,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playground/zhuozi.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 617,
+            "ActionTag": -1112980513,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Name": "background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameRecord/BG.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 409,
+            "Scale9OriginY": 197,
+            "Scale9Width": 424,
+            "Scale9Height": 204,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.152,
+              "Y": 362.376
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5009,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 0.3202,
+              "Y": 0.2741
+            },
+            "LeftMargin": 436.222,
+            "RightMargin": 433.918,
+            "TopMargin": 258.954,
+            "BottomMargin": 263.706,
+            "Tag": 195,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "本轮结束",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 204.93,
+                  "Y": 161.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 166,
+                  "G": 107,
+                  "B": 38
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8209
+                },
+                "PreSize": {
+                  "X": 0.2659,
+                  "Y": 0.147
+                },
+                "LeftMargin": 150.43,
+                "RightMargin": 150.43,
+                "TopMargin": 20.8403,
+                "BottomMargin": 147.4997,
+                "Tag": 196,
+                "ActionTag": -552050309,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_round",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 19,
+                "LabelText": "本轮比赛结束,请耐心等待其他选手完成比赛以及决定您的名次,前16名将晋级,祝您好运~",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 204.93,
+                  "Y": 94.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 188,
+                  "G": 128,
+                  "B": 58
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4814
+                },
+                "PreSize": {
+                  "X": 0.8149,
+                  "Y": 0.4561
+                },
+                "LeftMargin": 37.93,
+                "RightMargin": 37.93,
+                "TopMargin": 57.3405,
+                "BottomMargin": 49.9995,
+                "Tag": 197,
+                "ActionTag": -938465684,
+                "Size": {
+                  "X": 334.0,
+                  "Y": 90.0
+                },
+                "Name": "Text_detail",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "剩余",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 181.43,
+                  "Y": 35.8445
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 188,
+                  "G": 128,
+                  "B": 58
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4427,
+                  "Y": 0.1816
+                },
+                "PreSize": {
+                  "X": 0.1366,
+                  "Y": 0.1267
+                },
+                "LeftMargin": 153.43,
+                "RightMargin": 200.43,
+                "TopMargin": 148.9955,
+                "BottomMargin": 23.3445,
+                "Tag": 198,
+                "ActionTag": 758871729,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 25.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "99",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 216.3935,
+                  "Y": 35.8445
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 225,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.528,
+                  "Y": 0.1816
+                },
+                "PreSize": {
+                  "X": 0.0659,
+                  "Y": 0.1267
+                },
+                "LeftMargin": 202.8935,
+                "RightMargin": 179.9665,
+                "TopMargin": 148.9955,
+                "BottomMargin": 23.3445,
+                "Tag": 199,
+                "ActionTag": 947678141,
+                "Size": {
+                  "X": 27.0,
+                  "Y": 25.0
+                },
+                "Name": "Text_num",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "桌",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 239.4302,
+                  "Y": 35.8445
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 188,
+                  "G": 128,
+                  "B": 58
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5842,
+                  "Y": 0.1816
+                },
+                "PreSize": {
+                  "X": 0.083,
+                  "Y": 0.1267
+                },
+                "LeftMargin": 222.4302,
+                "RightMargin": 153.4298,
+                "TopMargin": 148.9955,
+                "BottomMargin": 23.3445,
+                "Tag": 200,
+                "ActionTag": -638128424,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 25.0
+                },
+                "Name": "Text_5",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -904066667,
+            "Size": {
+              "X": 409.86,
+              "Y": 197.34
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "gameRecord/BG.png",
+        "playground/zhuozi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

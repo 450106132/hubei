@@ -1,0 +1,1469 @@
+{
+  "ID": "13c5b26b-c8e9-4ac8-b4ea-0350d6f0d0cd",
+  "Version": "2.3.4",
+  "Name": "Login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/bg.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 6,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/bg_mask.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 422,
+                "Scale9OriginY": 36,
+                "Scale9Width": 436,
+                "Scale9Height": 38,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1986
+                },
+                "TopMargin": 577.0,
+                "Tag": 217,
+                "ActionTag": -1755249975,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 143.0
+                },
+                "Name": "bg_mask",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_cjxx_normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_cjxx_normal.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_cjxx_normal.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_cjxx_press.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Normal",
+                  "Path": "game_picture/btn_cjxx_press.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 459.1334,
+                  "Y": 111.9052
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3587,
+                  "Y": 0.1554
+                },
+                "PreSize": {
+                  "X": 0.0336,
+                  "Y": 0.0597
+                },
+                "LeftMargin": 437.6334,
+                "RightMargin": 799.3666,
+                "TopMargin": 586.5948,
+                "BottomMargin": 90.4052,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "login/bg_tongyi_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 22,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.3157,
+                      "Y": 19.35
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 2.3329,
+                      "Y": 0.45
+                    },
+                    "PreSize": {
+                      "X": 1.3953,
+                      "Y": 0.7907
+                    },
+                    "LeftMargin": 70.3157,
+                    "RightMargin": -87.3157,
+                    "TopMargin": 6.65,
+                    "BottomMargin": 2.35,
+                    "Tag": 72,
+                    "ActionTag": 822995580,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 34.0
+                    },
+                    "Name": "image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "login/z_tongyi.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "login/z_tongyi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 180,
+                    "Scale9Height": 12,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5262,
+                      "ScaleY": 0.4545
+                    },
+                    "Position": {
+                      "X": 256.1084,
+                      "Y": 19.35
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 5.956,
+                      "Y": 0.45
+                    },
+                    "PreSize": {
+                      "X": 4.8837,
+                      "Y": 0.7907
+                    },
+                    "LeftMargin": 145.6064,
+                    "RightMargin": -312.6064,
+                    "TopMargin": 5.103,
+                    "BottomMargin": 3.897,
+                    "Tag": 37,
+                    "ActionTag": -1482008010,
+                    "Size": {
+                      "X": 210.0,
+                      "Y": 34.0
+                    },
+                    "Name": "legal",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "login/z_ysbhzy.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "login/z_ysbhzy.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 180,
+                    "Scale9Height": 12,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5262,
+                      "ScaleY": 0.4545
+                    },
+                    "Position": {
+                      "X": 472.6763,
+                      "Y": 19.35
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 10.9925,
+                      "Y": 0.45
+                    },
+                    "PreSize": {
+                      "X": 4.8837,
+                      "Y": 0.7907
+                    },
+                    "LeftMargin": 362.1743,
+                    "RightMargin": -529.1743,
+                    "TopMargin": 5.103,
+                    "BottomMargin": 3.897,
+                    "Tag": 78,
+                    "ActionTag": -1368667162,
+                    "Size": {
+                      "X": 210.0,
+                      "Y": 34.0
+                    },
+                    "Name": "privacy",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1347122435,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 43.0
+                },
+                "Name": "agree",
+                "ctype": "CheckBoxObjectData"
+              }
+            ],
+            "ActionTag": -1453471211,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "login/loginAni/qixi.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 36,
+            "Scale9Width": 283,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": -617.0992,
+              "Y": 710.7729
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.4821,
+              "Y": 0.9872
+            },
+            "PreSize": {
+              "X": 0.2523,
+              "Y": 0.1292
+            },
+            "LeftMargin": -617.0992,
+            "RightMargin": 1574.0991,
+            "TopMargin": 9.2271,
+            "BottomMargin": 617.7729,
+            "Tag": 161,
+            "ActionTag": -1429352975,
+            "Size": {
+              "X": 323.0,
+              "Y": 93.0
+            },
+            "Name": "qixiIcon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 396.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.55
+            },
+            "PreSize": {
+              "X": 0.6309,
+              "Y": 0.3229
+            },
+            "LeftMargin": 236.25,
+            "RightMargin": 236.25,
+            "TopMargin": 207.75,
+            "BottomMargin": 279.75,
+            "Tag": 159,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/hongri.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 140,
+                "Scale9OriginY": 95,
+                "Scale9Width": 147,
+                "Scale9Height": 100,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.4337,
+                  "Y": 177.9448
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6779,
+                  "Y": 0.7654
+                },
+                "PreSize": {
+                  "X": 0.5288,
+                  "Y": 1.2473
+                },
+                "LeftMargin": 333.9337,
+                "RightMargin": 46.5663,
+                "TopMargin": -90.4448,
+                "BottomMargin": 32.9448,
+                "Tag": 150,
+                "ActionTag": -614336629,
+                "Size": {
+                  "X": 427.0,
+                  "Y": 290.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/shan.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 217,
+                "Scale9OriginY": 99,
+                "Scale9Width": 225,
+                "Scale9Height": 105,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 363.1325,
+                  "Y": 141.1932
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4497,
+                  "Y": 0.6073
+                },
+                "PreSize": {
+                  "X": 0.8161,
+                  "Y": 1.3032
+                },
+                "LeftMargin": 33.6325,
+                "RightMargin": 114.8675,
+                "TopMargin": -60.1932,
+                "BottomMargin": -10.3068,
+                "Tag": 157,
+                "ActionTag": 2072766171,
+                "Size": {
+                  "X": 659.0,
+                  "Y": 303.0
+                },
+                "Name": "shan",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/longzhuas.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 14,
+                "Scale9Width": 21,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 124.1693,
+                  "Y": 283.641
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1538,
+                  "Y": 1.22
+                },
+                "PreSize": {
+                  "X": 0.0731,
+                  "Y": 0.1849
+                },
+                "LeftMargin": 65.1693,
+                "RightMargin": 683.3307,
+                "TopMargin": -94.141,
+                "BottomMargin": 283.641,
+                "Tag": 155,
+                "ActionTag": -545041907,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 43.0
+                },
+                "Name": "Image_zhua",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/longtou.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 81,
+                "Scale9OriginY": 69,
+                "Scale9Width": 84,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 288.5052,
+                  "Y": 119.0168
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3573,
+                  "Y": 0.5119
+                },
+                "PreSize": {
+                  "X": 0.3046,
+                  "Y": 0.9075
+                },
+                "LeftMargin": 42.5052,
+                "RightMargin": 518.9948,
+                "TopMargin": -97.5168,
+                "BottomMargin": 119.0168,
+                "Tag": 151,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "login/loginAni/longzhuasD.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 24,
+                    "Scale9Height": 49,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3943,
+                      "ScaleY": 0.8894
+                    },
+                    "Position": {
+                      "X": 183.4923,
+                      "Y": 157.874
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7459,
+                      "Y": 0.7482
+                    },
+                    "PreSize": {
+                      "X": 0.252,
+                      "Y": 0.3649
+                    },
+                    "LeftMargin": 159.0457,
+                    "RightMargin": 24.9543,
+                    "TopMargin": 44.6098,
+                    "BottomMargin": 89.3902,
+                    "Tag": 156,
+                    "ActionTag": 1199523254,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 77.0
+                    },
+                    "Name": "Image_zhua_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1330275123,
+                "Size": {
+                  "X": 246.0,
+                  "Y": 211.0
+                },
+                "Name": "Image_tou",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/longwei.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 69,
+                "Scale9Width": 51,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.8302,
+                  "ScaleY": 0.8921
+                },
+                "Position": {
+                  "X": 701.7631,
+                  "Y": 115.3372
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8691,
+                  "Y": 0.4961
+                },
+                "PreSize": {
+                  "X": 0.182,
+                  "Y": 1.0065
+                },
+                "LeftMargin": 579.7237,
+                "RightMargin": 80.7763,
+                "TopMargin": 91.9142,
+                "BottomMargin": -93.4142,
+                "Tag": 152,
+                "ActionTag": 2029430726,
+                "Size": {
+                  "X": 147.0,
+                  "Y": 234.0
+                },
+                "Name": "Image_wei",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/longxia.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 69,
+                "Scale9Width": 207,
+                "Scale9Height": 31,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 385.8471,
+                  "Y": 40.8707
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4778,
+                  "Y": 0.1758
+                },
+                "PreSize": {
+                  "X": 0.3752,
+                  "Y": 0.7269
+                },
+                "LeftMargin": 234.3471,
+                "RightMargin": 270.1529,
+                "TopMargin": 107.1293,
+                "BottomMargin": -43.6293,
+                "Tag": 153,
+                "ActionTag": -691110707,
+                "Size": {
+                  "X": 303.0,
+                  "Y": 169.0
+                },
+                "Name": "Image_shenxia",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/longshen.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 45,
+                "Scale9Width": 268,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 427.5894,
+                  "Y": 119.3132
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5295,
+                  "Y": 0.5132
+                },
+                "PreSize": {
+                  "X": 0.4508,
+                  "Y": 0.5892
+                },
+                "LeftMargin": 245.5894,
+                "RightMargin": 197.9106,
+                "TopMargin": 44.6868,
+                "BottomMargin": 50.8132,
+                "Tag": 154,
+                "ActionTag": 1962587405,
+                "Size": {
+                  "X": 364.0,
+                  "Y": 137.0
+                },
+                "Name": "Image_shenshang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/shan1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 35,
+                "Scale9Width": 36,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 185.7919,
+                  "Y": 240.9143
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2301,
+                  "Y": 1.0362
+                },
+                "PreSize": {
+                  "X": 0.1263,
+                  "Y": 0.4602
+                },
+                "LeftMargin": 134.7919,
+                "RightMargin": 570.7081,
+                "TopMargin": -61.9143,
+                "BottomMargin": 187.4143,
+                "Tag": 158,
+                "ActionTag": -1262444483,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 107.0
+                },
+                "Name": "shan0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/logo_da.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 14,
+                "Scale9Width": 629,
+                "Scale9Height": 218,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 415.6842,
+                  "Y": 93.266
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5148,
+                  "Y": 0.4011
+                },
+                "PreSize": {
+                  "X": 0.8161,
+                  "Y": 1.0581
+                },
+                "LeftMargin": 86.1842,
+                "RightMargin": 62.3158,
+                "TopMargin": 16.234,
+                "BottomMargin": -29.734,
+                "Tag": 623,
+                "ActionTag": -1055163546,
+                "Size": {
+                  "X": 659.0,
+                  "Y": 246.0
+                },
+                "Name": "load",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/guangxiao.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 153,
+                "Scale9OriginY": 37,
+                "Scale9Width": 159,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 157.2218,
+                  "Y": 152.117
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1947,
+                  "Y": 0.6543
+                },
+                "PreSize": {
+                  "X": 0.5759,
+                  "Y": 0.4903
+                },
+                "LeftMargin": -75.2782,
+                "RightMargin": 417.7782,
+                "TopMargin": 23.383,
+                "BottomMargin": 95.117,
+                "Tag": 24,
+                "ActionTag": 875158993,
+                "Size": {
+                  "X": 465.0,
+                  "Y": 114.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "login/loginAni/guangxiao.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 153,
+                "Scale9OriginY": 37,
+                "Scale9Width": 159,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 650.0851,
+                  "Y": 89.4339
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8051,
+                  "Y": 0.3847
+                },
+                "PreSize": {
+                  "X": 0.5759,
+                  "Y": 0.4903
+                },
+                "LeftMargin": 417.5851,
+                "RightMargin": -75.0851,
+                "TopMargin": 86.0661,
+                "BottomMargin": 32.4339,
+                "Tag": 25,
+                "ActionTag": 103990387,
+                "Size": {
+                  "X": 465.0,
+                  "Y": 114.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_light0",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1288841974,
+            "Size": {
+              "X": 807.5,
+              "Y": 232.5
+            },
+            "Name": "Panel_ani",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 17,
+            "LabelText": "抵制不良游戏，拒绝盗版游戏。 适度游戏益脑，沉迷游戏伤身。注意自我保护，谨防上当受骗。 合理安排时间，享受健康生活。\n文网游备字[2018]Ｍ-CBG 0157号;审批文号:新广出审[2018]818号;网络游戏出版物号(ISBN):978-7-498-04265-1; 运营单位：海南追梦网络科技有限公司\n出版服务单位:三辰影库音像出版社有限公司 琼网文[2019] 3758-286号 ICP经营许可证编号：琼B2-20190412",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/lanting.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 30,
+              "G": 24,
+              "B": 15
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 223,
+              "G": 220,
+              "B": 213
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0556
+            },
+            "PreSize": {
+              "X": 0.925,
+              "Y": 0.0958
+            },
+            "LeftMargin": 48.0,
+            "RightMargin": 48.0,
+            "TopMargin": 645.5,
+            "BottomMargin": 5.5,
+            "Tag": 288,
+            "ActionTag": 298465890,
+            "Size": {
+              "X": 1184.0,
+              "Y": 69.0
+            },
+            "Name": "warn_text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/btn_du_normal.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/btn_du_press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/btn_du_normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 306,
+            "Scale9Height": 85,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1484.16,
+              "Y": 281.16
+            },
+            "Scale": {
+              "ScaleX": 0.86,
+              "ScaleY": 0.86
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 1.1595,
+              "Y": 0.3905
+            },
+            "PreSize": {
+              "X": 0.2625,
+              "Y": 0.1486
+            },
+            "LeftMargin": 1316.16,
+            "RightMargin": -372.16,
+            "TopMargin": 385.34,
+            "BottomMargin": 227.66,
+            "Tag": 7,
+            "ActionTag": -36530676,
+            "Size": {
+              "X": 336.0,
+              "Y": 107.0
+            },
+            "Name": "wechatLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "png/guest_s.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "png/guest_s.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "png/guest.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 306,
+            "Scale9Height": 85,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1484.16,
+              "Y": 51.696
+            },
+            "Scale": {
+              "ScaleX": 0.86,
+              "ScaleY": 0.86
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 1.1595,
+              "Y": 0.0718
+            },
+            "PreSize": {
+              "X": 0.2625,
+              "Y": 0.1486
+            },
+            "LeftMargin": 1316.16,
+            "RightMargin": -372.16,
+            "TopMargin": 614.804,
+            "BottomMargin": -1.804,
+            "Tag": 252,
+            "ActionTag": -1770387744,
+            "Size": {
+              "X": 336.0,
+              "Y": 107.0
+            },
+            "Name": "guestLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "ver:000.0000",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/lanting.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1203.16,
+              "Y": 675.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.94,
+              "Y": 0.9375
+            },
+            "PreSize": {
+              "X": 0.1016,
+              "Y": 0.0319
+            },
+            "LeftMargin": 1138.16,
+            "RightMargin": 11.84,
+            "TopMargin": 33.5,
+            "BottomMargin": 663.5,
+            "Tag": 12,
+            "ActionTag": -123771324,
+            "Size": {
+              "X": 130.0,
+              "Y": 23.0
+            },
+            "Name": "version",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "bindPhoneNum/btn_phoneLogin_s.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "bindPhoneNum/btn_phoneLogin.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 306,
+            "Scale9Height": 85,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1484.1987,
+              "Y": 395.8806
+            },
+            "Scale": {
+              "ScaleX": 0.86,
+              "ScaleY": 0.86
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.1595,
+              "Y": 0.5498
+            },
+            "PreSize": {
+              "X": 0.2625,
+              "Y": 0.1486
+            },
+            "LeftMargin": 1316.1987,
+            "RightMargin": -372.1987,
+            "TopMargin": 270.6194,
+            "BottomMargin": 342.3806,
+            "Tag": 159,
+            "ActionTag": -237853521,
+            "Size": {
+              "X": 336.0,
+              "Y": 107.0
+            },
+            "Name": "phoneLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/yijianxiufu_p.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/yijianxiufu_p.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game_picture/yijianxiufu.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 138,
+            "Scale9Height": 24,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1177.6,
+              "Y": 620.208
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.92,
+              "Y": 0.8614
+            },
+            "PreSize": {
+              "X": 0.1312,
+              "Y": 0.0639
+            },
+            "LeftMargin": 1093.6,
+            "RightMargin": 18.4,
+            "TopMargin": 76.792,
+            "BottomMargin": 597.208,
+            "Tag": 11,
+            "ActionTag": 610502671,
+            "Size": {
+              "X": 168.0,
+              "Y": 46.0
+            },
+            "Name": "xiufuBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bindPhoneNum/btn_phoneLogin.png",
+        "bindPhoneNum/btn_phoneLogin_s.png",
+        "Default/Button_Disable.png",
+        "fonts/lanting.TTF",
+        "game_picture/btn_cjxx_normal.png",
+        "game_picture/btn_cjxx_press.png",
+        "game_picture/btn_du_normal.png",
+        "game_picture/btn_du_press.png",
+        "game_picture/yijianxiufu.png",
+        "game_picture/yijianxiufu_p.png",
+        "login/bg.jpg",
+        "login/bg_mask.png",
+        "login/bg_tongyi_2.png",
+        "login/loginAni/guangxiao.png",
+        "login/loginAni/hongri.png",
+        "login/loginAni/logo_da.png",
+        "login/loginAni/longshen.png",
+        "login/loginAni/longtou.png",
+        "login/loginAni/longwei.png",
+        "login/loginAni/longxia.png",
+        "login/loginAni/longzhuas.png",
+        "login/loginAni/longzhuasD.png",
+        "login/loginAni/qixi.png",
+        "login/loginAni/shan.png",
+        "login/loginAni/shan1.png",
+        "login/z_tongyi.png",
+        "login/z_ysbhzy.png",
+        "png/guest.png",
+        "png/guest_s.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,2112 @@
+{
+  "ID": "348e1906-9655-48df-940e-ba0a1ddb6acc",
+  "Version": "2.3.4",
+  "Name": "ShopOfJiFen_DB_detail",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 78,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 95,
+            "ActionTag": 1034489392,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.304,
+              "Y": 361.152
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5018,
+              "Y": 0.5016
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 2.304,
+            "RightMargin": -2.304,
+            "TopMargin": -1.152,
+            "BottomMargin": 1.152,
+            "Tag": 88,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/detail_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 169,
+                "Scale9OriginY": 141,
+                "Scale9Width": 325,
+                "Scale9Height": 110,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 349.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.485
+                },
+                "PreSize": {
+                  "X": 0.518,
+                  "Y": 0.5444
+                },
+                "LeftMargin": 308.5,
+                "RightMargin": 308.5,
+                "TopMargin": 174.8,
+                "BottomMargin": 153.2,
+                "Tag": 89,
+                "ActionTag": 644198142,
+                "Size": {
+                  "X": 663.0,
+                  "Y": 392.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/detail_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 199,
+                "Scale9OriginY": 38,
+                "Scale9Width": 206,
+                "Scale9Height": 41,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0002,
+                  "Y": 219.9906
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3055
+                },
+                "PreSize": {
+                  "X": 0.4719,
+                  "Y": 0.1625
+                },
+                "LeftMargin": 338.0002,
+                "RightMargin": 337.9998,
+                "TopMargin": 441.5094,
+                "BottomMargin": 161.4906,
+                "Tag": 103,
+                "ActionTag": -1246025255,
+                "Size": {
+                  "X": 604.0,
+                  "Y": 117.0
+                },
+                "Name": "Image_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/jiangpinxiangqing.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 10,
+                "Scale9Width": 48,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0001,
+                  "Y": 517.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7181
+                },
+                "PreSize": {
+                  "X": 0.1047,
+                  "Y": 0.0431
+                },
+                "LeftMargin": 573.0001,
+                "RightMargin": 572.9999,
+                "TopMargin": 187.4998,
+                "BottomMargin": 501.5002,
+                "Tag": 90,
+                "ActionTag": 1506438670,
+                "Size": {
+                  "X": 134.0,
+                  "Y": 31.0
+                },
+                "Name": "Image_title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 902.9651,
+                  "Y": 499.4854
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7054,
+                  "Y": 0.6937
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 873.9651,
+                "RightMargin": 348.0349,
+                "TopMargin": 191.5146,
+                "BottomMargin": 470.4854,
+                "Tag": 91,
+                "ActionTag": 1626622134,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/reward_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 51,
+                "Scale9Width": 54,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.9839,
+                  "Y": 385.2169
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3445,
+                  "Y": 0.535
+                },
+                "PreSize": {
+                  "X": 0.1219,
+                  "Y": 0.2167
+                },
+                "LeftMargin": 362.9839,
+                "RightMargin": 761.0161,
+                "TopMargin": 256.7831,
+                "BottomMargin": 307.2169,
+                "Tag": 96,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "store/jb4.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 32,
+                    "Scale9Width": 37,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.0,
+                      "Y": 78.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6603,
+                      "Y": 0.6346
+                    },
+                    "LeftMargin": 26.5,
+                    "RightMargin": 26.5,
+                    "TopMargin": 28.5,
+                    "BottomMargin": 28.5,
+                    "Tag": 97,
+                    "ActionTag": 1651331275,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 99.0
+                    },
+                    "Name": "reward",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/miaosha.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 30,
+                    "Scale9Width": 32,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 42.0816,
+                      "Y": 114.8835
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2698,
+                      "Y": 0.7364
+                    },
+                    "PreSize": {
+                      "X": 0.6026,
+                      "Y": 0.5897
+                    },
+                    "LeftMargin": -4.9184,
+                    "RightMargin": 66.9184,
+                    "TopMargin": -4.8835,
+                    "BottomMargin": 68.8835,
+                    "Tag": 99,
+                    "ActionTag": 916096247,
+                    "Size": {
+                      "X": 94.0,
+                      "Y": 92.0
+                    },
+                    "Name": "biaoqian",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1225664057,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 156.0
+                },
+                "Name": "reward_di",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "名字别超过7个字",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.3843,
+                  "Y": 446.4678
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 140,
+                  "G": 21,
+                  "B": 21
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4276,
+                  "Y": 0.6201
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 547.3843,
+                "RightMargin": 532.6157,
+                "TopMargin": 258.5322,
+                "BottomMargin": 431.4678,
+                "Tag": 100,
+                "ActionTag": 1103821349,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "[第10096/18888期]",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.3843,
+                  "Y": 414.0711
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 209,
+                  "G": 132,
+                  "B": 10
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4276,
+                  "Y": 0.5751
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 0.0319
+                },
+                "LeftMargin": 547.3843,
+                "RightMargin": 552.6157,
+                "TopMargin": 294.4289,
+                "BottomMargin": 402.5711,
+                "Tag": 101,
+                "ActionTag": -1739121068,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_qishu",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "这是商品详情啦，文案自己编辑么么哒！",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.3841,
+                  "Y": 385.0706
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 209,
+                  "G": 132,
+                  "B": 10
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4276,
+                  "Y": 0.5348
+                },
+                "PreSize": {
+                  "X": 0.2734,
+                  "Y": 0.0319
+                },
+                "LeftMargin": 547.3841,
+                "RightMargin": 382.6159,
+                "TopMargin": 323.4294,
+                "BottomMargin": 373.5706,
+                "Tag": 102,
+                "ActionTag": -1838349519,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_detail",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/naozhong.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 11,
+                "Scale9OriginY": 12,
+                "Scale9Width": 12,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 564.3841,
+                  "Y": 341.2675
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4409,
+                  "Y": 0.474
+                },
+                "PreSize": {
+                  "X": 0.0266,
+                  "Y": 0.0542
+                },
+                "LeftMargin": 547.3841,
+                "RightMargin": 698.6159,
+                "TopMargin": 359.2325,
+                "BottomMargin": 321.7675,
+                "Tag": 104,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/time_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 68,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 72,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.0,
+                      "Y": 19.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 4.2353,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 6.1176,
+                      "Y": 0.9231
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": -214.0,
+                    "TopMargin": 1.5,
+                    "BottomMargin": 1.5,
+                    "Tag": 105,
+                    "Children": [
+                      {
+                        "FontSize": 24,
+                        "LabelText": "222",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.9328,
+                          "Y": 17.0665
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2256,
+                          "Y": 0.4741
+                        },
+                        "PreSize": {
+                          "X": 0.2163,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 24.4328,
+                        "RightMargin": 138.5672,
+                        "TopMargin": 5.4335,
+                        "BottomMargin": 3.5665,
+                        "Tag": 108,
+                        "ActionTag": 1539141446,
+                        "Size": {
+                          "X": 45.0,
+                          "Y": 27.0
+                        },
+                        "Name": "min",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "222",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 117.4689,
+                          "Y": 17.0665
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5648,
+                          "Y": 0.4741
+                        },
+                        "PreSize": {
+                          "X": 0.2163,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 94.9689,
+                        "RightMargin": 68.0311,
+                        "TopMargin": 5.4335,
+                        "BottomMargin": 3.5665,
+                        "Tag": 107,
+                        "ActionTag": -1644437094,
+                        "Size": {
+                          "X": 45.0,
+                          "Y": 27.0
+                        },
+                        "Name": "sec",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "222",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 189.9106,
+                          "Y": 17.0665
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.913,
+                          "Y": 0.4741
+                        },
+                        "PreSize": {
+                          "X": 0.2163,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 167.4106,
+                        "RightMargin": -4.4106,
+                        "TopMargin": 5.4335,
+                        "BottomMargin": 3.5665,
+                        "Tag": 106,
+                        "ActionTag": 347767300,
+                        "Size": {
+                          "X": 45.0,
+                          "Y": 27.0
+                        },
+                        "Name": "sec_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -64231677,
+                    "Size": {
+                      "X": 208.0,
+                      "Y": 36.0
+                    },
+                    "Name": "time_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.9976,
+                      "Y": 19.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 209,
+                      "G": 132,
+                      "B": 10
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1764,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 3.2941,
+                      "Y": 0.641
+                    },
+                    "LeftMargin": 39.9976,
+                    "RightMargin": -117.9976,
+                    "TopMargin": 7.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 120,
+                    "ActionTag": 416874490,
+                    "Size": {
+                      "X": 112.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_time",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -604003696,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 39.0
+                },
+                "Name": "Image_naozhong",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/jindutiao_bg.png",
+                  "Plist": ""
+                },
+                "ProgressBarData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/jindutiao.png",
+                  "Plist": ""
+                },
+                "PercentInfo": 50,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 721.3842,
+                  "Y": 340.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5636,
+                  "Y": 0.4736
+                },
+                "PreSize": {
+                  "X": 0.2719,
+                  "Y": 0.0208
+                },
+                "LeftMargin": 547.3842,
+                "RightMargin": 384.6158,
+                "TopMargin": 371.5001,
+                "BottomMargin": 333.4999,
+                "Tag": 110,
+                "ActionTag": 2138624790,
+                "Size": {
+                  "X": 348.0,
+                  "Y": 15.0
+                },
+                "Name": "Slider_DB",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/time_num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 10,
+                "Scale9Width": 54,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 245.8224
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3414
+                },
+                "PreSize": {
+                  "X": 0.1203,
+                  "Y": 0.0431
+                },
+                "LeftMargin": 563.0,
+                "RightMargin": 563.0,
+                "TopMargin": 458.6776,
+                "BottomMargin": 230.3224,
+                "Tag": 111,
+                "Children": [
+                  {
+                    "FontSize": 17,
+                    "LabelText": "参加次数 ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -59.0001,
+                      "Y": 15.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 94,
+                      "G": 87,
+                      "B": 83
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.3831,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.461,
+                      "Y": 0.6129
+                    },
+                    "LeftMargin": -94.5001,
+                    "RightMargin": 177.5001,
+                    "TopMargin": 6.0,
+                    "BottomMargin": 6.0,
+                    "Tag": 117,
+                    "ActionTag": -1931322343,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Text_12",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jian.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jian.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.0001,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.4516
+                    },
+                    "PreSize": {
+                      "X": 0.2597,
+                      "Y": 1.129
+                    },
+                    "LeftMargin": -20.0001,
+                    "RightMargin": 134.0001,
+                    "TopMargin": -0.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 112,
+                    "ActionTag": -1673432882,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_jian",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jia.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jia.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 137.0,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8896,
+                      "Y": 0.4516
+                    },
+                    "PreSize": {
+                      "X": 0.2597,
+                      "Y": 1.129
+                    },
+                    "LeftMargin": 117.0,
+                    "RightMargin": -3.0,
+                    "TopMargin": -0.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 113,
+                    "ActionTag": -284300855,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_jia",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jiawu.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/jiawu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 24,
+                    "Scale9Height": 13,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 183.5895,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1921,
+                      "Y": 0.4516
+                    },
+                    "PreSize": {
+                      "X": 0.3506,
+                      "Y": 1.129
+                    },
+                    "LeftMargin": 156.5895,
+                    "RightMargin": -56.5895,
+                    "TopMargin": -0.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 114,
+                    "ActionTag": 181594995,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 35.0
+                    },
+                    "Name": "btn_jiawu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "88",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.0,
+                      "Y": 14.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 209,
+                      "G": 132,
+                      "B": 10
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4416,
+                      "Y": 0.4677
+                    },
+                    "PreSize": {
+                      "X": 0.1623,
+                      "Y": 0.6774
+                    },
+                    "LeftMargin": 55.5,
+                    "RightMargin": 73.5,
+                    "TopMargin": 6.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 118,
+                    "ActionTag": -713944550,
+                    "Size": {
+                      "X": 25.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_num",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/liquan_DB2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 185,
+                    "Scale9Height": 26,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 77.0,
+                      "Y": -34.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -1.0968
+                    },
+                    "PreSize": {
+                      "X": 1.3961,
+                      "Y": 1.5484
+                    },
+                    "LeftMargin": -30.5,
+                    "RightMargin": -30.5,
+                    "TopMargin": 41.0,
+                    "BottomMargin": -58.0,
+                    "Tag": 115,
+                    "Children": [
+                      {
+                        "FontSize": 20,
+                        "LabelText": "88888888",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 96.9992,
+                          "Y": 24.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4512,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4605,
+                          "Y": 0.4792
+                        },
+                        "LeftMargin": 47.4992,
+                        "RightMargin": 68.5008,
+                        "TopMargin": 12.5,
+                        "BottomMargin": 12.5,
+                        "Tag": 116,
+                        "ActionTag": 1609890152,
+                        "Size": {
+                          "X": 99.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -797149116,
+                    "Size": {
+                      "X": 215.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_DB",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1754446629,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 31.0
+                },
+                "Name": "Image_num_time",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/lottery.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 70,
+                "Scale9OriginY": 11,
+                "Scale9Width": 73,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0002,
+                  "Y": 232.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3222
+                },
+                "PreSize": {
+                  "X": 0.1664,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 533.5002,
+                "RightMargin": 533.4998,
+                "TopMargin": 471.0,
+                "BottomMargin": 215.0,
+                "Tag": 119,
+                "ActionTag": 625313577,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_lottery",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/head_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 140,
+                "Scale9OriginY": 17,
+                "Scale9Width": 145,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 612.9996,
+                  "Y": 216.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4789,
+                  "Y": 0.3014
+                },
+                "PreSize": {
+                  "X": 0.332,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 400.4996,
+                "RightMargin": 454.5004,
+                "TopMargin": 477.0002,
+                "BottomMargin": 190.9998,
+                "Tag": 121,
+                "Children": [
+                  {
+                    "FontSize": 18,
+                    "LabelText": "本期获奖者 ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.9997,
+                      "Y": 68.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 209,
+                      "G": 132,
+                      "B": 10
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1718,
+                      "Y": 1.3269
+                    },
+                    "PreSize": {
+                      "X": 0.2165,
+                      "Y": 0.4038
+                    },
+                    "LeftMargin": 26.9997,
+                    "RightMargin": 306.0003,
+                    "TopMargin": -27.4998,
+                    "BottomMargin": 58.4998,
+                    "Tag": 127,
+                    "ActionTag": -829135117,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 21.0
+                    },
+                    "Name": "Text_18",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/head_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 24,
+                    "Scale9Width": 26,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 26.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1741,
+                      "Y": 1.4231
+                    },
+                    "LeftMargin": -37.0,
+                    "RightMargin": 388.0,
+                    "TopMargin": -11.0,
+                    "BottomMargin": -11.0,
+                    "Tag": 122,
+                    "ActionTag": 633716857,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 74.0
+                    },
+                    "Name": "head_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/head_clip.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 22,
+                    "Scale9OriginY": 22,
+                    "Scale9Width": 24,
+                    "Scale9Height": 24,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 26.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.16,
+                      "Y": 1.3077
+                    },
+                    "LeftMargin": -34.0,
+                    "RightMargin": 391.0,
+                    "TopMargin": -8.0,
+                    "BottomMargin": -8.0,
+                    "Tag": 143,
+                    "ActionTag": -955713419,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 68.0
+                    },
+                    "Name": "headFrame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopOfJiFen/duobao/huangguan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 15,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -33.803,
+                      "Y": 61.4136
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0795,
+                      "Y": 1.181
+                    },
+                    "PreSize": {
+                      "X": 0.0965,
+                      "Y": 0.7885
+                    },
+                    "LeftMargin": -54.303,
+                    "RightMargin": 438.303,
+                    "TopMargin": -29.9136,
+                    "BottomMargin": 40.9136,
+                    "Tag": 123,
+                    "ActionTag": 491815824,
+                    "Size": {
+                      "X": 41.0,
+                      "Y": 41.0
+                    },
+                    "Name": "huangguan",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "伍小冬伍小冬",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.9999,
+                      "Y": 23.7534
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0941,
+                      "Y": 0.4568
+                    },
+                    "PreSize": {
+                      "X": 0.2329,
+                      "Y": 0.3462
+                    },
+                    "LeftMargin": 39.9999,
+                    "RightMargin": 286.0001,
+                    "TopMargin": 19.2466,
+                    "BottomMargin": 14.7534,
+                    "Tag": 124,
+                    "ActionTag": -250858448,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "参加了1次",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 241.6005,
+                      "Y": 23.7534
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5685,
+                      "Y": 0.4568
+                    },
+                    "PreSize": {
+                      "X": 0.1812,
+                      "Y": 0.3462
+                    },
+                    "LeftMargin": 164.6005,
+                    "RightMargin": 183.3995,
+                    "TopMargin": 19.2466,
+                    "BottomMargin": 14.7534,
+                    "Tag": 125,
+                    "ActionTag": 243617648,
+                    "Size": {
+                      "X": 77.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_cishu",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "幸运码：888888888",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 335.798,
+                      "Y": 23.7534
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7901,
+                      "Y": 0.4568
+                    },
+                    "PreSize": {
+                      "X": 0.3694,
+                      "Y": 0.3462
+                    },
+                    "LeftMargin": 257.298,
+                    "RightMargin": 10.702,
+                    "TopMargin": 19.2466,
+                    "BottomMargin": 14.7534,
+                    "Tag": 126,
+                    "ActionTag": -169501346,
+                    "Size": {
+                      "X": 157.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_ma",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 64011414,
+                "Size": {
+                  "X": 425.0,
+                  "Y": 52.0
+                },
+                "Name": "Image_di",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/btn_duojiangma.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 6,
+                "Scale9Width": 48,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 879.7513,
+                  "Y": 232.2746
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6873,
+                  "Y": 0.3226
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 840.7513,
+                "RightMargin": 361.2487,
+                "TopMargin": 477.2254,
+                "BottomMargin": 221.7746,
+                "Tag": 128,
+                "ActionTag": -760017924,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 21.0
+                },
+                "Name": "btn_DBnum",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ShopOfJiFen/duobao/btn_huojiangjilu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 6,
+                "Scale9Width": 48,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 879.7513,
+                  "Y": 201.388
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6873,
+                  "Y": 0.2797
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 840.7513,
+                "RightMargin": 361.2487,
+                "TopMargin": 508.112,
+                "BottomMargin": 190.888,
+                "Tag": 129,
+                "ActionTag": -921882529,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 21.0
+                },
+                "Name": "btn_huojiangjilv",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1167004695,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "ShopOfJiFen/btn_close.png",
+        "ShopOfJiFen/duobao/btn_duojiangma.png",
+        "ShopOfJiFen/duobao/btn_huojiangjilu.png",
+        "ShopOfJiFen/duobao/detail_bg.png",
+        "ShopOfJiFen/duobao/detail_di.png",
+        "ShopOfJiFen/duobao/head_bg.png",
+        "ShopOfJiFen/duobao/head_clip.png",
+        "ShopOfJiFen/duobao/head_di.png",
+        "ShopOfJiFen/duobao/huangguan.png",
+        "ShopOfJiFen/duobao/jia.png",
+        "ShopOfJiFen/duobao/jian.png",
+        "ShopOfJiFen/duobao/jiangpinxiangqing.png",
+        "ShopOfJiFen/duobao/jiawu.png",
+        "ShopOfJiFen/duobao/jindutiao.png",
+        "ShopOfJiFen/duobao/jindutiao_bg.png",
+        "ShopOfJiFen/duobao/liquan_DB2.png",
+        "ShopOfJiFen/duobao/lottery.png",
+        "ShopOfJiFen/duobao/miaosha.png",
+        "ShopOfJiFen/duobao/naozhong.png",
+        "ShopOfJiFen/duobao/reward_bg.png",
+        "ShopOfJiFen/duobao/time_bg.png",
+        "ShopOfJiFen/duobao/time_num_bg.png",
+        "store/jb4.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

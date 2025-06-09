@@ -1,0 +1,738 @@
+{
+  "ID": "eae34d82-95a5-4a3f-951f-b5a340a8c31b",
+  "Version": "2.3.4",
+  "Name": "friendcard_popMsgShenhe",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1645.824,
+              "Y": 356.184
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 1.2858,
+              "Y": 0.4947
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1005.824,
+            "RightMargin": -1005.824,
+            "TopMargin": 3.816,
+            "BottomMargin": -3.816,
+            "Tag": 462,
+            "ActionTag": 800640995,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Alpha": 153,
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 229,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0001,
+              "Y": 721.5446
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0021
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1111
+            },
+            "LeftMargin": 0.0001,
+            "TopMargin": -1.5446,
+            "BottomMargin": 641.5446,
+            "Tag": 263,
+            "Children": [
+              {
+                "FontSize": 23,
+                "LabelText": "申请玩家name",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.1328,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 230,
+                  "G": 230,
+                  "B": 250
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0564,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.1234,
+                  "Y": 0.325
+                },
+                "LeftMargin": 72.1328,
+                "RightMargin": 1049.8672,
+                "TopMargin": 28.5264,
+                "BottomMargin": 25.4736,
+                "Tag": 275,
+                "ActionTag": -1351534547,
+                "Size": {
+                  "X": 158.0,
+                  "Y": 26.0
+                },
+                "Name": "player_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 23,
+                "LabelText": "（1000220）",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 222.5787,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 253,
+                  "B": 54
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1739,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.107,
+                  "Y": 0.325
+                },
+                "LeftMargin": 222.5787,
+                "RightMargin": 920.4213,
+                "TopMargin": 28.5264,
+                "BottomMargin": 25.4736,
+                "Tag": 276,
+                "ActionTag": -1647463667,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 26.0
+                },
+                "Name": "player_ID",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/igm_head.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 393.1711,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3072,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.0461,
+                  "Y": 0.7375
+                },
+                "LeftMargin": 363.6711,
+                "RightMargin": 857.329,
+                "TopMargin": 12.0264,
+                "BottomMargin": 8.9736,
+                "Tag": 277,
+                "ActionTag": -1301904950,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 59.0
+                },
+                "Name": "player_head",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 23,
+                "LabelText": "申请加入你的亲友圈(                 )",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 433.2006,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 230,
+                  "G": 230,
+                  "B": 250
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3384,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.2555,
+                  "Y": 0.325
+                },
+                "LeftMargin": 433.2006,
+                "RightMargin": 519.7994,
+                "TopMargin": 28.5264,
+                "BottomMargin": 25.4736,
+                "Tag": 278,
+                "ActionTag": -520314940,
+                "Size": {
+                  "X": 327.0,
+                  "Y": 26.0
+                },
+                "Name": "club_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 23,
+                "LabelText": "1000220",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 651.5522,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 253,
+                  "B": 54
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.509,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.0781,
+                  "Y": 0.325
+                },
+                "LeftMargin": 651.5522,
+                "RightMargin": 528.4478,
+                "TopMargin": 28.5264,
+                "BottomMargin": 25.4736,
+                "Tag": 279,
+                "ActionTag": -1433695990,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 26.0
+                },
+                "Name": "club_ID",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/igm_head.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 805.7331,
+                  "Y": 38.4738
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6295,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.0461,
+                  "Y": 0.7375
+                },
+                "LeftMargin": 776.2331,
+                "RightMargin": 444.7669,
+                "TopMargin": 12.0262,
+                "BottomMargin": 8.9738,
+                "Tag": 280,
+                "ActionTag": 282672486,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 59.0
+                },
+                "Name": "club_head",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/btn_tongyi_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/btn_tongyi_n.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 4,
+                "Scale9Width": 91,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1101.2449,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8603,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.0945,
+                  "Y": 0.575
+                },
+                "LeftMargin": 1040.7449,
+                "RightMargin": 118.2551,
+                "TopMargin": 18.5264,
+                "BottomMargin": 15.4736,
+                "Tag": 281,
+                "ActionTag": 1535905760,
+                "Size": {
+                  "X": 121.0,
+                  "Y": 46.0
+                },
+                "Name": "btn_ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/btn_jujue_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/btn_jujue_n.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 4,
+                "Scale9Width": 91,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 958.0239,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7485,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.0945,
+                  "Y": 0.575
+                },
+                "LeftMargin": 897.5239,
+                "RightMargin": 261.4761,
+                "TopMargin": 18.5264,
+                "BottomMargin": 15.4736,
+                "Tag": 282,
+                "ActionTag": -449429667,
+                "Size": {
+                  "X": 121.0,
+                  "Y": 46.0
+                },
+                "Name": "btn_no",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards/popMsgyaoqing/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 4,
+                "Scale9Width": 2,
+                "Scale9Height": 25,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1240.196,
+                  "Y": 38.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9689,
+                  "Y": 0.4809
+                },
+                "PreSize": {
+                  "X": 0.025,
+                  "Y": 0.4125
+                },
+                "LeftMargin": 1224.196,
+                "RightMargin": 23.804,
+                "TopMargin": 25.0264,
+                "BottomMargin": 21.9736,
+                "Tag": 283,
+                "ActionTag": 1731435596,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 2.5
+                },
+                "RightMargin": 1080.0,
+                "TopMargin": -120.0,
+                "Tag": 374,
+                "ActionTag": -1458772722,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "touch",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 404245762,
+            "Size": {
+              "X": 1280.0,
+              "Y": 80.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fonts/lanting.TTF",
+        "friendCards/popMsgyaoqing/btn_close.png",
+        "friendCards/popMsgyaoqing/btn_jujue_n.png",
+        "friendCards/popMsgyaoqing/btn_jujue_s.png",
+        "friendCards/popMsgyaoqing/btn_tongyi_n.png",
+        "friendCards/popMsgyaoqing/btn_tongyi_s.png",
+        "friendCards/popMsgyaoqing/igm_head.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,368 @@
+{
+  "ID": "196b5742-0852-44a4-b499-fca8f763a1ba",
+  "Version": "2.3.4",
+  "Name": "loseGameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 119,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 151,
+            "ActionTag": -954221627,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "winGame/taotai.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 161,
+            "Scale9OriginY": 168,
+            "Scale9Width": 168,
+            "Scale9Height": 176,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 328.968
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4569
+            },
+            "PreSize": {
+              "X": 0.3828,
+              "Y": 0.7111
+            },
+            "LeftMargin": 395.0,
+            "RightMargin": 395.0,
+            "TopMargin": 135.032,
+            "BottomMargin": 72.968,
+            "Tag": 152,
+            "Children": [
+              {
+                "FontSize": 60,
+                "LabelText": "新浦麻将400人快速赛。。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 245.0,
+                  "Y": 538.9824
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 251,
+                  "G": 226,
+                  "B": 155
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0527
+                },
+                "PreSize": {
+                  "X": 1.3673,
+                  "Y": 0.1406
+                },
+                "LeftMargin": -90.0,
+                "RightMargin": -90.0,
+                "TopMargin": -62.9824,
+                "BottomMargin": 502.9824,
+                "Tag": 153,
+                "ActionTag": 1275957917,
+                "Size": {
+                  "X": 670.0,
+                  "Y": 72.0
+                },
+                "Name": "Text_detail",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "您在第",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 83.8019,
+                  "Y": 6.1648
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.171,
+                  "Y": 0.012
+                },
+                "PreSize": {
+                  "X": 0.1551,
+                  "Y": 0.0566
+                },
+                "LeftMargin": 45.8019,
+                "RightMargin": 368.1981,
+                "TopMargin": 491.3352,
+                "BottomMargin": -8.3352,
+                "Tag": 154,
+                "ActionTag": 1438104006,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.8805,
+                  "Y": 6.1648
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 71,
+                  "G": 169,
+                  "B": 212
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2916,
+                  "Y": 0.012
+                },
+                "PreSize": {
+                  "X": 0.0898,
+                  "Y": 0.0566
+                },
+                "LeftMargin": 120.8805,
+                "RightMargin": 325.1195,
+                "TopMargin": 491.3352,
+                "BottomMargin": -8.3352,
+                "Tag": 155,
+                "ActionTag": 1255613513,
+                "Size": {
+                  "X": 44.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_rank",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "轮淘汰，差一点就获得大奖了！",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 326.7724,
+                  "Y": 6.1648
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6669,
+                  "Y": 0.012
+                },
+                "PreSize": {
+                  "X": 0.6592,
+                  "Y": 0.0566
+                },
+                "LeftMargin": 165.2724,
+                "RightMargin": 1.7276,
+                "TopMargin": 491.3352,
+                "BottomMargin": -8.3352,
+                "Tag": 156,
+                "ActionTag": 732555755,
+                "Size": {
+                  "X": 323.0,
+                  "Y": 29.0
+                },
+                "Name": "Text_4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 517073819,
+            "Size": {
+              "X": 490.0,
+              "Y": 512.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "winGame/taotai.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

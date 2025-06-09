@@ -1,0 +1,456 @@
+{
+  "ID": "9e30db95-cf40-449b-b26e-df2804b609c3",
+  "Version": "2.3.4",
+  "Name": "GoldInviteRedpacketRewardLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 473,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 155,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 629,
+            "ActionTag": 889831995,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 621,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_gold_yaoQingHongBao/get_di.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 280,
+                "Scale9OriginY": 128,
+                "Scale9Width": 291,
+                "Scale9Height": 132,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 626.0,
+                  "Y": 432.9462
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4891,
+                  "Y": 0.6013
+                },
+                "PreSize": {
+                  "X": 0.6648,
+                  "Y": 0.5389
+                },
+                "LeftMargin": 200.5,
+                "RightMargin": 228.5,
+                "TopMargin": 93.0538,
+                "BottomMargin": 238.9462,
+                "Tag": 622,
+                "ActionTag": -878463751,
+                "Size": {
+                  "X": 851.0,
+                  "Y": 388.0
+                },
+                "Name": "bg_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_gold_yaoQingHongBao/kuan.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 55,
+                "Scale9OriginY": 55,
+                "Scale9Width": 59,
+                "Scale9Height": 59,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 402.4081
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5589
+                },
+                "PreSize": {
+                  "X": 0.132,
+                  "Y": 0.2347
+                },
+                "LeftMargin": 555.5,
+                "RightMargin": 555.5,
+                "TopMargin": 233.0919,
+                "BottomMargin": 317.9081,
+                "Tag": 623,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active_gold_yaoQingHongBao/gold.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 49,
+                    "Scale9OriginY": 34,
+                    "Scale9Width": 53,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.5,
+                      "Y": 99.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5888
+                    },
+                    "PreSize": {
+                      "X": 0.8935,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 9.0,
+                    "RightMargin": 9.0,
+                    "TopMargin": 17.5,
+                    "BottomMargin": 47.5,
+                    "Tag": 624,
+                    "ActionTag": 1017902894,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 104.0
+                    },
+                    "Name": "icon_prize",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "金币X50",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.5,
+                      "Y": 26.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 208,
+                      "G": 88,
+                      "B": 60
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1538
+                    },
+                    "PreSize": {
+                      "X": 0.4852,
+                      "Y": 0.1361
+                    },
+                    "LeftMargin": 43.5,
+                    "RightMargin": 43.5,
+                    "TopMargin": 131.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 625,
+                    "ActionTag": 851131647,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_num",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1562098731,
+                "Size": {
+                  "X": 169.0,
+                  "Y": 169.0
+                },
+                "Name": "img_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "恭喜您获得100金币，奖励已发放到账，请注意查收",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 274.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3819
+                },
+                "PreSize": {
+                  "X": 0.4313,
+                  "Y": 0.0375
+                },
+                "LeftMargin": 364.0,
+                "RightMargin": 364.0,
+                "TopMargin": 431.5001,
+                "BottomMargin": 261.4999,
+                "Tag": 626,
+                "ActionTag": -429386523,
+                "Size": {
+                  "X": 552.0,
+                  "Y": 27.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_gold_yaoQingHongBao/queding.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 4,
+                "Scale9Width": 169,
+                "Scale9Height": 59,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 163.8889
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2276
+                },
+                "PreSize": {
+                  "X": 0.1555,
+                  "Y": 0.0931
+                },
+                "LeftMargin": 540.5,
+                "RightMargin": 540.5,
+                "TopMargin": 522.6111,
+                "BottomMargin": 130.3889,
+                "Tag": 627,
+                "ActionTag": -2104139656,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 67.0
+                },
+                "Name": "btn_yes",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1407219163,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active_gold_yaoQingHongBao/get_di.png",
+        "active_gold_yaoQingHongBao/gold.png",
+        "active_gold_yaoQingHongBao/kuan.png",
+        "active_gold_yaoQingHongBao/queding.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

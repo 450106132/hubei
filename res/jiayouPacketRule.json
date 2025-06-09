@@ -1,0 +1,827 @@
+{
+  "ID": "89cea86e-b07e-4b33-a022-e519e90b46da",
+  "Version": "2.3.4",
+  "Name": "jiayouPacketRule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "active_jiayouhongbao/rule_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 722,
+            "Scale9Height": 423,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 349.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.485
+            },
+            "PreSize": {
+              "X": 0.8281,
+              "Y": 0.9792
+            },
+            "LeftMargin": 110.0,
+            "RightMargin": 110.0,
+            "TopMargin": 18.3,
+            "BottomMargin": -3.3,
+            "Tag": 116,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_jiayouhongbao/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 59,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1054.1406,
+                  "Y": 656.3813
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9945,
+                  "Y": 0.931
+                },
+                "PreSize": {
+                  "X": 0.084,
+                  "Y": 0.1262
+                },
+                "LeftMargin": 1009.6406,
+                "RightMargin": -38.6406,
+                "TopMargin": 4.1187,
+                "BottomMargin": 611.8813,
+                "Tag": 787,
+                "ActionTag": -1382836787,
+                "Size": {
+                  "X": 89.0,
+                  "Y": 89.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 800,
+                  "Height": 440
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 533.816,
+                  "Y": 341.925
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5036,
+                  "Y": 0.485
+                },
+                "PreSize": {
+                  "X": 0.7547,
+                  "Y": 0.6241
+                },
+                "LeftMargin": 133.816,
+                "RightMargin": 126.184,
+                "TopMargin": 143.075,
+                "BottomMargin": 121.925,
+                "Tag": 570,
+                "Children": [
+                  {
+                    "FontSize": 32,
+                    "LabelText": "奖励说明",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 400.5102
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9103
+                    },
+                    "PreSize": {
+                      "X": 0.1612,
+                      "Y": 0.0886
+                    },
+                    "LeftMargin": 335.5,
+                    "RightMargin": 335.5,
+                    "TopMargin": 19.9898,
+                    "BottomMargin": 381.0102,
+                    "Tag": 571,
+                    "ActionTag": 1594375347,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 39.0
+                    },
+                    "Name": "title1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 32,
+                    "LabelText": "参与方式",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 280.2962
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.637
+                    },
+                    "PreSize": {
+                      "X": 0.1637,
+                      "Y": 0.0886
+                    },
+                    "LeftMargin": 334.5,
+                    "RightMargin": 334.5,
+                    "TopMargin": 140.2038,
+                    "BottomMargin": 260.7962,
+                    "Tag": 462,
+                    "ActionTag": 38525571,
+                    "Size": {
+                      "X": 131.0,
+                      "Y": 39.0
+                    },
+                    "Name": "title2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 32,
+                    "LabelText": "活动规则",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 160.0822
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3638
+                    },
+                    "PreSize": {
+                      "X": 0.1612,
+                      "Y": 0.0886
+                    },
+                    "LeftMargin": 335.5,
+                    "RightMargin": 335.5,
+                    "TopMargin": 260.4178,
+                    "BottomMargin": 140.5822,
+                    "Tag": 463,
+                    "ActionTag": -1099834323,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 39.0
+                    },
+                    "Name": "title3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "奖励说明",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 346.2009
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.7868
+                    },
+                    "PreSize": {
+                      "X": 0.9375,
+                      "Y": 0.0705
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 93.7991,
+                    "BottomMargin": 315.2009,
+                    "Tag": 572,
+                    "ActionTag": 522075535,
+                    "Size": {
+                      "X": 750.0,
+                      "Y": 31.0
+                    },
+                    "Name": "content1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "参与方式",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 225.9869
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5136
+                    },
+                    "PreSize": {
+                      "X": 0.9375,
+                      "Y": 0.0705
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 214.0131,
+                    "BottomMargin": 194.9869,
+                    "Tag": 460,
+                    "ActionTag": 2000705425,
+                    "Size": {
+                      "X": 750.0,
+                      "Y": 31.0
+                    },
+                    "Name": "content2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "活动规则",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 105.7729
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 159,
+                      "G": 110,
+                      "B": 41
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2404
+                    },
+                    "PreSize": {
+                      "X": 0.9375,
+                      "Y": 0.0705
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 334.2271,
+                    "BottomMargin": 74.7729,
+                    "Tag": 461,
+                    "ActionTag": 1218071277,
+                    "Size": {
+                      "X": 750.0,
+                      "Y": 31.0
+                    },
+                    "Name": "content3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active_jiayouhongbao/rule_line.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 258,
+                    "Scale9OriginY": 1,
+                    "Scale9Width": 267,
+                    "Scale9Height": 2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 363.6055
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8264
+                    },
+                    "PreSize": {
+                      "X": 0.9787,
+                      "Y": 0.0091
+                    },
+                    "LeftMargin": 8.5,
+                    "RightMargin": 8.5,
+                    "TopMargin": 74.3945,
+                    "BottomMargin": 361.6055,
+                    "Tag": 589,
+                    "ActionTag": 1820107237,
+                    "Size": {
+                      "X": 783.0,
+                      "Y": 4.0
+                    },
+                    "Name": "line1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active_jiayouhongbao/rule_line.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 258,
+                    "Scale9OriginY": 1,
+                    "Scale9Width": 267,
+                    "Scale9Height": 2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 243.3915
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5532
+                    },
+                    "PreSize": {
+                      "X": 0.9787,
+                      "Y": 0.0091
+                    },
+                    "LeftMargin": 8.5,
+                    "RightMargin": 8.5,
+                    "TopMargin": 194.6085,
+                    "BottomMargin": 241.3915,
+                    "Tag": 464,
+                    "ActionTag": 1005965047,
+                    "Size": {
+                      "X": 783.0,
+                      "Y": 4.0
+                    },
+                    "Name": "line2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active_jiayouhongbao/rule_line.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 258,
+                    "Scale9OriginY": 1,
+                    "Scale9Width": 267,
+                    "Scale9Height": 2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 123.1776
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2799
+                    },
+                    "PreSize": {
+                      "X": 0.9787,
+                      "Y": 0.0091
+                    },
+                    "LeftMargin": 8.5,
+                    "RightMargin": 8.5,
+                    "TopMargin": 314.8224,
+                    "BottomMargin": 121.1776,
+                    "Tag": 465,
+                    "ActionTag": 625270405,
+                    "Size": {
+                      "X": 783.0,
+                      "Y": 4.0
+                    },
+                    "Name": "line3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1279693033,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 440.0
+                },
+                "Name": "contentScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "温馨提示：如有疑问，请咨询牌友联盟公众号（qxqipai）",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.6,
+                  "Y": 85.8005
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 159,
+                  "G": 110,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.51,
+                  "Y": 0.1217
+                },
+                "PreSize": {
+                  "X": 0.4311,
+                  "Y": 0.034
+                },
+                "LeftMargin": 312.1,
+                "RightMargin": 290.9,
+                "TopMargin": 607.1995,
+                "BottomMargin": 73.8005,
+                "Tag": 378,
+                "ActionTag": 1854075163,
+                "Size": {
+                  "X": 457.0,
+                  "Y": 24.0
+                },
+                "Name": "tipText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1692587304,
+            "Size": {
+              "X": 1060.0,
+              "Y": 705.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active_jiayouhongbao/close.png",
+        "active_jiayouhongbao/rule_bg.png",
+        "active_jiayouhongbao/rule_line.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

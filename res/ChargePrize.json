@@ -1,0 +1,1665 @@
+{
+  "ID": "78c31ab4-1ec1-445c-aab2-e98bae10846a",
+  "Version": "2.3.4",
+  "Name": "ChargePrize",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 16,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 422,
+                "Scale9OriginY": 237,
+                "Scale9Width": 436,
+                "Scale9Height": 246,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.464,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -1.536,
+                "RightMargin": 1.536,
+                "Tag": 388,
+                "ActionTag": 1625216383,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 12,
+                "Scale9Width": 50,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1127.2921,
+                  "Y": 294.5561
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8807,
+                  "Y": 0.4091
+                },
+                "PreSize": {
+                  "X": 0.1141,
+                  "Y": 0.0514
+                },
+                "LeftMargin": 1054.2921,
+                "RightMargin": 79.7079,
+                "TopMargin": 406.9439,
+                "BottomMargin": 276.0561,
+                "Tag": 400,
+                "ActionTag": -2013447023,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 37.0
+                },
+                "Name": "bg_tiao_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 12,
+                "Scale9Width": 50,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 890.0543,
+                  "Y": 226.6689
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6954,
+                  "Y": 0.3148
+                },
+                "PreSize": {
+                  "X": 0.1141,
+                  "Y": 0.0514
+                },
+                "LeftMargin": 817.0543,
+                "RightMargin": 316.9457,
+                "TopMargin": 474.8311,
+                "BottomMargin": 208.1689,
+                "Tag": 399,
+                "ActionTag": -109407861,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 37.0
+                },
+                "Name": "bg_tiao_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 12,
+                "Scale9Width": 50,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.5284,
+                  "Y": 219.3764
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.3047
+                },
+                "PreSize": {
+                  "X": 0.1141,
+                  "Y": 0.0514
+                },
+                "LeftMargin": 565.5284,
+                "RightMargin": 568.4716,
+                "TopMargin": 482.1236,
+                "BottomMargin": 200.8764,
+                "Tag": 398,
+                "ActionTag": 1624823841,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 37.0
+                },
+                "Name": "bg_tiao_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 12,
+                "Scale9Width": 50,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 402.5811,
+                  "Y": 228.6603
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3145,
+                  "Y": 0.3176
+                },
+                "PreSize": {
+                  "X": 0.1141,
+                  "Y": 0.0514
+                },
+                "LeftMargin": 329.5811,
+                "RightMargin": 804.4189,
+                "TopMargin": 472.8397,
+                "BottomMargin": 210.1603,
+                "Tag": 397,
+                "ActionTag": 1800806703,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 37.0
+                },
+                "Name": "bg_tiao_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 12,
+                "Scale9Width": 50,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.4883,
+                  "Y": 296.8268
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1254,
+                  "Y": 0.4123
+                },
+                "PreSize": {
+                  "X": 0.1141,
+                  "Y": 0.0514
+                },
+                "LeftMargin": 87.4883,
+                "RightMargin": 1046.5117,
+                "TopMargin": 404.6732,
+                "BottomMargin": 278.3268,
+                "Tag": 396,
+                "ActionTag": 204634653,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 37.0
+                },
+                "Name": "bg_tiao_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/btn_go.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.1582,
+                  "Y": 233.3013
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.129,
+                  "Y": 0.324
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 108.6582,
+                "RightMargin": 1058.3418,
+                "TopMargin": 464.6987,
+                "BottomMargin": 211.3013,
+                "Tag": 19,
+                "ActionTag": 2057761011,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/btn_go.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 405.7652,
+                  "Y": 167.2744
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.317,
+                  "Y": 0.2323
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 349.2652,
+                "RightMargin": 817.7348,
+                "TopMargin": 530.7256,
+                "BottomMargin": 145.2744,
+                "Tag": 20,
+                "ActionTag": -1057391563,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/btn_go.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 646.3722,
+                  "Y": 167.2744
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.505,
+                  "Y": 0.2323
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 589.8722,
+                "RightMargin": 577.1278,
+                "TopMargin": 530.7256,
+                "BottomMargin": 145.2744,
+                "Tag": 21,
+                "ActionTag": 1763326975,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/btn_go.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 886.9791,
+                  "Y": 167.2744
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.693,
+                  "Y": 0.2323
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 830.4791,
+                "RightMargin": 336.5209,
+                "TopMargin": 530.7256,
+                "BottomMargin": 145.2744,
+                "Tag": 22,
+                "ActionTag": 646290008,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/btn_go.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1127.5864,
+                  "Y": 231.2159
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8809,
+                  "Y": 0.3211
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1071.0864,
+                "RightMargin": 95.9136,
+                "TopMargin": 466.7841,
+                "BottomMargin": 209.2159,
+                "Tag": 23,
+                "ActionTag": 1623703018,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_3.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 82,
+                "Scale9OriginY": 12,
+                "Scale9Width": 85,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 505.0921,
+                  "Y": 674.7491
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3946,
+                  "Y": 0.9372
+                },
+                "PreSize": {
+                  "X": 0.1945,
+                  "Y": 0.0542
+                },
+                "LeftMargin": 380.5921,
+                "RightMargin": 650.4079,
+                "TopMargin": 25.7509,
+                "BottomMargin": 655.2491,
+                "Tag": 407,
+                "ActionTag": 794496366,
+                "Size": {
+                  "X": 249.0,
+                  "Y": 39.0
+                },
+                "Name": "bg_charge",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/bg_4.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 82,
+                "Scale9OriginY": 12,
+                "Scale9Width": 85,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 784.8191,
+                  "Y": 674.749
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6131,
+                  "Y": 0.9372
+                },
+                "PreSize": {
+                  "X": 0.1945,
+                  "Y": 0.0542
+                },
+                "LeftMargin": 660.3191,
+                "RightMargin": 370.6809,
+                "TopMargin": 25.751,
+                "BottomMargin": 655.249,
+                "Tag": 408,
+                "ActionTag": 358417327,
+                "Size": {
+                  "X": 249.0,
+                  "Y": 39.0
+                },
+                "Name": "bg_yuanbao",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "8888元",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 540.264,
+                  "Y": 674.9773
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4221,
+                  "Y": 0.9375
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 540.264,
+                "RightMargin": 655.736,
+                "TopMargin": 30.0227,
+                "BottomMargin": 659.9773,
+                "Tag": 34,
+                "ActionTag": 935440132,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 30.0
+                },
+                "Name": "text_charge",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "88888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 827.2308,
+                  "Y": 674.9773
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6463,
+                  "Y": 0.9375
+                },
+                "PreSize": {
+                  "X": 0.057,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 827.2308,
+                "RightMargin": 379.7692,
+                "TopMargin": 30.0227,
+                "BottomMargin": 659.9773,
+                "Tag": 35,
+                "ActionTag": 1688923800,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 30.0
+                },
+                "Name": "text_yuanbao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "chargePrize/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 59,
+                "Scale9Height": 67,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1140.3743,
+                  "Y": 645.558
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8909,
+                  "Y": 0.8966
+                },
+                "PreSize": {
+                  "X": 0.0695,
+                  "Y": 0.1236
+                },
+                "LeftMargin": 1095.8743,
+                "RightMargin": 95.1257,
+                "TopMargin": 29.942,
+                "BottomMargin": 601.058,
+                "Tag": 123,
+                "ActionTag": -881012478,
+                "Size": {
+                  "X": 89.0,
+                  "Y": 89.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "充值满1800\n赠送180元宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 159.5578,
+                  "Y": 360.18
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 191,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1247,
+                  "Y": 0.5002
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.125
+                },
+                "LeftMargin": 79.5578,
+                "RightMargin": 1040.4421,
+                "TopMargin": 314.82,
+                "BottomMargin": 315.18,
+                "Tag": 389,
+                "ActionTag": 1581814821,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 90.0
+                },
+                "Name": "text_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "充值满1800\n赠送180元宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 400.2233,
+                  "Y": 297.0092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 191,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3127,
+                  "Y": 0.4125
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.125
+                },
+                "LeftMargin": 320.2233,
+                "RightMargin": 799.7767,
+                "TopMargin": 377.9908,
+                "BottomMargin": 252.0092,
+                "Tag": 390,
+                "ActionTag": 1160926907,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 90.0
+                },
+                "Name": "text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "充值满1800\n赠送180元宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 637.0285,
+                  "Y": 291.2926
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 191,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.4046
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.125
+                },
+                "LeftMargin": 557.0285,
+                "RightMargin": 562.9715,
+                "TopMargin": 383.7074,
+                "BottomMargin": 246.2926,
+                "Tag": 391,
+                "ActionTag": -1983275401,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 90.0
+                },
+                "Name": "text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "充值满1800\n赠送180元宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 887.5527,
+                  "Y": 299.5901
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 191,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6934,
+                  "Y": 0.4161
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.125
+                },
+                "LeftMargin": 807.5527,
+                "RightMargin": 312.4473,
+                "TopMargin": 375.4099,
+                "BottomMargin": 254.5901,
+                "Tag": 392,
+                "ActionTag": 9380983,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 90.0
+                },
+                "Name": "text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "充值满1800\n赠送1800元宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1126.2178,
+                  "Y": 357.7611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 191,
+                  "G": 18,
+                  "B": 27
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8799,
+                  "Y": 0.4969
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.125
+                },
+                "LeftMargin": 1046.2178,
+                "RightMargin": 73.7822,
+                "TopMargin": 317.2389,
+                "BottomMargin": 312.7611,
+                "Tag": 393,
+                "ActionTag": 1674022351,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 90.0
+                },
+                "Name": "text_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "1870/5800",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 162.4887,
+                  "Y": 294.9789
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1269,
+                  "Y": 0.4097
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 102.9887,
+                "RightMargin": 1058.0114,
+                "TopMargin": 410.0211,
+                "BottomMargin": 279.9789,
+                "Tag": 402,
+                "ActionTag": 28102177,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 30.0
+                },
+                "Name": "textTiao_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "1870/5800",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 403.5818,
+                  "Y": 226.8118
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3153,
+                  "Y": 0.315
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 344.0818,
+                "RightMargin": 816.9182,
+                "TopMargin": 478.1882,
+                "BottomMargin": 211.8118,
+                "Tag": 403,
+                "ActionTag": -813550831,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 30.0
+                },
+                "Name": "textTiao_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "1870/5800",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.384,
+                  "Y": 218.3836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.3033
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 578.884,
+                "RightMargin": 582.116,
+                "TopMargin": 486.6164,
+                "BottomMargin": 203.3836,
+                "Tag": 404,
+                "ActionTag": 1611252995,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 30.0
+                },
+                "Name": "textTiao_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "1870/5800",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 893.6251,
+                  "Y": 225.677
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6981,
+                  "Y": 0.3134
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 834.1251,
+                "RightMargin": 326.8749,
+                "TopMargin": 479.323,
+                "BottomMargin": 210.677,
+                "Tag": 405,
+                "ActionTag": -1163414762,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 30.0
+                },
+                "Name": "textTiao_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "1870/5800",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1128.4279,
+                  "Y": 295.8521
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 13,
+                  "B": 13
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8816,
+                  "Y": 0.4109
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 1068.9279,
+                "RightMargin": 92.0721,
+                "TopMargin": 409.1479,
+                "BottomMargin": 280.8521,
+                "Tag": 406,
+                "ActionTag": 716280426,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 30.0
+                },
+                "Name": "textTiao_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "活动时间：4月15日到12月29日  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.066,
+                  "Y": 37.2786
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 240,
+                  "G": 214,
+                  "B": 159
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0399,
+                  "Y": 0.0518
+                },
+                "PreSize": {
+                  "X": 0.3789,
+                  "Y": 0.0583
+                },
+                "LeftMargin": 51.066,
+                "RightMargin": 743.934,
+                "TopMargin": 661.7214,
+                "BottomMargin": 16.2786,
+                "Tag": 410,
+                "ActionTag": 1350028865,
+                "Size": {
+                  "X": 485.0,
+                  "Y": 42.0
+                },
+                "Name": "text_time",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -646496310,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "back",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "chargePrize/bg_1.png",
+        "chargePrize/bg_2.png",
+        "chargePrize/bg_3.png",
+        "chargePrize/bg_4.png",
+        "chargePrize/btn_go.png",
+        "chargePrize/close.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,197 @@
+{
+  "ID": "efe54598-6723-480b-a90d-3c3cf413c8f1",
+  "Version": "2.3.4",
+  "Name": "shareLiQuanLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 239,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 155,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.048,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 2.048,
+            "RightMargin": -2.0481,
+            "Tag": 240,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "share/liquan.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 148,
+                "Scale9OriginY": 139,
+                "Scale9Width": 556,
+                "Scale9Height": 309,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 631.6281,
+                  "Y": 408.4104
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4935,
+                  "Y": 0.5672
+                },
+                "PreSize": {
+                  "X": 0.6656,
+                  "Y": 0.8153
+                },
+                "LeftMargin": 205.6281,
+                "RightMargin": 222.3719,
+                "TopMargin": 18.0896,
+                "BottomMargin": 114.9104,
+                "Tag": 273,
+                "Children": [
+                  {
+                    "FontSize": 45,
+                    "LabelText": "      恭喜您获得 2.50元  礼券，请前往往邮件领取奖励     ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 436.2817,
+                      "Y": 3.6558
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 240,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5121,
+                      "Y": 0.0062
+                    },
+                    "PreSize": {
+                      "X": 1.2923,
+                      "Y": 0.092
+                    },
+                    "LeftMargin": -114.2183,
+                    "RightMargin": -134.7817,
+                    "TopMargin": 556.3442,
+                    "BottomMargin": -23.3442,
+                    "Tag": 9,
+                    "ActionTag": -574123315,
+                    "Size": {
+                      "X": 1101.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1948343129,
+                "Size": {
+                  "X": 852.0,
+                  "Y": 587.0
+                },
+                "Name": "back",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1438951671,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "share/liquan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

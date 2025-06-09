@@ -1,0 +1,745 @@
+{
+  "ID": "d27339af-43ee-4cea-bca6-88ffd5b2999c",
+  "Version": "2.3.4",
+  "Name": "friendcard_SXF_safeBox",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 138,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.3333,
+              "Y": 1.125
+            },
+            "LeftMargin": -160.0,
+            "RightMargin": -160.0,
+            "TopMargin": -40.0,
+            "BottomMargin": -40.0,
+            "Tag": 606,
+            "ActionTag": -2117929904,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "friendCards_SXF/safeBox/safebox_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 252,
+            "Scale9OriginY": 196,
+            "Scale9Width": 261,
+            "Scale9Height": 204,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7969,
+              "Y": 0.9312
+            },
+            "LeftMargin": 97.5,
+            "RightMargin": 97.5,
+            "TopMargin": 22.0,
+            "BottomMargin": 22.0,
+            "Tag": 140,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/btn_ok.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 142,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.151
+                },
+                "PreSize": {
+                  "X": 0.2248,
+                  "Y": 0.1107
+                },
+                "LeftMargin": 296.5,
+                "RightMargin": 296.5,
+                "TopMargin": 473.0,
+                "BottomMargin": 57.0,
+                "Tag": 141,
+                "ActionTag": -1416149618,
+                "Size": {
+                  "X": 172.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/btn_cun.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/btn_cun.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 272,
+                "Scale9Height": 24,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 460.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7718
+                },
+                "PreSize": {
+                  "X": 0.3948,
+                  "Y": 0.0772
+                },
+                "LeftMargin": 231.5,
+                "RightMargin": 231.5,
+                "TopMargin": 113.0,
+                "BottomMargin": 437.0,
+                "Tag": 631,
+                "ActionTag": -214368243,
+                "Size": {
+                  "X": 302.0,
+                  "Y": 46.0
+                },
+                "Name": "btn_cun",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/btn_qu.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/btn_qu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 272,
+                "Scale9Height": 24,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 460.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7718
+                },
+                "PreSize": {
+                  "X": 0.3948,
+                  "Y": 0.0772
+                },
+                "LeftMargin": 231.5,
+                "RightMargin": 231.5,
+                "TopMargin": 113.0,
+                "BottomMargin": 437.0,
+                "Tag": 636,
+                "ActionTag": -415345050,
+                "Size": {
+                  "X": 302.0,
+                  "Y": 46.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_qu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/inputbox.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 117,
+                "Scale9OriginY": 17,
+                "Scale9Width": 122,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 380.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6376
+                },
+                "PreSize": {
+                  "X": 0.4654,
+                  "Y": 0.0872
+                },
+                "LeftMargin": 204.5,
+                "RightMargin": 204.5,
+                "TopMargin": 190.0,
+                "BottomMargin": 354.0,
+                "Tag": 632,
+                "ActionTag": -1360560740,
+                "Size": {
+                  "X": 356.0,
+                  "Y": 52.0
+                },
+                "Name": "Image_inputBox",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "正在获取当前乐豆",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5369
+                },
+                "PreSize": {
+                  "X": 0.2758,
+                  "Y": 0.0503
+                },
+                "LeftMargin": 277.0,
+                "RightMargin": 277.0,
+                "TopMargin": 261.0,
+                "BottomMargin": 305.0,
+                "Tag": 634,
+                "ActionTag": 2044733464,
+                "Size": {
+                  "X": 211.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_dqldNum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "正在获取银行乐豆",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 280.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4698
+                },
+                "PreSize": {
+                  "X": 0.2758,
+                  "Y": 0.0503
+                },
+                "LeftMargin": 277.0,
+                "RightMargin": 277.0,
+                "TopMargin": 301.0,
+                "BottomMargin": 265.0,
+                "Tag": 808,
+                "ActionTag": -1446112982,
+                "Size": {
+                  "X": 211.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_yhldNum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "按比例存入",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 240.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4027
+                },
+                "PreSize": {
+                  "X": 0.1346,
+                  "Y": 0.0386
+                },
+                "LeftMargin": 331.0,
+                "RightMargin": 331.0,
+                "TopMargin": 344.5,
+                "BottomMargin": 228.5,
+                "Tag": 635,
+                "ActionTag": -158999329,
+                "Size": {
+                  "X": 103.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_cunqu",
+                "ctype": "TextObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/loadingbar1.png",
+                  "Plist": ""
+                },
+                "ProgressBarData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/loadingbar2.png",
+                  "Plist": ""
+                },
+                "BallNormalData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/slidebar.png",
+                  "Plist": ""
+                },
+                "BallPressedData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/slidebar.png",
+                  "Plist": ""
+                },
+                "BallDisabledData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/slidebar.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 180.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.302
+                },
+                "PreSize": {
+                  "X": 0.6536,
+                  "Y": 0.0336
+                },
+                "LeftMargin": 132.5,
+                "RightMargin": 132.5,
+                "TopMargin": 406.0,
+                "BottomMargin": 170.0,
+                "Tag": 700,
+                "ActionTag": -933291235,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 20.0
+                },
+                "Name": "Slider_1",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "0%",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 132.0,
+                  "Y": 215.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1725,
+                  "Y": 0.3607
+                },
+                "PreSize": {
+                  "X": 0.0444,
+                  "Y": 0.0386
+                },
+                "LeftMargin": 115.0,
+                "RightMargin": 616.0,
+                "TopMargin": 369.5,
+                "BottomMargin": 203.5,
+                "Tag": 701,
+                "ActionTag": 864385052,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_bili",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "friendCards_SXF/safeBox/safebox_title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 8,
+                "Scale9Width": 31,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.5,
+                  "Y": 560.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.94
+                },
+                "PreSize": {
+                  "X": 0.1163,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 338.0,
+                "RightMargin": 338.0,
+                "TopMargin": 22.26,
+                "BottomMargin": 546.74,
+                "Tag": 1246,
+                "ActionTag": -1192719260,
+                "Size": {
+                  "X": 89.0,
+                  "Y": 27.0
+                },
+                "Name": "Image_title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1922592847,
+            "Size": {
+              "X": 765.0,
+              "Y": 596.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "friendCards_SXF/safeBox/btn_cun.png",
+        "friendCards_SXF/safeBox/btn_ok.png",
+        "friendCards_SXF/safeBox/btn_qu.png",
+        "friendCards_SXF/safeBox/inputbox.png",
+        "friendCards_SXF/safeBox/loadingbar1.png",
+        "friendCards_SXF/safeBox/loadingbar2.png",
+        "friendCards_SXF/safeBox/safebox_bg.png",
+        "friendCards_SXF/safeBox/safebox_title.png",
+        "friendCards_SXF/safeBox/slidebar.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

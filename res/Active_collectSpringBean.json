@@ -1,0 +1,3181 @@
+{
+  "ID": "59a16079-7df7-43ee-a07e-bc0a6afb43b9",
+  "Version": "2.3.4",
+  "Name": "Active_collectSpringBean",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 163,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.8836,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.1164,
+            "RightMargin": 0.1165,
+            "Tag": 198,
+            "ActionTag": -1647733156,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "active/active_collectSpringBean/background_bean.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 328,
+            "Scale9OriginY": 230,
+            "Scale9Width": 339,
+            "Scale9Height": 239,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7773,
+              "Y": 0.9708
+            },
+            "LeftMargin": 142.5,
+            "RightMargin": 142.5,
+            "TopMargin": 10.5,
+            "BottomMargin": 10.5,
+            "Tag": 199,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_collectSpringBean/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 8,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 919.2881,
+                  "Y": 593.6031
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9239,
+                  "Y": 0.8492
+                },
+                "PreSize": {
+                  "X": 0.0382,
+                  "Y": 0.0629
+                },
+                "LeftMargin": 900.2881,
+                "RightMargin": 56.7119,
+                "TopMargin": 83.3969,
+                "BottomMargin": 571.6031,
+                "Tag": 185,
+                "ActionTag": -794635820,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 44.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "活动时间：04月20日00:00至04月30日23:59",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 497.5,
+                  "Y": 530.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 11,
+                  "G": 133,
+                  "B": 28
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7582
+                },
+                "PreSize": {
+                  "X": 0.3709,
+                  "Y": 0.03
+                },
+                "LeftMargin": 313.0,
+                "RightMargin": 313.0,
+                "TopMargin": 158.5,
+                "BottomMargin": 519.5,
+                "Tag": 197,
+                "ActionTag": -2006143888,
+                "Size": {
+                  "X": 369.0,
+                  "Y": 21.0
+                },
+                "Name": "Text_time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 125.4095,
+                  "Y": 430.5787
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.126,
+                  "Y": 0.616
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 125.4095,
+                "RightMargin": 869.5905,
+                "TopMargin": 268.4213,
+                "BottomMargin": 430.5787,
+                "Tag": 200,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.9988,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.4988,
+                    "RightMargin": -164.4988,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 202,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 203,
+                        "ActionTag": -206156073,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500礼券",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 96.6505
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.5966
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 54.8495,
+                        "BottomMargin": 86.1505,
+                        "Tag": 204,
+                        "ActionTag": 520164083,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 67.6083
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.4173
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 83.8917,
+                        "BottomMargin": 57.1083,
+                        "Tag": 205,
+                        "ActionTag": -740498374,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_yuanbao",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 206,
+                        "ActionTag": -561731448,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1829749053,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 247.1585,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 180.6585,
+                    "RightMargin": -313.6585,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 207,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 208,
+                        "ActionTag": 1305088216,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500礼券",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 96.6505
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.5966
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 54.8495,
+                        "BottomMargin": 86.1505,
+                        "Tag": 209,
+                        "ActionTag": 485561795,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 67.6083
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.4173
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 83.8917,
+                        "BottomMargin": 57.1083,
+                        "Tag": 210,
+                        "ActionTag": -1735889490,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_yuanbao",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 211,
+                        "ActionTag": 959360031,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 503962288,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 396.3182,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 329.8182,
+                    "RightMargin": -462.8182,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 212,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 213,
+                        "ActionTag": -524604007,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500礼券",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 96.6505
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.5966
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 54.8495,
+                        "BottomMargin": 86.1505,
+                        "Tag": 214,
+                        "ActionTag": -1639169127,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 67.6083
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.4173
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 83.8917,
+                        "BottomMargin": 57.1083,
+                        "Tag": 215,
+                        "ActionTag": -1723928761,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_yuanbao",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 216,
+                        "ActionTag": 2015017491,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1915805300,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 545.478,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 478.978,
+                    "RightMargin": -611.978,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 217,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 218,
+                        "ActionTag": -1412220207,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500礼券",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 96.6505
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.5966
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 54.8495,
+                        "BottomMargin": 86.1505,
+                        "Tag": 219,
+                        "ActionTag": -1422597568,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 67.6083
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.4173
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 83.8917,
+                        "BottomMargin": 57.1083,
+                        "Tag": 220,
+                        "ActionTag": -79998612,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_yuanbao",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 221,
+                        "ActionTag": 843887255,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1921050049,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 694.6378,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 628.1378,
+                    "RightMargin": -761.1378,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 222,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 223,
+                        "ActionTag": -2102753859,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500礼券",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 96.6505
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.5966
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 54.8495,
+                        "BottomMargin": 86.1505,
+                        "Tag": 224,
+                        "ActionTag": -156107680,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_liquan",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500元宝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 67.6083
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.4173
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 83.8917,
+                        "BottomMargin": 57.1083,
+                        "Tag": 225,
+                        "ActionTag": -586089874,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_yuanbao",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 226,
+                        "ActionTag": -1742187497,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 119002540,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_4",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 887773217,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Node_dailijiangli",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 125.33,
+                  "Y": 252.1801
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.126,
+                  "Y": 0.3608
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 125.33,
+                "RightMargin": 869.67,
+                "TopMargin": 446.8199,
+                "BottomMargin": 252.1801,
+                "Tag": 227,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.9988,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.4988,
+                    "RightMargin": -164.4988,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 228,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 229,
+                        "ActionTag": 1165998760,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/libao.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 17,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 18,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.5,
+                          "Y": 79.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4877
+                        },
+                        "PreSize": {
+                          "X": 0.391,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 40.5,
+                        "RightMargin": 40.5,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 44.0,
+                        "Tag": 253,
+                        "ActionTag": -671329402,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 70.0
+                        },
+                        "Name": "Image_libao",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 232,
+                        "ActionTag": -1035944137,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 404919926,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 247.1585,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 180.6585,
+                    "RightMargin": -313.6585,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 233,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 234,
+                        "ActionTag": -198426651,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/libao.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 17,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 18,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.5,
+                          "Y": 79.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4877
+                        },
+                        "PreSize": {
+                          "X": 0.391,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 40.5,
+                        "RightMargin": 40.5,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 44.0,
+                        "Tag": 254,
+                        "ActionTag": 781601100,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 70.0
+                        },
+                        "Name": "Image_libao",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 237,
+                        "ActionTag": 451637363,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1809131241,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 396.3182,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 329.8182,
+                    "RightMargin": -462.8182,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 238,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 239,
+                        "ActionTag": -440299028,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/libao.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 17,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 18,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.5,
+                          "Y": 79.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4877
+                        },
+                        "PreSize": {
+                          "X": 0.391,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 40.5,
+                        "RightMargin": 40.5,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 44.0,
+                        "Tag": 255,
+                        "ActionTag": -1499672722,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 70.0
+                        },
+                        "Name": "Image_libao",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 242,
+                        "ActionTag": 1523191824,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1895325777,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 545.478,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 478.978,
+                    "RightMargin": -611.978,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 243,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 244,
+                        "ActionTag": -1175548801,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/libao.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 17,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 18,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.5,
+                          "Y": 79.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4877
+                        },
+                        "PreSize": {
+                          "X": 0.391,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 40.5,
+                        "RightMargin": 40.5,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 44.0,
+                        "Tag": 256,
+                        "ActionTag": 539226261,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 70.0
+                        },
+                        "Name": "Image_libao",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 247,
+                        "ActionTag": -90482942,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1919740562,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "active/active_collectSpringBean/bean_di_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 53,
+                    "Scale9Width": 47,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 694.6378,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 628.1378,
+                    "RightMargin": -761.1378,
+                    "TopMargin": -81.0,
+                    "BottomMargin": -81.0,
+                    "Tag": 248,
+                    "Children": [
+                      {
+                        "FontSize": 18,
+                        "LabelText": "500春豆",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/lanting.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 39.8628,
+                          "Y": 142.3667
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 194,
+                          "G": 117,
+                          "B": 73
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2997,
+                          "Y": 0.8788
+                        },
+                        "PreSize": {
+                          "X": 0.5414,
+                          "Y": 0.1296
+                        },
+                        "LeftMargin": 39.8628,
+                        "RightMargin": 21.1372,
+                        "TopMargin": 9.1333,
+                        "BottomMargin": 131.8667,
+                        "Tag": 249,
+                        "ActionTag": -211025512,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 21.0
+                        },
+                        "Name": "Text_bean",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/libao.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 17,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 18,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.5,
+                          "Y": 79.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4877
+                        },
+                        "PreSize": {
+                          "X": 0.391,
+                          "Y": 0.4321
+                        },
+                        "LeftMargin": 40.5,
+                        "RightMargin": 40.5,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 44.0,
+                        "Tag": 257,
+                        "ActionTag": 617697573,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 70.0
+                        },
+                        "Name": "Image_libao",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "active/active_collectSpringBean/btn_lingqu.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 78,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.5025,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4925,
+                          "Y": 0.1605
+                        },
+                        "PreSize": {
+                          "X": 0.812,
+                          "Y": 0.2901
+                        },
+                        "LeftMargin": 11.5025,
+                        "RightMargin": 13.4975,
+                        "TopMargin": 112.5,
+                        "BottomMargin": 2.5,
+                        "Tag": 252,
+                        "ActionTag": -1803250591,
+                        "Size": {
+                          "X": 108.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Button_7",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 2033071800,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 162.0
+                    },
+                    "Name": "Item_4",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 2092718441,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Node_quanfujiangli",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "全服春豆：8888888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.0316,
+                  "Y": 93.7874
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3458,
+                  "Y": 0.1342
+                },
+                "PreSize": {
+                  "X": 0.1879,
+                  "Y": 0.0329
+                },
+                "LeftMargin": 344.0316,
+                "RightMargin": 463.9684,
+                "TopMargin": 593.7126,
+                "BottomMargin": 82.2874,
+                "Tag": 258,
+                "ActionTag": -151865613,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_quanfuchundou",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "我的春豆：66666",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.0316,
+                  "Y": 53.7875
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3458,
+                  "Y": 0.0769
+                },
+                "PreSize": {
+                  "X": 0.1638,
+                  "Y": 0.0329
+                },
+                "LeftMargin": 344.0316,
+                "RightMargin": 487.9684,
+                "TopMargin": 633.7125,
+                "BottomMargin": 42.2875,
+                "Tag": 259,
+                "ActionTag": -1373463377,
+                "Size": {
+                  "X": 163.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_wodechundou",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active/active_collectSpringBean/btn_rule.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 119,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 663.2495,
+                  "Y": 76.1079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6666,
+                  "Y": 0.1089
+                },
+                "PreSize": {
+                  "X": 0.1497,
+                  "Y": 0.0773
+                },
+                "LeftMargin": 588.7495,
+                "RightMargin": 257.2505,
+                "TopMargin": 595.8921,
+                "BottomMargin": 49.1079,
+                "Tag": 260,
+                "ActionTag": 1952150194,
+                "Size": {
+                  "X": 149.0,
+                  "Y": 54.0
+                },
+                "Name": "btn_rule",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1782794972,
+            "Size": {
+              "X": 995.0,
+              "Y": 699.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "active/active_collectSpringBean/share.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "active/active_collectSpringBean/share.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 385,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1256.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9812,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.3242,
+              "Y": 0.0653
+            },
+            "LeftMargin": 841.0,
+            "RightMargin": 24.0,
+            "BottomMargin": 673.0,
+            "Tag": 344,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "每天首次分享活动可获得5春豆  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 186.0,
+                  "Y": 23.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4482,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6699,
+                  "Y": 0.4894
+                },
+                "LeftMargin": 47.0,
+                "RightMargin": 90.0,
+                "TopMargin": 12.0,
+                "BottomMargin": 12.0,
+                "Tag": 345,
+                "ActionTag": -1843821627,
+                "Size": {
+                  "X": 278.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 620824549,
+            "Size": {
+              "X": 415.0,
+              "Y": 47.0
+            },
+            "Name": "btn_share",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active/active_collectSpringBean/background_bean.png",
+        "active/active_collectSpringBean/bean_di.png",
+        "active/active_collectSpringBean/bean_di_1.png",
+        "active/active_collectSpringBean/btn_lingqu.png",
+        "active/active_collectSpringBean/btn_rule.png",
+        "active/active_collectSpringBean/close.png",
+        "active/active_collectSpringBean/libao.png",
+        "active/active_collectSpringBean/share.png",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

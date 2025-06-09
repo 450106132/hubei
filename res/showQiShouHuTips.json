@@ -1,0 +1,1105 @@
+{
+  "ID": "ffe3283b-cd46-4472-8a31-a6f294a98139",
+  "Version": "2.3.4",
+  "Name": "showQiShouHuTips",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.8578,
+              "Y": 362.3967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5033
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.1422,
+            "RightMargin": 1.1422,
+            "TopMargin": -2.3967,
+            "BottomMargin": 2.3967,
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "playing/gameTable/bg_qishouhu.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 224,
+            "Scale9OriginY": 183,
+            "Scale9Width": 426,
+            "Scale9Height": 118,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 361.152
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5016
+            },
+            "PreSize": {
+              "X": 0.6828,
+              "Y": 0.6597
+            },
+            "LeftMargin": 203.0,
+            "RightMargin": 203.0,
+            "TopMargin": 121.348,
+            "BottomMargin": 123.652,
+            "Tag": 116,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playing/gameTable/icon_wuhu.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 12,
+                "Scale9Width": 64,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 431.121,
+                  "Y": 241.7883
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4933,
+                  "Y": 0.509
+                },
+                "PreSize": {
+                  "X": 0.2105,
+                  "Y": 0.0821
+                },
+                "LeftMargin": 339.121,
+                "RightMargin": 350.879,
+                "TopMargin": 213.7117,
+                "BottomMargin": 222.2883,
+                "Tag": 484,
+                "ActionTag": -938615404,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 39.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -39.6866,
+                  "Y": 397.8219
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.0454,
+                  "Y": 0.8375
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -39.6866,
+                "RightMargin": 913.6866,
+                "TopMargin": 77.1781,
+                "BottomMargin": 397.8219,
+                "Tag": 512,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game_picture/dating1_06.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 56,
+                    "Scale9Height": 57,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.0,
+                      "Y": 10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.85,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 63.5,
+                    "RightMargin": -176.5,
+                    "TopMargin": -69.0,
+                    "BottomMargin": -49.0,
+                    "Tag": 513,
+                    "ActionTag": -1639163883,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 118.0
+                    },
+                    "Name": "nobody",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 750,
+                      "Height": 100
+                    },
+                    "ScrollDirectionType": "Horizontal",
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 178.9999,
+                      "Y": -38.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 178.9999,
+                    "RightMargin": -878.9999,
+                    "TopMargin": -62.0,
+                    "BottomMargin": -38.0,
+                    "Tag": 520,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 73.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.73
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": -37.0001,
+                        "BottomMargin": 9.0001,
+                        "Tag": 514,
+                        "ActionTag": 1632207030,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.25
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": 11.0,
+                        "BottomMargin": -39.0,
+                        "Tag": 515,
+                        "ActionTag": -1784960931,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1980133539,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 100.0
+                    },
+                    "Name": "ScrollView_1",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": -860318599,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -39.6866,
+                  "Y": 283.6588
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.0454,
+                  "Y": 0.5972
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -39.6866,
+                "RightMargin": 913.6866,
+                "TopMargin": 191.3412,
+                "BottomMargin": 283.6588,
+                "Tag": 516,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game_picture/dating1_06.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 56,
+                    "Scale9Height": 57,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.0,
+                      "Y": 10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.85,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 63.5,
+                    "RightMargin": -176.5,
+                    "TopMargin": -69.0,
+                    "BottomMargin": -49.0,
+                    "Tag": 517,
+                    "ActionTag": 50754218,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 118.0
+                    },
+                    "Name": "nobody",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 750,
+                      "Height": 100
+                    },
+                    "ScrollDirectionType": "Horizontal",
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 178.9999,
+                      "Y": -48.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 178.9999,
+                    "RightMargin": -878.9999,
+                    "TopMargin": -52.0,
+                    "BottomMargin": -48.0,
+                    "Tag": 521,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 73.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.73
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": -37.0001,
+                        "BottomMargin": 9.0001,
+                        "Tag": 522,
+                        "ActionTag": 960137668,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.25
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": 11.0,
+                        "BottomMargin": -39.0,
+                        "Tag": 523,
+                        "ActionTag": -1864755739,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 342292824,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 100.0
+                    },
+                    "Name": "ScrollView_1",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": -1467761012,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -39.6866,
+                  "Y": 169.4958
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.0454,
+                  "Y": 0.3568
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -39.6866,
+                "RightMargin": 913.6866,
+                "TopMargin": 305.5042,
+                "BottomMargin": 169.4958,
+                "Tag": 520,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game_picture/dating1_06.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 56,
+                    "Scale9Height": 57,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.0,
+                      "Y": 10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.85,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 63.5,
+                    "RightMargin": -176.5,
+                    "TopMargin": -69.0,
+                    "BottomMargin": -49.0,
+                    "Tag": 521,
+                    "ActionTag": 292109341,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 118.0
+                    },
+                    "Name": "nobody",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 750,
+                      "Height": 100
+                    },
+                    "ScrollDirectionType": "Horizontal",
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 178.9999,
+                      "Y": -40.0004
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 178.9999,
+                    "RightMargin": -878.9999,
+                    "TopMargin": -59.9996,
+                    "BottomMargin": -40.0004,
+                    "Tag": 524,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 73.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.73
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": -37.0001,
+                        "BottomMargin": 9.0001,
+                        "Tag": 525,
+                        "ActionTag": -2083642750,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.25
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": 11.0,
+                        "BottomMargin": -39.0,
+                        "Tag": 526,
+                        "ActionTag": 1722376233,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 186861964,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 100.0
+                    },
+                    "Name": "ScrollView_1",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": 1888768346,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -39.6867,
+                  "Y": 55.3327
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.0454,
+                  "Y": 0.1165
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -39.6867,
+                "RightMargin": 913.6867,
+                "TopMargin": 419.6673,
+                "BottomMargin": 55.3327,
+                "Tag": 524,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game_picture/dating1_06.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 56,
+                    "Scale9Height": 57,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.0,
+                      "Y": 10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.85,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 63.5,
+                    "RightMargin": -176.5,
+                    "TopMargin": -69.0,
+                    "BottomMargin": -49.0,
+                    "Tag": 525,
+                    "ActionTag": -1722705760,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 118.0
+                    },
+                    "Name": "nobody",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 750,
+                      "Height": 100
+                    },
+                    "ScrollDirectionType": "Horizontal",
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 179.0,
+                      "Y": -38.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 179.0,
+                    "RightMargin": -879.0,
+                    "TopMargin": -62.0,
+                    "BottomMargin": -38.0,
+                    "Tag": 527,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 73.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.73
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": -37.0001,
+                        "BottomMargin": 9.0001,
+                        "Tag": 528,
+                        "ActionTag": -193325762,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "playing/MJ/Mj_up_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 69,
+                        "Scale9Height": 92,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 19.0317,
+                          "Y": 25.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.35,
+                          "ScaleY": 0.35
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0254,
+                          "Y": 0.25
+                        },
+                        "PreSize": {
+                          "X": 0.1213,
+                          "Y": 1.28
+                        },
+                        "LeftMargin": -26.4683,
+                        "RightMargin": 685.4683,
+                        "TopMargin": 11.0,
+                        "BottomMargin": -39.0,
+                        "Tag": 529,
+                        "ActionTag": -1560996694,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 128.0
+                        },
+                        "Name": "out1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 44789317,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 100.0
+                    },
+                    "Name": "ScrollView_1",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": -1697848608,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_3",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1692587304,
+            "Size": {
+              "X": 874.0,
+              "Y": 475.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "game_picture/dating1_06.png",
+        "playing/gameTable/bg_qishouhu.png",
+        "playing/gameTable/icon_wuhu.png",
+        "playing/MJ/Mj_up_4.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

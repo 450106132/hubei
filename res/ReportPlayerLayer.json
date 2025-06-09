@@ -1,0 +1,1092 @@
+{
+  "ID": "8f74fbf2-d43a-4dcb-a47d-22ef32cc72b1",
+  "Version": "2.3.4",
+  "Name": "ReportPlayerLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 536,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 207,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.104,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4993,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.896,
+            "RightMargin": 0.896,
+            "Tag": 592,
+            "ActionTag": -195816483,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "reportPlayer/bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 253,
+            "Scale9OriginY": 151,
+            "Scale9Width": 211,
+            "Scale9Height": 156,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5602,
+              "Y": 0.6361
+            },
+            "LeftMargin": 281.5,
+            "RightMargin": 281.5,
+            "TopMargin": 131.0,
+            "BottomMargin": 131.0,
+            "Tag": 565,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/btn_cancle.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 51,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 217.5001,
+                  "Y": 74.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3033,
+                  "Y": 0.1616
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.1594
+                },
+                "LeftMargin": 117.5001,
+                "RightMargin": 399.4999,
+                "TopMargin": 347.5,
+                "BottomMargin": 37.5,
+                "Tag": 566,
+                "ActionTag": 1567929156,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 73.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/input_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 198,
+                "Scale9OriginY": 16,
+                "Scale9Width": 207,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 358.4999,
+                  "Y": 387.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8472
+                },
+                "PreSize": {
+                  "X": 0.841,
+                  "Y": 0.1114
+                },
+                "LeftMargin": 56.9999,
+                "RightMargin": 57.0001,
+                "TopMargin": 44.5002,
+                "BottomMargin": 362.4998,
+                "Tag": 622,
+                "ActionTag": 44849885,
+                "Size": {
+                  "X": 603.0,
+                  "Y": 51.0
+                },
+                "Name": "ID_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 106.9113,
+                  "Y": 320.959
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1491,
+                  "Y": 0.7008
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 83.9113,
+                "RightMargin": 587.0886,
+                "TopMargin": 117.541,
+                "BottomMargin": 301.459,
+                "Tag": 623,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "外挂作弊",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8913,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -87.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 624,
+                    "ActionTag": 1188190311,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 830392941,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_0",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 307.0374,
+                  "Y": 320.959
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4282,
+                  "Y": 0.7008
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 284.0374,
+                "RightMargin": 386.9626,
+                "TopMargin": 117.541,
+                "BottomMargin": 301.459,
+                "Tag": 625,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "虚假欺诈",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8696,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -86.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 626,
+                    "ActionTag": 1377560687,
+                    "Size": {
+                      "X": 86.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1064998369,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_1",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 507.1618,
+                  "Y": 320.959
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7073,
+                  "Y": 0.7008
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 484.1618,
+                "RightMargin": 186.8382,
+                "TopMargin": 117.541,
+                "BottomMargin": 301.459,
+                "Tag": 627,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "非法赌博",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8913,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -87.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 628,
+                    "ActionTag": -199911833,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -515675541,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_2",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 106.9116,
+                  "Y": 270.0118
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1491,
+                  "Y": 0.5895
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 83.9116,
+                "RightMargin": 587.0884,
+                "TopMargin": 168.4882,
+                "BottomMargin": 250.5118,
+                "Tag": 629,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "恶意挂机",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8913,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -87.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 630,
+                    "ActionTag": 1671204400,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1183043428,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_3",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 307.0376,
+                  "Y": 270.0118
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4282,
+                  "Y": 0.5895
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 284.0376,
+                "RightMargin": 386.9624,
+                "TopMargin": 168.4882,
+                "BottomMargin": 250.5118,
+                "Tag": 631,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "语言辱骂",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8696,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -86.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 632,
+                    "ActionTag": 1188047864,
+                    "Size": {
+                      "X": 86.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1727808077,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_4",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/unSelect.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/select.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 507.1618,
+                  "Y": 270.0118
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7073,
+                  "Y": 0.5895
+                },
+                "PreSize": {
+                  "X": 0.0642,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 484.1618,
+                "RightMargin": 186.8382,
+                "TopMargin": 168.4882,
+                "BottomMargin": 250.5118,
+                "Tag": 633,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "广告骚扰",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.0,
+                      "Y": 14.4997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 177,
+                      "G": 126,
+                      "B": 75
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.3718
+                    },
+                    "PreSize": {
+                      "X": 1.8913,
+                      "Y": 0.6154
+                    },
+                    "LeftMargin": 46.0,
+                    "RightMargin": -87.0,
+                    "TopMargin": 12.5003,
+                    "BottomMargin": 2.4997,
+                    "Tag": 634,
+                    "ActionTag": 1137852752,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1565229228,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 39.0
+                },
+                "Name": "CheckBox_5",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/reason_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 198,
+                "Scale9OriginY": 33,
+                "Scale9Width": 206,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 358.5001,
+                  "Y": 173.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3777
+                },
+                "PreSize": {
+                  "X": 0.8396,
+                  "Y": 0.2205
+                },
+                "LeftMargin": 57.5001,
+                "RightMargin": 57.4999,
+                "TopMargin": 234.5,
+                "BottomMargin": 122.5,
+                "Tag": 635,
+                "ActionTag": 1816942516,
+                "Size": {
+                  "X": 602.0,
+                  "Y": 101.0
+                },
+                "Name": "des_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "reportPlayer/btn_sure.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 499.4998,
+                  "Y": 74.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6967,
+                  "Y": 0.1616
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.1616
+                },
+                "LeftMargin": 399.4998,
+                "RightMargin": 117.5002,
+                "TopMargin": 347.0,
+                "BottomMargin": 37.0,
+                "Tag": 636,
+                "ActionTag": 1131901105,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 74.0
+                },
+                "Name": "btn_sure",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1277120166,
+            "Size": {
+              "X": 717.0,
+              "Y": 458.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBoxNode_Disable.png",
+        "fonts/lanting.TTF",
+        "reportPlayer/bg.png",
+        "reportPlayer/btn_cancle.png",
+        "reportPlayer/btn_sure.png",
+        "reportPlayer/input_bg.png",
+        "reportPlayer/reason_bg.png",
+        "reportPlayer/select.png",
+        "reportPlayer/unSelect.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

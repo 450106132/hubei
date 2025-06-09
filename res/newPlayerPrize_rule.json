@@ -1,0 +1,496 @@
+{
+  "ID": "78c31ab4-1ec1-445c-aab2-e98bae10846a",
+  "Version": "2.3.4",
+  "Name": "newPlayerPrize_rule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 119,
+            "ActionTag": 1311376693,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "newPlayerPrize/rule_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 169,
+            "Scale9OriginY": 141,
+            "Scale9Width": 770,
+            "Scale9Height": 298,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 349.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.485
+            },
+            "PreSize": {
+              "X": 0.8656,
+              "Y": 0.8056
+            },
+            "LeftMargin": 86.0,
+            "RightMargin": 86.0,
+            "TopMargin": 80.8,
+            "BottomMargin": 59.2,
+            "Tag": 116,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/rule_title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 79,
+                "Scale9OriginY": 8,
+                "Scale9Width": 84,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 562.8568,
+                  "Y": 541.6974
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.508,
+                  "Y": 0.934
+                },
+                "PreSize": {
+                  "X": 0.2184,
+                  "Y": 0.0466
+                },
+                "LeftMargin": 441.8568,
+                "RightMargin": 424.1432,
+                "TopMargin": 24.8026,
+                "BottomMargin": 528.1974,
+                "Tag": 36,
+                "ActionTag": 454519071,
+                "Size": {
+                  "X": 242.0,
+                  "Y": 27.0
+                },
+                "Name": "img_top",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "福利说明",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 511.6791,
+                  "Y": 464.7058
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 211,
+                  "G": 38,
+                  "B": 1
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4618,
+                  "Y": 0.8012
+                },
+                "PreSize": {
+                  "X": 0.1155,
+                  "Y": 0.0569
+                },
+                "LeftMargin": 447.6791,
+                "RightMargin": 532.3209,
+                "TopMargin": 98.7942,
+                "BottomMargin": 448.2058,
+                "Tag": 571,
+                "ActionTag": 1594375347,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 33.0
+                },
+                "Name": "title1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 1200,
+                  "Height": 440
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 549.5261,
+                  "Y": 220.6407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.496,
+                  "Y": 0.3804
+                },
+                "PreSize": {
+                  "X": 0.9025,
+                  "Y": 0.7586
+                },
+                "LeftMargin": 49.5261,
+                "RightMargin": 58.4739,
+                "TopMargin": 139.3593,
+                "BottomMargin": 0.6407,
+                "Tag": 570,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1、新用户进入游戏前6天内完成新人任务即可获得相应活跃度，活跃度达到一定数量可领取宝箱奖励",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 511.3622,
+                      "Y": 430.1766
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 68,
+                      "G": 51,
+                      "B": 51
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4261,
+                      "Y": 0.9777
+                    },
+                    "PreSize": {
+                      "X": 0.8333,
+                      "Y": 0.7955
+                    },
+                    "LeftMargin": 11.3622,
+                    "RightMargin": 188.6378,
+                    "TopMargin": 9.8234,
+                    "BottomMargin": 80.1766,
+                    "Tag": 231,
+                    "ActionTag": 702819325,
+                    "Size": {
+                      "X": 1000.0,
+                      "Y": 350.0
+                    },
+                    "Name": "content1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1279693033,
+                "Size": {
+                  "X": 1000.0,
+                  "Y": 440.0
+                },
+                "Name": "contentScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "newPlayerPrize/rule_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 135,
+                "Scale9Height": 140,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1093.2563,
+                  "Y": 517.1218
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9867,
+                  "Y": 0.8916
+                },
+                "PreSize": {
+                  "X": 0.1489,
+                  "Y": 0.2793
+                },
+                "LeftMargin": 1010.7563,
+                "RightMargin": -67.7563,
+                "TopMargin": -18.1218,
+                "BottomMargin": 436.1218,
+                "Tag": 787,
+                "ActionTag": -1382836787,
+                "Size": {
+                  "X": 165.0,
+                  "Y": 162.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "温馨提示：如有疑问，请咨询公众号（qxxuzhou）",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 553.7258,
+                  "Y": 55.2276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 68,
+                  "G": 51,
+                  "B": 51
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4998,
+                  "Y": 0.0952
+                },
+                "PreSize": {
+                  "X": 0.3971,
+                  "Y": 0.0414
+                },
+                "LeftMargin": 333.7258,
+                "RightMargin": 334.2742,
+                "TopMargin": 512.7725,
+                "BottomMargin": 43.2276,
+                "Tag": 378,
+                "ActionTag": 1854075163,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 24.0
+                },
+                "VisibleForFrame": false,
+                "Alpha": 0,
+                "Name": "tipText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1692587304,
+            "Size": {
+              "X": 1108.0,
+              "Y": 580.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "newPlayerPrize/rule_bg.png",
+        "newPlayerPrize/rule_close.png",
+        "newPlayerPrize/rule_title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

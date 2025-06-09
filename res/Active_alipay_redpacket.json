@@ -1,0 +1,483 @@
+{
+  "ID": "f279b16f-c852-427f-9292-c1228d2957ab",
+  "Version": "2.3.4",
+  "Name": "Active_alipay_redpacket",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.8836,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.1164,
+            "RightMargin": 0.1165,
+            "Tag": 118,
+            "ActionTag": -1564807378,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "block",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "active_alipayRedpacket/bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 341,
+            "Scale9OriginY": 198,
+            "Scale9Width": 354,
+            "Scale9Height": 206,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8094,
+              "Y": 0.8361
+            },
+            "LeftMargin": 122.0,
+            "RightMargin": 122.0,
+            "TopMargin": 59.0,
+            "BottomMargin": 59.0,
+            "Tag": 119,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_alipayRedpacket/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 11,
+                "Scale9Height": 20,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 989.7931,
+                  "Y": 564.4396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9554,
+                  "Y": 0.9376
+                },
+                "PreSize": {
+                  "X": 0.0396,
+                  "Y": 0.0698
+                },
+                "LeftMargin": 969.2931,
+                "RightMargin": 25.7069,
+                "TopMargin": 16.5604,
+                "BottomMargin": 543.4396,
+                "Tag": 105,
+                "ActionTag": 1109361050,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 42.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_alipayRedpacket/logo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 17,
+                "Scale9Width": 60,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 413.5184,
+                  "Y": 540.7188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3991,
+                  "Y": 0.8982
+                },
+                "PreSize": {
+                  "X": 0.166,
+                  "Y": 0.0864
+                },
+                "LeftMargin": 327.5184,
+                "RightMargin": 536.4816,
+                "TopMargin": 35.2813,
+                "BottomMargin": 514.7188,
+                "Tag": 120,
+                "ActionTag": -437235280,
+                "Size": {
+                  "X": 172.0,
+                  "Y": 52.0
+                },
+                "Name": "logo",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "active_alipayRedpacket/alipay.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 48,
+                "Scale9OriginY": 17,
+                "Scale9Width": 51,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 620.6499,
+                  "Y": 540.7188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5991,
+                  "Y": 0.8982
+                },
+                "PreSize": {
+                  "X": 0.1419,
+                  "Y": 0.0864
+                },
+                "LeftMargin": 547.1499,
+                "RightMargin": 341.8501,
+                "TopMargin": 35.2813,
+                "BottomMargin": 514.7188,
+                "Tag": 121,
+                "ActionTag": 19928342,
+                "Size": {
+                  "X": 147.0,
+                  "Y": 52.0
+                },
+                "Name": "alipay",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "牌友联盟游戏联合支付宝",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/fzcy.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 518.0001,
+                  "Y": 315.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 237,
+                  "G": 160,
+                  "B": 79
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5233
+                },
+                "PreSize": {
+                  "X": 0.3147,
+                  "Y": 0.0698
+                },
+                "LeftMargin": 355.0001,
+                "RightMargin": 354.9999,
+                "TopMargin": 266.0,
+                "BottomMargin": 294.0,
+                "Tag": 122,
+                "ActionTag": 1566597093,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 42.0
+                },
+                "Name": "Text_des",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "648876394",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 371.0004,
+                  "Y": 165.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 254,
+                  "G": 12,
+                  "B": 1
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3581,
+                  "Y": 0.2741
+                },
+                "PreSize": {
+                  "X": 0.1496,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 371.0004,
+                "RightMargin": 509.9996,
+                "TopMargin": 421.0,
+                "BottomMargin": 149.0,
+                "Tag": 123,
+                "ActionTag": -485821611,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 32.0
+                },
+                "Name": "Text_num",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "active_alipayRedpacket/btn_copy.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "active_alipayRedpacket/btn_copy.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 183,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 695.7635,
+                  "Y": 166.8787
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6716,
+                  "Y": 0.2772
+                },
+                "PreSize": {
+                  "X": 0.2056,
+                  "Y": 0.1429
+                },
+                "LeftMargin": 589.2635,
+                "RightMargin": 233.7365,
+                "TopMargin": 392.1213,
+                "BottomMargin": 123.8787,
+                "Tag": 124,
+                "ActionTag": 1881155998,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 86.0
+                },
+                "Name": "btn_copy",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1955312476,
+            "Size": {
+              "X": 1036.0,
+              "Y": 602.0
+            },
+            "Name": "back",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "active_alipayRedpacket/alipay.png",
+        "active_alipayRedpacket/bg.png",
+        "active_alipayRedpacket/btn_copy.png",
+        "active_alipayRedpacket/close.png",
+        "active_alipayRedpacket/logo.png",
+        "fonts/fzcy.ttf",
+        "fonts/lanting.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
